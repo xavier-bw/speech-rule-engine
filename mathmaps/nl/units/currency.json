@@ -6,8 +6,8 @@
     "key": "$",
     "mappings": {
       "default": {
-        "default": "doller",
-        "plural": "dollers"
+        "default": "dollar",
+        "plural": "dolleas"
       }
     }
   },
@@ -16,7 +16,7 @@
     "mappings": {
       "default": {
         "default": "pond",
-        "plural": "ponde"
+        "plural": "ponden"
       }
     }
   },
@@ -24,8 +24,8 @@
     "key": "¥",
     "mappings": {
       "default": {
-        "default": "jen",
-        "plural": "jen"
+        "default": "yen",
+        "plural": "yen"
       }
     }
   },
@@ -42,8 +42,8 @@
     "key": "₡",
     "mappings": {
       "default": {
-        "default": "dubbelpunt",
-        "plural": "dubbelpunte"
+        "default": "colon",
+        "plural": "colon"
       }
     }
   },
@@ -61,7 +61,7 @@
     "mappings": {
       "default": {
         "default": "frank",
-        "plural": "franke"
+        "plural": "franken"
       }
     }
   },
@@ -70,7 +70,7 @@
     "mappings": {
       "default": {
         "default": "lier",
-        "plural": "liere"
+        "plural": "lieres"
       }
     }
   },
@@ -248,8 +248,8 @@
     "key": "¢",
     "mappings": {
       "default": {
-        "default": "sent",
-        "plural": "sente"
+        "default": "cent",
+        "plural": "cent"
       }
     }
   }

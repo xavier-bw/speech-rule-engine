@@ -6,8 +6,7 @@
     "key": "F",
     "mappings": {
       "default": {
-        "default": "Fahrenheit",
-        "plural": "Fahrenheit"
+        "default": "Fahrenheit"
       }
     }
   },
@@ -15,8 +14,7 @@
     "key": "C",
     "mappings": {
       "default": {
-        "default": "Selsius",
-        "alternative": "Centigrade"
+        "default": "Celsius"
       }
     }
   },
@@ -24,8 +22,7 @@
     "key": "K",
     "mappings": {
       "default": {
-        "default": "Kelvin",
-        "plural": "Kelvin"
+        "default": "Kelvin"
       }
     }
   }

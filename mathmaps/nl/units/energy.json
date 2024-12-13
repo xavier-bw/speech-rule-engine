@@ -15,8 +15,8 @@
     "key": "kwh",
     "mappings": {
       "default": {
-        "default": "kilowatt uur",
-        "plural": "kilowatt uur"
+        "default": "kilowattuur",
+        "plural": "kilowattuur"
       }
     }
   },
@@ -42,8 +42,8 @@
     "key": "A",
     "mappings": {
       "default": {
-        "default": "ampere",
-        "plural": "ampere"
+        "default": "ampère",
+        "plural": "ampère"
       }
     }
   },
@@ -78,24 +78,20 @@
     "key": "MΩ",
     "mappings": {
       "default": {
-        "default": "megohm",
-        "plural": "megohm"
+        "default": "mega-ohm",
+        "plural": "mega=ohm"
       }
     },
-    "names": [
-      "MΩ"
-    ]
+    "names": ["MΩ"]
   },
   {
     "key": "kΩ",
     "mappings": {
       "default": {
-        "default": "kilohm",
-        "plural": "kilohm"
+        "default": "kilo-ohm",
+        "plural": "kilo-ohm"
       }
     },
-    "names": [
-      "kΩ"
-    ]
+    "names": ["kΩ"]
   }
 ]

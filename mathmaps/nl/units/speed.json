@@ -7,7 +7,7 @@
     "mappings": {
       "default": {
         "default": "knoop",
-        "plural": "knope"
+        "plural": "knopen"
       }
     }
   },
@@ -15,8 +15,8 @@
     "key": "mph",
     "mappings": {
       "default": {
-        "default": "myl per uur",
-        "plural": "myl per uur"
+        "default": "mijl per uur",
+        "plural": "mijl per uur"
       }
     }
   },
@@ -24,8 +24,8 @@
     "key": "rpm",
     "mappings": {
       "default": {
-        "default": "revolusie per minuut",
-        "plural": "revolusies per minuut"
+        "default": "omwenteling per minuut",
+        "plural": "omwentelingen per minuut"
       }
     }
   },

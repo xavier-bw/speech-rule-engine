@@ -6,8 +6,8 @@
     "key": "dram",
     "mappings": {
       "default": {
-        "default": "dragme",
-        "plural": "dragmes"
+        "default": "drachme",
+        "plural": "drachmes"
       }
     }
   },
@@ -16,7 +16,7 @@
     "mappings": {
       "default": {
         "default": "ons",
-        "plural": "onse"
+        "plural": "ons"
       }
     }
   },
@@ -33,8 +33,8 @@
     "key": "st",
     "mappings": {
       "default": {
-        "default": "klip",
-        "plural": "klippe"
+        "default": "stone",
+        "plural": "stone"
       }
     }
   },
@@ -43,7 +43,7 @@
     "mappings": {
       "default": {
         "default": "kwart",
-        "plural": "kwarte"
+        "plural": "kwarten"
       }
     }
   },
@@ -51,8 +51,8 @@
     "key": "cwt",
     "mappings": {
       "default": {
-        "default": "honderdgewig",
-        "plural": "honderdgewigte"
+        "default": "honderdgewicht",
+        "plural": "honderdgewichten"
       }
     }
   },
@@ -87,8 +87,8 @@
     "key": "mcg",
     "mappings": {
       "default": {
-        "default": "mikrogram",
-        "plural": "mikrogram"
+        "default": "microgram",
+        "plural": "microgram"
       }
     }
   },

@@ -6,7 +6,7 @@
     "key": "0028",
     "mappings": {
       "default": {
-        "default": "links hakkie"
+        "default": "links haakje"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "0029",
     "mappings": {
       "default": {
-        "default": "regs hakkie"
+        "default": "rechts haakje"
       }
     }
   },
@@ -22,7 +22,7 @@
     "key": "005B",
     "mappings": {
       "default": {
-        "default": "links blokhakkie"
+        "default": "links blokhaakje"
       }
     }
   },
@@ -30,7 +30,7 @@
     "key": "005D",
     "mappings": {
       "default": {
-        "default": "regs blokhakkie"
+        "default": "rechts blokhaakje"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "007B",
     "mappings": {
       "default": {
-        "default": "links krulhakkie"
+        "default": "links krulhaakje"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "007D",
     "mappings": {
       "default": {
-        "default": "regs krulhakkie"
+        "default": "rechts krulhaakje"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "2045",
     "mappings": {
       "default": {
-        "default": "links blokhakkie met veer"
+        "default": "links blokhaakje met veer"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "2046",
     "mappings": {
       "default": {
-        "default": "regs blokhakkie met veer"
+        "default": "rechts blokhaakje met veer"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "2309",
     "mappings": {
       "default": {
-        "default": "regs plafon"
+        "default": "rechts plafon"
       }
     }
   },
@@ -94,7 +94,7 @@
     "key": "230B",
     "mappings": {
       "default": {
-        "default": "regs vloer"
+        "default": "rechts vloer"
       }
     }
   },
@@ -134,7 +134,7 @@
     "key": "231C",
     "mappings": {
       "default": {
-        "default": "boonste linker hoek"
+        "default": "bovenste linker hoek"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "231D",
     "mappings": {
       "default": {
-        "default": "boonste regter hoek"
+        "default": "bovenste rechter hoek"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "231F",
     "mappings": {
       "default": {
-        "default": "onderste regter hoek"
+        "default": "onderste rechter hoek"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "2320",
     "mappings": {
       "default": {
-        "default": "boonste half integraal"
+        "default": "bovenste half integraal"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "2329",
     "mappings": {
       "default": {
-        "default": "links wysende hoekhakkie",
+        "default": "links wijzende hoekhaakje",
         "physics": "bra"
       }
     }
@@ -191,7 +191,7 @@
     "key": "232A",
     "mappings": {
       "default": {
-        "default": "regs wysende hoekhakkie",
+        "default": "rechts wijzende hoekhaakje",
         "physics": "ket"
       }
     }
@@ -200,7 +200,7 @@
     "key": "239B",
     "mappings": {
       "default": {
-        "default": "links hakkie boonste haak"
+        "default": "links haakje bovenste haak"
       }
     }
   },
@@ -208,7 +208,7 @@
     "key": "239C",
     "mappings": {
       "default": {
-        "default": "links hakkie uitbreiding"
+        "default": "links haakje uitbreiding"
       }
     }
   },
@@ -216,7 +216,7 @@
     "key": "239D",
     "mappings": {
       "default": {
-        "default": "links hakkie onderste haak"
+        "default": "links haakje onderste haak"
       }
     }
   },
@@ -224,7 +224,7 @@
     "key": "239E",
     "mappings": {
       "default": {
-        "default": "regs hakkie boonste haak"
+        "default": "rechts haakje bovenste haak"
       }
     }
   },
@@ -232,7 +232,7 @@
     "key": "239F",
     "mappings": {
       "default": {
-        "default": "regs hakkie uitbreiding"
+        "default": "rechts haakje uitbreiding"
       }
     }
   },
@@ -240,7 +240,7 @@
     "key": "23A0",
     "mappings": {
       "default": {
-        "default": "regs hakkie onderste haak"
+        "default": "rechts haakje onderste haak"
       }
     }
   },
@@ -248,7 +248,7 @@
     "key": "23A1",
     "mappings": {
       "default": {
-        "default": "links blokhakkie boonste hoek"
+        "default": "links blokhaakje bovenste hoek"
       }
     }
   },
@@ -256,7 +256,7 @@
     "key": "23A2",
     "mappings": {
       "default": {
-        "default": "links blokhakkie uitbreiding"
+        "default": "links blokhaakje uitbreiding"
       }
     }
   },
@@ -264,7 +264,7 @@
     "key": "23A3",
     "mappings": {
       "default": {
-        "default": "links blokhakkie onderste hoek"
+        "default": "links blokhaakje onderste hoek"
       }
     }
   },
@@ -272,7 +272,7 @@
     "key": "23A4",
     "mappings": {
       "default": {
-        "default": "regs blokhakkie boonste hoek"
+        "default": "rechts blokhaakje bovenste hoek"
       }
     }
   },
@@ -280,7 +280,7 @@
     "key": "23A5",
     "mappings": {
       "default": {
-        "default": "regs blokhakkie uitbreiding"
+        "default": "rechts blokhaakje uitbreiding"
       }
     }
   },
@@ -288,7 +288,7 @@
     "key": "23A6",
     "mappings": {
       "default": {
-        "default": "regs blokhakkie onderste hoek"
+        "default": "rechts blokhaakje onderste hoek"
       }
     }
   },
@@ -296,7 +296,7 @@
     "key": "23A7",
     "mappings": {
       "default": {
-        "default": "links kru lhakkie boonste haak"
+        "default": "links kru lhaakje bovenste haak"
       }
     }
   },
@@ -304,7 +304,7 @@
     "key": "23A8",
     "mappings": {
       "default": {
-        "default": "links krulhakkie middeldeel"
+        "default": "links krulhaakje middeldeel"
       }
     }
   },
@@ -312,7 +312,7 @@
     "key": "23A9",
     "mappings": {
       "default": {
-        "default": "links krulhakkie onderste haak"
+        "default": "links krulhaakje onderste haak"
       }
     }
   },
@@ -320,7 +320,7 @@
     "key": "23AA",
     "mappings": {
       "default": {
-        "default": "krulhakkie uitbreiding"
+        "default": "krulhaakje uitbreiding"
       }
     }
   },
@@ -328,7 +328,7 @@
     "key": "23AB",
     "mappings": {
       "default": {
-        "default": "regs krulhakkie boonste haak"
+        "default": "rechts krulhaakje bovenste haak"
       }
     }
   },
@@ -336,7 +336,7 @@
     "key": "23AC",
     "mappings": {
       "default": {
-        "default": "regs krulhakkie middeldeel"
+        "default": "rechts krulhaakje middeldeel"
       }
     }
   },
@@ -344,7 +344,7 @@
     "key": "23AD",
     "mappings": {
       "default": {
-        "default": "regs krulhakkie onderste haak"
+        "default": "rechts krulhaakje onderste haak"
       }
     }
   },
@@ -360,7 +360,7 @@
     "key": "23AF",
     "mappings": {
       "default": {
-        "default": "horisontale lyn uitbreiding"
+        "default": "horizontale lijn uitbreiding"
       }
     }
   },
@@ -368,7 +368,7 @@
     "key": "23B0",
     "mappings": {
       "default": {
-        "default": "boonste linker of onderste regs krulhakkie seksie"
+        "default": "bovenste linker of onderste rechts krulhaakje seksie"
       }
     }
   },
@@ -376,7 +376,7 @@
     "key": "23B1",
     "mappings": {
       "default": {
-        "default": "boonste regter of onderste krulhakkie seksie"
+        "default": "bovenste rechter of onderste krulhaakje seksie"
       }
     }
   },
@@ -400,7 +400,7 @@
     "key": "23B4",
     "mappings": {
       "default": {
-        "default": "top blokhakkie"
+        "default": "top blokhaakje"
       }
     }
   },
@@ -408,7 +408,7 @@
     "key": "23B5",
     "mappings": {
       "default": {
-        "default": "onder blokhakkie"
+        "default": "onder blokhaakje"
       }
     }
   },
@@ -416,7 +416,7 @@
     "key": "23B6",
     "mappings": {
       "default": {
-        "default": "onder hakkie oor top hakkie"
+        "default": "onder haakje oor top haakje"
       }
     }
   },
@@ -432,7 +432,7 @@
     "key": "23B8",
     "mappings": {
       "default": {
-        "default": "linker vertikale bokslyn"
+        "default": "linker verticale bokslijn"
       }
     }
   },
@@ -440,7 +440,7 @@
     "key": "23B9",
     "mappings": {
       "default": {
-        "default": "regter vertikale bokslyn"
+        "default": "rechter verticale bokslijn"
       }
     }
   },
@@ -448,7 +448,7 @@
     "key": "23DC",
     "mappings": {
       "default": {
-        "default": "bo hakkie"
+        "default": "boven haakje"
       }
     }
   },
@@ -456,7 +456,7 @@
     "key": "23DD",
     "mappings": {
       "default": {
-        "default": "onder hakkie "
+        "default": "onder haakje "
       }
     }
   },
@@ -464,7 +464,7 @@
     "key": "23DE",
     "mappings": {
       "default": {
-        "default": "bo krulhakkie"
+        "default": "boven krulhaakje"
       }
     }
   },
@@ -472,7 +472,7 @@
     "key": "23DF",
     "mappings": {
       "default": {
-        "default": "onder krulhakkie"
+        "default": "onder krulhaakje"
       }
     }
   },
@@ -480,7 +480,7 @@
     "key": "23E0",
     "mappings": {
       "default": {
-        "default": "bo skilpaddop blokhakkie"
+        "default": "boven skilpaddop blokhaakje"
       }
     }
   },
@@ -488,7 +488,7 @@
     "key": "23E1",
     "mappings": {
       "default": {
-        "default": "onder skilpaddop blokhakkie"
+        "default": "onder skilpaddop blokhaakje"
       }
     }
   },
@@ -496,7 +496,7 @@
     "key": "2768",
     "mappings": {
       "default": {
-        "default": "medium links hakkie ornament"
+        "default": "medium links haakje ornament"
       }
     }
   },
@@ -504,7 +504,7 @@
     "key": "2769",
     "mappings": {
       "default": {
-        "default": "medium regs hakkie ornament"
+        "default": "medium rechts haakje ornament"
       }
     }
   },
@@ -512,7 +512,7 @@
     "key": "276A",
     "mappings": {
       "default": {
-        "default": "medium afgeplatte links hakkie ornament"
+        "default": "medium afgeplatte links haakje ornament"
       }
     }
   },
@@ -520,7 +520,7 @@
     "key": "276B",
     "mappings": {
       "default": {
-        "default": "medium afgeplatte regs hakkie ornament"
+        "default": "medium afgeplatte rechts haakje ornament"
       }
     }
   },
@@ -528,7 +528,7 @@
     "key": "276C",
     "mappings": {
       "default": {
-        "default": "medium linkswysende hoekhakkie ornament"
+        "default": "medium linkswijzende hoekhaakje ornament"
       }
     }
   },
@@ -536,7 +536,7 @@
     "key": "276D",
     "mappings": {
       "default": {
-        "default": "medium regswysende hoekhakkie ornament"
+        "default": "medium rechtswijzende hoekhaakje ornament"
       }
     }
   },
@@ -544,7 +544,7 @@
     "key": "276E",
     "mappings": {
       "default": {
-        "default": "swaar linkswysende hoek aanhalingsteken ornament"
+        "default": "zware linkswijzende hoek aanhalingsteken ornament"
       }
     }
   },
@@ -552,7 +552,7 @@
     "key": "276F",
     "mappings": {
       "default": {
-        "default": "swaar regswysende aanhalingsteken ornament"
+        "default": "zware rechtswijzende aanhalingsteken ornament"
       }
     }
   },
@@ -560,7 +560,7 @@
     "key": "2770",
     "mappings": {
       "default": {
-        "default": "swaar linkswysende hoekhakkie ornament"
+        "default": "zware linkswijzende hoekhaakje ornament"
       }
     }
   },
@@ -568,7 +568,7 @@
     "key": "2771",
     "mappings": {
       "default": {
-        "default": "swaar regswysende hoekhakkie ornament"
+        "default": "zware rechtswijzende hoekhaakje ornament"
       }
     }
   },
@@ -576,7 +576,7 @@
     "key": "2772",
     "mappings": {
       "default": {
-        "default": "ligte linker skilpaddop blokhakkie ornament"
+        "default": "ligte linker skilpaddop blokhaakje ornament"
       }
     }
   },
@@ -584,7 +584,7 @@
     "key": "2773",
     "mappings": {
       "default": {
-        "default": "ligte regter skilpaddop blokhakkie ornament"
+        "default": "ligte rechter skilpaddop blokhaakje ornament"
       }
     }
   },
@@ -592,7 +592,7 @@
     "key": "2774",
     "mappings": {
       "default": {
-        "default": "medium links krulhakkie ornament"
+        "default": "medium links krulhaakje ornament"
       }
     }
   },
@@ -600,7 +600,7 @@
     "key": "2775",
     "mappings": {
       "default": {
-        "default": "medium regs krulhakkie ornament"
+        "default": "medium rechts krulhaakje ornament"
       }
     }
   },
@@ -616,7 +616,7 @@
     "key": "27C6",
     "mappings": {
       "default": {
-        "default": "regter s vormige sak verdeler"
+        "default": "rechter s vormige sak verdeler"
       }
     }
   },
@@ -624,7 +624,7 @@
     "key": "27E6",
     "mappings": {
       "default": {
-        "default": "links wit blokhakkie"
+        "default": "links wit blokhaakje"
       }
     }
   },
@@ -632,7 +632,7 @@
     "key": "27E7",
     "mappings": {
       "default": {
-        "default": "regs wit blokhakkie"
+        "default": "rechts wit blokhaakje"
       }
     }
   },
@@ -640,7 +640,7 @@
     "key": "27E8",
     "mappings": {
       "default": {
-        "default": "links hoekhakkie"
+        "default": "links hoekhaakje"
       }
     }
   },
@@ -648,7 +648,7 @@
     "key": "27E9",
     "mappings": {
       "default": {
-        "default": "regs hoekhakkie"
+        "default": "rechts hoekhaakje"
       }
     }
   },
@@ -656,7 +656,7 @@
     "key": "27EA",
     "mappings": {
       "default": {
-        "default": "links dubbelhoekhakkie"
+        "default": "links dubbelhoekhaakje"
       }
     }
   },
@@ -664,7 +664,7 @@
     "key": "27EB",
     "mappings": {
       "default": {
-        "default": "regs dubbelhoekhakkie"
+        "default": "rechts dubbelhoekhaakje"
       }
     }
   },
@@ -672,7 +672,7 @@
     "key": "27EC",
     "mappings": {
       "default": {
-        "default": "linker wit skilpaddop blokhakkie"
+        "default": "linker wit skilpaddop blokhaakje"
       }
     }
   },
@@ -680,7 +680,7 @@
     "key": "27ED",
     "mappings": {
       "default": {
-        "default": "regter wit skilpaddop blokhakkie"
+        "default": "rechter wit skilpaddop blokhaakje"
       }
     }
   },
@@ -688,7 +688,7 @@
     "key": "27EE",
     "mappings": {
       "default": {
-        "default": "afgeplatte links hakkie"
+        "default": "afgeplatte links haakje"
       }
     }
   },
@@ -696,7 +696,7 @@
     "key": "27EF",
     "mappings": {
       "default": {
-        "default": "afgeplatte regs hakkie"
+        "default": "afgeplatte rechts haakje"
       }
     }
   },
@@ -704,7 +704,7 @@
     "key": "2983",
     "mappings": {
       "default": {
-        "default": "linker wit krulhakkie"
+        "default": "linker wit krulhaakje"
       }
     }
   },
@@ -712,7 +712,7 @@
     "key": "2984",
     "mappings": {
       "default": {
-        "default": "regter wit krulhakkie"
+        "default": "rechter wit krulhaakje"
       }
     }
   },
@@ -720,7 +720,7 @@
     "key": "2985",
     "mappings": {
       "default": {
-        "default": "wit links hakkie"
+        "default": "wit links haakje"
       }
     }
   },
@@ -728,7 +728,7 @@
     "key": "2986",
     "mappings": {
       "default": {
-        "default": "wit regs hakkie"
+        "default": "wit rechts haakje"
       }
     }
   },
@@ -768,7 +768,7 @@
     "key": "298B",
     "mappings": {
       "default": {
-        "default": "links blokhakkie met onderstaaf"
+        "default": "links blokhaakje met onderstaaf"
       }
     }
   },
@@ -776,7 +776,7 @@
     "key": "298C",
     "mappings": {
       "default": {
-        "default": "regs blokhakkie met onderstaaf"
+        "default": "rechts blokhaakje met onderstaaf"
       }
     }
   },
@@ -784,7 +784,7 @@
     "key": "298D",
     "mappings": {
       "default": {
-        "default": "links blokhakkie met merk in boonste hoek"
+        "default": "links blokhaakje met merk in bovenste hoek"
       }
     }
   },
@@ -792,7 +792,7 @@
     "key": "298E",
     "mappings": {
       "default": {
-        "default": "regs blokhakkie met merk in onderste hoek"
+        "default": "rechts blokhaakje met merk in onderste hoek"
       }
     }
   },
@@ -800,7 +800,7 @@
     "key": "298F",
     "mappings": {
       "default": {
-        "default": "links blokhakkie met merk in onderste hoek"
+        "default": "links blokhaakje met merk in onderste hoek"
       }
     }
   },
@@ -808,7 +808,7 @@
     "key": "2990",
     "mappings": {
       "default": {
-        "default": "regs blokhakkie met merk in boonste hoek"
+        "default": "rechts blokhaakje met merk in bovenste hoek"
       }
     }
   },
@@ -816,7 +816,7 @@
     "key": "2991",
     "mappings": {
       "default": {
-        "default": "links hoekhakkie met punt"
+        "default": "links hoekhaakje met punt"
       }
     }
   },
@@ -824,7 +824,7 @@
     "key": "2992",
     "mappings": {
       "default": {
-        "default": "regs hoekhakkie met punt"
+        "default": "rechts hoekhaakje met punt"
       }
     }
   },
@@ -832,7 +832,7 @@
     "key": "2993",
     "mappings": {
       "default": {
-        "default": "linker boog kleiner as blokhakkie"
+        "default": "linker boog kleiner as blokhaakje"
       }
     }
   },
@@ -840,7 +840,7 @@
     "key": "2994",
     "mappings": {
       "default": {
-        "default": "regter boog grooter as blokhakkie"
+        "default": "rechter boog grooter as blokhaakje"
       }
     }
   },
@@ -848,7 +848,7 @@
     "key": "2995",
     "mappings": {
       "default": {
-        "default": "dubbel linker boog grooter as blokhakkie"
+        "default": "dubbel linker boog grooter as blokhaakje"
       }
     }
   },
@@ -856,7 +856,7 @@
     "key": "2996",
     "mappings": {
       "default": {
-        "default": "dubbel regter boog kleiner as blokhakkie"
+        "default": "dubbel rechter boog kleiner as blokhaakje"
       }
     }
   },
@@ -864,7 +864,7 @@
     "key": "2997",
     "mappings": {
       "default": {
-        "default": "linker swart skilpaddop blokhakkie"
+        "default": "linker zwart skilpaddop blokhaakje"
       }
     }
   },
@@ -872,7 +872,7 @@
     "key": "2998",
     "mappings": {
       "default": {
-        "default": "regter swart skilpaddop blokhakkie"
+        "default": "rechter zwart skilpaddop blokhaakje"
       }
     }
   },
@@ -888,7 +888,7 @@
     "key": "29D9",
     "mappings": {
       "default": {
-        "default": "regter golwende heining"
+        "default": "rechter golwende heining"
       }
     }
   },
@@ -904,7 +904,7 @@
     "key": "29DB",
     "mappings": {
       "default": {
-        "default": "regter dubbel golwende heining"
+        "default": "rechter dubbel golwende heining"
       }
     }
   },
@@ -912,7 +912,7 @@
     "key": "29FC",
     "mappings": {
       "default": {
-        "default": "linkswysende gekurwde hoekhakkie"
+        "default": "linkswijzende gekurwde hoekhaakje"
       }
     }
   },
@@ -920,7 +920,7 @@
     "key": "29FD",
     "mappings": {
       "default": {
-        "default": "regswysende gekurwde hoekhakkie"
+        "default": "rechtswijzende gekurwde hoekhaakje"
       }
     }
   },
@@ -928,7 +928,7 @@
     "key": "2E22",
     "mappings": {
       "default": {
-        "default": "bo half links blokhakkie"
+        "default": "boven half links blokhaakje"
       }
     }
   },
@@ -936,7 +936,7 @@
     "key": "2E23",
     "mappings": {
       "default": {
-        "default": "bo half regs blokhakkie"
+        "default": "boven half rechts blokhaakje"
       }
     }
   },
@@ -944,7 +944,7 @@
     "key": "2E24",
     "mappings": {
       "default": {
-        "default": "onder half links blokhakkie"
+        "default": "onder half links blokhaakje"
       }
     }
   },
@@ -952,7 +952,7 @@
     "key": "2E25",
     "mappings": {
       "default": {
-        "default": "onder half regs blokhakkie"
+        "default": "onder half rechts blokhaakje"
       }
     }
   },
@@ -960,7 +960,7 @@
     "key": "2E26",
     "mappings": {
       "default": {
-        "default": "linker dwars U hakkie"
+        "default": "linker dwars U haakje"
       }
     }
   },
@@ -968,7 +968,7 @@
     "key": "2E27",
     "mappings": {
       "default": {
-        "default": "regter dwars U hakkie"
+        "default": "rechter dwars U haakje"
       }
     }
   },
@@ -976,7 +976,7 @@
     "key": "2E28",
     "mappings": {
       "default": {
-        "default": "dubbel links hakkie"
+        "default": "dubbel links haakje"
       }
     }
   },
@@ -984,7 +984,7 @@
     "key": "2E29",
     "mappings": {
       "default": {
-        "default": "dubbel regs hakkie"
+        "default": "dubbel rechts haakje"
       }
     }
   },
@@ -992,7 +992,7 @@
     "key": "3008",
     "mappings": {
       "default": {
-        "default": "links hoekhakkie"
+        "default": "links hoekhaakje"
       }
     }
   },
@@ -1000,7 +1000,7 @@
     "key": "3009",
     "mappings": {
       "default": {
-        "default": "regs hoekhakkie"
+        "default": "rechts hoekhaakje"
       }
     }
   },
@@ -1008,7 +1008,7 @@
     "key": "300A",
     "mappings": {
       "default": {
-        "default": "links dubbel hoekhakkie"
+        "default": "links dubbel hoekhaakje"
       }
     }
   },
@@ -1016,7 +1016,7 @@
     "key": "300B",
     "mappings": {
       "default": {
-        "default": "regs dubbel hoekhakkie"
+        "default": "rechts dubbel hoekhaakje"
       }
     }
   },
@@ -1024,7 +1024,7 @@
     "key": "300C",
     "mappings": {
       "default": {
-        "default": "links draaihoek hakkie"
+        "default": "links draaihoek haakje"
       }
     }
   },
@@ -1032,7 +1032,7 @@
     "key": "300D",
     "mappings": {
       "default": {
-        "default": "regs draaihoek hakkie"
+        "default": "rechts draaihoek haakje"
       }
     }
   },
@@ -1040,7 +1040,7 @@
     "key": "300E",
     "mappings": {
       "default": {
-        "default": "links wit draaihoek hakkie"
+        "default": "links wit draaihoek haakje"
       }
     }
   },
@@ -1048,7 +1048,7 @@
     "key": "300F",
     "mappings": {
       "default": {
-        "default": "regs wit draaihoek hakkie"
+        "default": "rechts wit draaihoek haakje"
       }
     }
   },
@@ -1072,7 +1072,7 @@
     "key": "3014",
     "mappings": {
       "default": {
-        "default": "linker skilpaddop blokhakkie"
+        "default": "linker skilpaddop blokhaakje"
       }
     }
   },
@@ -1080,7 +1080,7 @@
     "key": "3015",
     "mappings": {
       "default": {
-        "default": "regs skilpaddop blokhakkie"
+        "default": "rechts skilpaddop blokhaakje"
       }
     }
   },
@@ -1104,7 +1104,7 @@
     "key": "3018",
     "mappings": {
       "default": {
-        "default": "linker wit skilpaddop blokhakkie"
+        "default": "linker wit skilpaddop blokhaakje"
       }
     }
   },
@@ -1112,7 +1112,7 @@
     "key": "3019",
     "mappings": {
       "default": {
-        "default": "regter wit skilpaddop blokhakkie"
+        "default": "rechter wit skilpaddop blokhaakje"
       }
     }
   },
@@ -1120,7 +1120,7 @@
     "key": "301A",
     "mappings": {
       "default": {
-        "default": "linker wit blokhakkie"
+        "default": "linker wit blokhaakje"
       }
     }
   },
@@ -1128,7 +1128,7 @@
     "key": "301B",
     "mappings": {
       "default": {
-        "default": "regter wit blokhakkie"
+        "default": "rechter wit blokhaakje"
       }
     }
   },
@@ -1160,7 +1160,7 @@
     "key": "FD3E",
     "mappings": {
       "default": {
-        "default": "versierde links hakkie"
+        "default": "versierde links haakje"
       }
     }
   },
@@ -1168,7 +1168,7 @@
     "key": "FD3F",
     "mappings": {
       "default": {
-        "default": "versierde regs hakkie"
+        "default": "versierde rechts haakje"
       }
     }
   },
@@ -1336,7 +1336,7 @@
     "key": "FE59",
     "mappings": {
       "default": {
-        "default": "klein links hakkie"
+        "default": "klein links haakje"
       }
     }
   },
@@ -1344,7 +1344,7 @@
     "key": "FE5A",
     "mappings": {
       "default": {
-        "default": "klein regs hakkie"
+        "default": "klein rechts haakje"
       }
     }
   },
@@ -1352,7 +1352,7 @@
     "key": "FE5B",
     "mappings": {
       "default": {
-        "default": "klein links krulhakkie"
+        "default": "klein links krulhaakje"
       }
     }
   },
@@ -1360,7 +1360,7 @@
     "key": "FE5C",
     "mappings": {
       "default": {
-        "default": "klein regs krulhakkie"
+        "default": "klein rechts krulhaakje"
       }
     }
   },
@@ -1368,7 +1368,7 @@
     "key": "FE5D",
     "mappings": {
       "default": {
-        "default": "klein linker skilpaddop blokhakkie"
+        "default": "klein linker skilpaddop blokhaakje"
       }
     }
   },
@@ -1376,7 +1376,7 @@
     "key": "FE5E",
     "mappings": {
       "default": {
-        "default": "klein regter skilpaddop blokhakkie"
+        "default": "klein rechter skilpaddop blokhaakje"
       }
     }
   },
@@ -1384,7 +1384,7 @@
     "key": "FF08",
     "mappings": {
       "default": {
-        "default": "volwyte links hakkie"
+        "default": "volwyte links haakje"
       }
     }
   },
@@ -1392,7 +1392,7 @@
     "key": "FF09",
     "mappings": {
       "default": {
-        "default": "volwyte regs hakkie"
+        "default": "volwyte rechts haakje"
       }
     }
   },
@@ -1400,7 +1400,7 @@
     "key": "FF3B",
     "mappings": {
       "default": {
-        "default": "volwyte links blokhakkie"
+        "default": "volwyte links blokhaakje"
       }
     }
   },
@@ -1408,7 +1408,7 @@
     "key": "FF3D",
     "mappings": {
       "default": {
-        "default": "volwyte regs blokhakkie"
+        "default": "volwyte rechts blokhaakje"
       }
     }
   },
@@ -1416,7 +1416,7 @@
     "key": "FF5B",
     "mappings": {
       "default": {
-        "default": "volwyte links krulhakkie"
+        "default": "volwyte links krulhaakje"
       }
     }
   },
@@ -1424,7 +1424,7 @@
     "key": "FF5D",
     "mappings": {
       "default": {
-        "default": "volwyte regs krulhakkie"
+        "default": "volwyte rechts krulhaakje"
       }
     }
   },
@@ -1432,7 +1432,7 @@
     "key": "FF5F",
     "mappings": {
       "default": {
-        "default": "volwyte wit links hakkie"
+        "default": "volwyte wit links haakje"
       }
     }
   },
@@ -1440,7 +1440,7 @@
     "key": "FF60",
     "mappings": {
       "default": {
-        "default": "volwyte wit regs hakkie"
+        "default": "volwyte wit rechts haakje"
       }
     }
   },
@@ -1448,7 +1448,7 @@
     "key": "FF62",
     "mappings": {
       "default": {
-        "default": "halfwyte links draaihoek hakkie"
+        "default": "halfwyte links draaihoek haakje"
       }
     }
   },
@@ -1456,7 +1456,7 @@
     "key": "FF63",
     "mappings": {
       "default": {
-        "default": "halfwyte regs draaihoek hakkie"
+        "default": "halfwyte rechts draaihoek haakje"
       }
     }
   }

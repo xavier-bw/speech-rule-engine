@@ -14,7 +14,7 @@
     "key": "2605",
     "mappings": {
       "default": {
-        "default": "swart ster"
+        "default": "zwart ster"
       }
     }
   },
@@ -30,7 +30,7 @@
     "key": "26AA",
     "mappings": {
       "default": {
-        "default": "wit sirkel"
+        "default": "wit cirkel"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "26AB",
     "mappings": {
       "default": {
-        "default": "swart sirkel"
+        "default": "zwart cirkel"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "2714",
     "mappings": {
       "default": {
-        "default": "swaar reg merk"
+        "default": "zware reg merk"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "2716",
     "mappings": {
       "default": {
-        "default": "swaar maal x"
+        "default": "zware maal x"
       }
     }
   },
@@ -102,7 +102,7 @@
     "key": "271B",
     "mappings": {
       "default": {
-        "default": "oop middelkruis"
+        "default": "open middelkruis"
       }
     }
   },
@@ -110,7 +110,7 @@
     "key": "271C",
     "mappings": {
       "default": {
-        "default": "swaar oop middelkruis"
+        "default": "zware open middelkruis"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "2724",
     "mappings": {
       "default": {
-        "default": "swaar vier ballon gespeekte asterisk"
+        "default": "zware vier ballon gespeekte asterisk"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "2726",
     "mappings": {
       "default": {
-        "default": "swart vierpuntige ster"
+        "default": "zwart vierpuntige ster"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "2729",
     "mappings": {
       "default": {
-        "default": "stres buitelyn wit ster"
+        "default": "stres buitenlijn wit ster"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "272B",
     "mappings": {
       "default": {
-        "default": "oop middel swart ster"
+        "default": "open middel zwart ster"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "272C",
     "mappings": {
       "default": {
-        "default": "swart middel, wit ster"
+        "default": "zwart middel, wit ster"
       }
     }
   },
@@ -222,7 +222,7 @@
     "key": "272D",
     "mappings": {
       "default": {
-        "default": "buitelyn swart ster"
+        "default": "buitenlijn zwart ster"
       }
     }
   },
@@ -230,7 +230,7 @@
     "key": "272E",
     "mappings": {
       "default": {
-        "default": "swaar buitelyn swart ster"
+        "default": "zware buitenlijn zwart ster"
       }
     }
   },
@@ -254,7 +254,7 @@
     "key": "2731",
     "mappings": {
       "default": {
-        "default": "swaar asterisk"
+        "default": "zware asterisk"
       }
     }
   },
@@ -262,7 +262,7 @@
     "key": "2732",
     "mappings": {
       "default": {
-        "default": "oop middel asterisk"
+        "default": "open middel asterisk"
       }
     }
   },
@@ -278,7 +278,7 @@
     "key": "2734",
     "mappings": {
       "default": {
-        "default": "agtpuntige swart ster"
+        "default": "achtpuntige zwart ster"
       }
     }
   },
@@ -286,7 +286,7 @@
     "key": "2735",
     "mappings": {
       "default": {
-        "default": "agtpuntige bolletjie ster"
+        "default": "achtpuntige bolletjie ster"
       }
     }
   },
@@ -294,7 +294,7 @@
     "key": "2736",
     "mappings": {
       "default": {
-        "default": "sespuntige swart ster"
+        "default": "zespuntige zwart ster"
       }
     }
   },
@@ -302,7 +302,7 @@
     "key": "2739",
     "mappings": {
       "default": {
-        "default": "twaalfpuntige swart ster"
+        "default": "twaalfpuntige zwart ster"
       }
     }
   },
@@ -326,7 +326,7 @@
     "key": "273C",
     "mappings": {
       "default": {
-        "default": "oop middel traandruppel gespeekte ster"
+        "default": "open middel traandruppel gespeekte ster"
       }
     }
   },
@@ -334,7 +334,7 @@
     "key": "273D",
     "mappings": {
       "default": {
-        "default": "swaar traandruppel gespeekte ster"
+        "default": "zware traandruppel gespeekte ster"
       }
     }
   },
@@ -342,7 +342,7 @@
     "key": "273E",
     "mappings": {
       "default": {
-        "default": "sesblarige swart en wit floret"
+        "default": "zesbladige zwart en wit floret"
       }
     }
   },
@@ -350,7 +350,7 @@
     "key": "273F",
     "mappings": {
       "default": {
-        "default": "swart floret"
+        "default": "zwart floret"
       }
     }
   },
@@ -366,7 +366,7 @@
     "key": "2741",
     "mappings": {
       "default": {
-        "default": "agtblarige buitelyn swart floret"
+        "default": "achtbladige buitenlijn zwart floret"
       }
     }
   },
@@ -374,7 +374,7 @@
     "key": "2742",
     "mappings": {
       "default": {
-        "default": "omkringde agtpuntige ster met lee middel"
+        "default": "omkringde achtpuntige ster met lee middel"
       }
     }
   },
@@ -382,7 +382,7 @@
     "key": "2743",
     "mappings": {
       "default": {
-        "default": "swaar traandruppel gespeekte bolletjiester"
+        "default": "zware traandruppel gespeekte bolletjiester"
       }
     }
   },
@@ -390,7 +390,7 @@
     "key": "2744",
     "mappings": {
       "default": {
-        "default": "sneeuflokkie"
+        "default": "sneeuwvlokje"
       }
     }
   },
@@ -398,7 +398,7 @@
     "key": "2745",
     "mappings": {
       "default": {
-        "default": "kompakte drieblarige sneeuflokkie"
+        "default": "kompakte drieblarige sneeuwvlokje"
       }
     }
   },
@@ -406,7 +406,7 @@
     "key": "2746",
     "mappings": {
       "default": {
-        "default": "swaar chevron sneeuflokkie"
+        "default": "zware chevron sneeuwvlokje"
       }
     }
   },
@@ -422,7 +422,7 @@
     "key": "2748",
     "mappings": {
       "default": {
-        "default": "swaar vonkel"
+        "default": "zware vonkel"
       }
     }
   },
@@ -446,7 +446,7 @@
     "key": "274B",
     "mappings": {
       "default": {
-        "default": "swaar agt traandruppel gespeekte propeller ster"
+        "default": "zware acht traandruppel gespeekte propeller ster"
       }
     }
   },
@@ -462,7 +462,7 @@
     "key": "274D",
     "mappings": {
       "default": {
-        "default": "geskakeerde wit sirkel"
+        "default": "geskakeerde wit cirkel"
       }
     }
   }

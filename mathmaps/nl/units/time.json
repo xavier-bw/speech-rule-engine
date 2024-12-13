@@ -6,8 +6,8 @@
     "key": "s",
     "mappings": {
       "default": {
-        "default": "sekonde",
-        "plural": "sekondes"
+        "default": "seconde",
+        "plural": "seconden"
       }
     }
   },
@@ -15,8 +15,8 @@
     "key": "″",
     "mappings": {
       "default": {
-        "default": "sekonde",
-        "plural": "sekondes"
+        "default": "seconde",
+        "plural": "seconden"
       }
     }
   },
@@ -25,7 +25,7 @@
     "mappings": {
       "default": {
         "default": "minuut",
-        "plural": "minute"
+        "plural": "minuten"
       }
     }
   },
@@ -34,7 +34,7 @@
     "mappings": {
       "default": {
         "default": "graad",
-        "plural": "grade"
+        "plural": "graden"
       }
     }
   },
@@ -43,7 +43,7 @@
     "mappings": {
       "default": {
         "default": "uur",
-        "plural": "ure"
+        "plural": "uren"
       }
     }
   }

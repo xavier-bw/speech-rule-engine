@@ -143,7 +143,7 @@
     "key": "200E",
     "mappings": {
       "default": {
-        "default": "links na regs teken"
+        "default": "links na rechts teken"
       }
     }
   },
@@ -151,7 +151,7 @@
     "key": "200F",
     "mappings": {
       "default": {
-        "default": "regs na links teken"
+        "default": "rechts na links teken"
       }
     }
   },
@@ -159,7 +159,7 @@
     "key": "2028",
     "mappings": {
       "default": {
-        "default": "lynverdeler"
+        "default": "lijnverdeler"
       }
     }
   },
@@ -175,7 +175,7 @@
     "key": "202A",
     "mappings": {
       "default": {
-        "default": "links na regs ingebed"
+        "default": "links na rechts ingebed"
       }
     }
   },
@@ -183,7 +183,7 @@
     "key": "202B",
     "mappings": {
       "default": {
-        "default": "regs na links ingebed"
+        "default": "rechts na links ingebed"
       }
     }
   },
@@ -199,7 +199,7 @@
     "key": "202D",
     "mappings": {
       "default": {
-        "default": "links na regs oorskryf"
+        "default": "links na rechts oorskryf"
       }
     }
   },
@@ -207,7 +207,7 @@
     "key": "202E",
     "mappings": {
       "default": {
-        "default": "regs na links oorskryf"
+        "default": "rechts na links oorskryf"
       }
     }
   },

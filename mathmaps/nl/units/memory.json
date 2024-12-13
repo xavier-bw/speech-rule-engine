@@ -6,8 +6,8 @@
     "key": "b",
     "mappings": {
       "default": {
-        "default": "bis",
-        "plural": "bisse"
+        "default": "bit",
+        "plural": "bits"
       }
     }
   },
@@ -15,8 +15,8 @@
     "key": "B",
     "mappings": {
       "default": {
-        "default": "greep",
-        "plural": "grepe"
+        "default": "byte",
+        "plural": "bytes"
       }
     }
   },
@@ -24,8 +24,8 @@
     "key": "KB",
     "mappings": {
       "default": {
-        "default": "kilogreep",
-        "plural": "kilogrepe"
+        "default": "kilobyte",
+        "plural": "kilobytes"
       }
     }
   }
