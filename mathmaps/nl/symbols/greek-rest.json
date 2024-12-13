@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "nl"
+  },
+  {
+    "key": "0394",
+    "mappings": {
+      "clearspeak": {
+        "default": "driehoek",
+        "TriangleSymbol_Delta": "grote delta"
+      }
+    }
+  }
+]

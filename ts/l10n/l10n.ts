@@ -35,6 +35,7 @@ import { ko } from './locales/locale_ko.js';
 import { it } from './locales/locale_it.js';
 import { nb } from './locales/locale_nb.js';
 import { nemeth } from './locales/locale_nemeth.js';
+import { nl } from './locales/locale_nl.js';
 import { nn } from './locales/locale_nn.js';
 import { sv } from './locales/locale_sv.js';
 import { Locale, LOCALE } from './locale.js';
@@ -52,6 +53,7 @@ export const locales: { [key: string]: () => Locale } = {
   it: it,
   ko: ko,
   nb: nb,
+  nl: nl,
   nn: nn,
   sv: sv,
   nemeth: nemeth

@@ -40,6 +40,7 @@ export class Variables {
     ['it', 'Italian'],
     ['ko', 'Korean'],
     ['nb', 'Bokmål'],
+    ['nl', 'Dutch'],
     ['nn', 'Nynorsk'],
     ['sv', 'Swedish'],
     ['nemeth', 'Nemeth']

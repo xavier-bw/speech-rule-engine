@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "nl"
+  },
+  {
+    "key": "doz",
+    "mappings": {
+      "default": {
+        "default": "dosyn",
+        "plural": "dosyn"
+      }
+    }
+  }
+]

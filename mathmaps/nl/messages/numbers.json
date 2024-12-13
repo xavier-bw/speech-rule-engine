@@ -1,0 +1,59 @@
+{
+  "kind": "numbers",
+  "locale": "nl",
+  "messages": {
+    "zero": "nul",
+    "ones": [
+      "",
+      "een",
+      "twee",
+      "drie",
+      "vier",
+      "vijf",
+      "zes",
+      "zeven",
+      "acht",
+      "negen",
+      "tien",
+      "elf",
+      "twaalf",
+      "dertien",
+      "veertien",
+      "vijftien",
+      "zestien",
+      "seventien",
+      "achttien",
+      "negentien"
+    ],
+    "tens": [
+      "",
+      "",
+      "twintig",
+      "dertig",
+      "veertig",
+      "vijftig",
+      "zestig",
+      "seventig",
+      "tachtig",
+      "negentig"
+    ],
+    "large": [
+      "",
+      "duizend",
+      "miljoen",
+      "miljard",
+      "biljoen",
+      "biljard",
+      "triljoen",
+      "triljard",
+      "quadriljoen",
+      "quadriljard",
+      "quintiljoen",
+      "quintiljard",
+      "sextiljoen",
+      "sextiljard"
+    ],
+    "vulgarSep": " ",
+    "numSep": " "
+  }
+}
