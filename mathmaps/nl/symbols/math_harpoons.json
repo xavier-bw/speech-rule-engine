@@ -6,7 +6,7 @@
     "key": "21BC",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel boontoe"
+        "default": "linkse harpoen met stekel naar boven"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "21BD",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel ondertoe"
+        "default": "linkse harpoen met stekel naar onder"
       }
     }
   },
@@ -22,7 +22,7 @@
     "key": "21BE",
     "mappings": {
       "default": {
-        "default": "up harpoen met stekel rechts"
+        "default": "opwaartse harpoen met stekel rechts"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "21C0",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel boontoe"
+        "default": "rechtse harpoen met stekel naar boven"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "21C1",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel ondertoe"
+        "default": "rechtse harpoen met stekel naar onder"
       }
     }
   },
@@ -70,7 +70,7 @@
     "key": "21CB",
     "mappings": {
       "default": {
-        "default": "links harpoen oor rechts harpoen"
+        "default": "linkse harpoen boven rechtse harpoen"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "21CC",
     "mappings": {
       "default": {
-        "default": "rechts harpoen oor links harpoen"
+        "default": "rechtse harpoen boven linkse harpoen"
       }
     }
   },
@@ -86,7 +86,7 @@
     "key": "294A",
     "mappings": {
       "default": {
-        "default": "links stekel up rechts stekel neerwaartse harpoen"
+        "default": "linkse stekel opwaarts rechtse stekel neerwaarts harpoen"
       }
     }
   },
@@ -94,7 +94,7 @@
     "key": "294B",
     "mappings": {
       "default": {
-        "default": "links stekel neerwaartse rechts stekel opwaartse harpoen"
+        "default": "linkse stekel neerwaarts rechtse stekel opwaarts harpoen"
       }
     }
   },
@@ -102,7 +102,7 @@
     "key": "294C",
     "mappings": {
       "default": {
-        "default": "opwaartse stekel rechts neerwaartse  stekel links harpoen"
+        "default": "opwaartse stekel rechts neerwaartse stekel links harpoen"
       }
     }
   },
@@ -118,7 +118,7 @@
     "key": "294E",
     "mappings": {
       "default": {
-        "default": "links stekel opwaartse rechts stekel opwaartse harpoen"
+        "default": "linkse stekel opwaarts rechtse stekel opwaarts harpoen"
       }
     }
   },
@@ -134,7 +134,7 @@
     "key": "2950",
     "mappings": {
       "default": {
-        "default": "links stekel neerwaartse rechts stekel neerwaartse harpoen"
+        "default": "linkse stekel neerwaarts rechtse stekel neerwaarts harpoen"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "2952",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel boontoe na staaf"
+        "default": "linkse harpoen met stekel naar boven naar staaf"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "2953",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel boontoe na staaf"
+        "default": "rechtse harpoen met stekel naar boven naar staaf"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "2954",
     "mappings": {
       "default": {
-        "default": "opwaartse harpoen met stekel rechts na staaf"
+        "default": "opwaartse harpoen met stekel rechts naar staaf"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "2955",
     "mappings": {
       "default": {
-        "default": "neerwaartse harpoen met stekel rechts na staaf"
+        "default": "neerwaartse harpoen met stekel rechts naar staaf"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "2956",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel neerwaartse na staaf"
+        "default": "linkse harpoen met stekel neerwaarts naar staaf"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "2957",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel neerwaartse na staaf"
+        "default": "rechtes harpoen met stekel neerwaarts naar staaf"
       }
     }
   },
@@ -198,7 +198,7 @@
     "key": "2958",
     "mappings": {
       "default": {
-        "default": "opwaartse harpoen met stekel links na staaf"
+        "default": "opwaartse harpoen met stekel links naar staaf"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "2959",
     "mappings": {
       "default": {
-        "default": "neerwaartse harpoen met stekel links na staaf"
+        "default": "neerwaartse harpoen met stekel links naar staaf"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "295A",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel opwaartse vanaf staaf"
+        "default": "linkse harpoen met stekel opwaarts vanaf staaf"
       }
     }
   },
@@ -222,7 +222,7 @@
     "key": "295B",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel opwaartse vanaf staaf"
+        "default": "rechtse harpoen met stekel opwaartse vanaf staaf"
       }
     }
   },
@@ -246,7 +246,7 @@
     "key": "295E",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel neerwaartse vanaf staaf"
+        "default": "linkse harpoen met stekel neerwaarts vanaf staaf"
       }
     }
   },
@@ -254,7 +254,7 @@
     "key": "295F",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel neerwaartse vanaf staaf"
+        "default": "rechtse harpoen met stekel neerwaarts vanaf staaf"
       }
     }
   },
@@ -278,7 +278,7 @@
     "key": "2962",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel bovenkant links harpoen met stekel af"
+        "default": "linkse harpoen met stekel opwaarts boven links harpoen met stekel neerwaarts"
       }
     }
   },
@@ -286,7 +286,7 @@
     "key": "2963",
     "mappings": {
       "default": {
-        "default": "opwaartse harpoen met stekel links langsaan opwaartse harpoen met stekel rechts"
+        "default": "opwaartse harpoen met stekel links naast opwaartse harpoen met stekel rechts"
       }
     }
   },
@@ -294,7 +294,7 @@
     "key": "2964",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel opwaartse bovenkant rechts harpoen met stekel af"
+        "default": "rechtse harpoen met stekel opwaarts boven rechtse harpoen met stekel neerwaarts"
       }
     }
   },
@@ -302,7 +302,7 @@
     "key": "2965",
     "mappings": {
       "default": {
-        "default": "neerwaartse harpoen met stekel links langsaan neerwaartse harpoen met stekel rechts"
+        "default": "neerwaartse harpoen met stekel links naast neerwaartse harpoen met stekel rechts"
       }
     }
   },
@@ -310,7 +310,7 @@
     "key": "2966",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel opwaartse bovenkant rechts harpoen met stekel op"
+        "default": "linkse harpoen met stekel opwaarts boven rechtse harpoen met stekel opwaarts"
       }
     }
   },
@@ -318,7 +318,7 @@
     "key": "2967",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel neerwaartse bovenkant rechts harpoen met stekel af"
+        "default": "linkse harpoen met stekel neerwaarts boven rechtse harpoen met stekel neerwaarts"
       }
     }
   },
@@ -326,7 +326,7 @@
     "key": "2968",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel opwaartse bovenkant links harpoen met stekel op"
+        "default": "rechtse harpoen met stekel opwaarts bovent linkse harpoen met stekel opwaarts"
       }
     }
   },
@@ -334,7 +334,7 @@
     "key": "2969",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel neerwaartse bovenkant links harpoen met stekel af"
+        "default": "rechtse harpoen met stekel neerwaarts bovenkant linkse harpoen met stekel neerwaarts"
       }
     }
   },
@@ -342,7 +342,7 @@
     "key": "296A",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel opwaartse bovenkant lang koppelteken"
+        "default": "linkse harpoen met stekel opwaarts boven lang koppelteken"
       }
     }
   },
@@ -350,7 +350,7 @@
     "key": "296B",
     "mappings": {
       "default": {
-        "default": "links harpoen met stekel neerwaartse onder lang koppelteken"
+        "default": "linkse harpoen met stekel neerwaarts onder lang koppelteken"
       }
     }
   },
@@ -358,7 +358,7 @@
     "key": "296C",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel opwaartse bovenkant lang koppelteken"
+        "default": "rechtse harpoen met stekel opwaarts boven lang koppelteken"
       }
     }
   },
@@ -366,7 +366,7 @@
     "key": "296D",
     "mappings": {
       "default": {
-        "default": "rechts harpoen met stekel neerwaartse onder lang koppelteken"
+        "default": "rechtse harpoen met stekel neerwaarts onder lang koppelteken"
       }
     }
   },
@@ -374,7 +374,7 @@
     "key": "296E",
     "mappings": {
       "default": {
-        "default": "opwaartse harpoen met stekel links langsaan neerwaartse harpoen met stekel rechts"
+        "default": "opwaartse harpoen met stekel links naast neerwaartse harpoen met stekel rechts"
       }
     }
   },
@@ -382,7 +382,7 @@
     "key": "296F",
     "mappings": {
       "default": {
-        "default": "neerwaartse harpoen met stekel links langsaan opwaartse harpoen met stekel rechts"
+        "default": "neerwaartse harpoen met stekel links naast opwaartse harpoen met stekel rechts"
       }
     }
   },
@@ -390,7 +390,7 @@
     "key": "297C",
     "mappings": {
       "default": {
-        "default": "links visstaart"
+        "default": "linkse visstaart"
       }
     }
   },
@@ -398,7 +398,7 @@
     "key": "297D",
     "mappings": {
       "default": {
-        "default": "rechts visstaart"
+        "default": "rechtse visstaart"
       }
     }
   },

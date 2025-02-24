@@ -14,7 +14,7 @@
     "key": "2191",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje"
+        "default": "opwaarts pijltje"
       }
     }
   },
@@ -30,7 +30,7 @@
     "key": "2193",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje"
+        "default": "neerwaarts pijltje"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "2195",
     "mappings": {
       "default": {
-        "default": "opwaartse neerwaartse pijltje"
+        "default": "opwaartse neerwaarts pijltje"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "2196",
     "mappings": {
       "default": {
-        "default": "opwaartse links pijltje"
+        "default": "opwaarts links pijltje"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "2197",
     "mappings": {
       "default": {
-        "default": "opwaartse rechts pijltje"
+        "default": "opwaarts rechts pijltje"
       }
     }
   },
@@ -70,7 +70,7 @@
     "key": "2198",
     "mappings": {
       "default": {
-        "default": "neerwaartse rechts pijltje"
+        "default": "neerwaarts rechts pijltje"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "2199",
     "mappings": {
       "default": {
-        "default": "neerwaartse links pijltje"
+        "default": "neerwaarts links pijltje"
       }
     }
   },
@@ -126,7 +126,7 @@
     "key": "219F",
     "mappings": {
       "default": {
-        "default": "tweekop opwaartse pijltje"
+        "default": "tweekop opwaarts pijltje"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "21A1",
     "mappings": {
       "default": {
-        "default": "tweekop neerwaartse pijltje"
+        "default": "tweekop neerwaarts pijltje"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "21A2",
     "mappings": {
       "default": {
-        "default": "links pijltje met stert"
+        "default": "links pijltje met staart"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "21A3",
     "mappings": {
       "default": {
-        "default": "rechts pijltje met stert"
+        "default": "rechts pijltje met staart"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "21A5",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje vanaf staaf"
+        "default": "opwaarts pijltje vanaf staaf"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "21A7",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje vanaf staaf"
+        "default": "neerwaarts pijltje vanaf staaf"
       }
     }
   },
@@ -198,7 +198,7 @@
     "key": "21A8",
     "mappings": {
       "default": {
-        "default": "opwaartse neerwaartse pijltje met basis"
+        "default": "opwaarts neerwaarts pijltje met basis"
       }
     }
   },
@@ -254,7 +254,7 @@
     "key": "21AF",
     "mappings": {
       "default": {
-        "default": "neerwaartse heen en weer pijltje"
+        "default": "neerwaarts heen en weer pijltje"
       }
     }
   },
@@ -262,7 +262,7 @@
     "key": "21B0",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje met punt links"
+        "default": "opwaarts pijltje met punt links"
       }
     }
   },
@@ -270,7 +270,7 @@
     "key": "21B1",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje met punt rechts"
+        "default": "opwaarts pijltje met punt rechts"
       }
     }
   },
@@ -278,7 +278,7 @@
     "key": "21B2",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje met punt links"
+        "default": "neerwaarts pijltje met punt links"
       }
     }
   },
@@ -286,7 +286,7 @@
     "key": "21B3",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje met punt rechts"
+        "default": "neerwaarts pijltje met punt rechts"
       }
     }
   },
@@ -302,7 +302,7 @@
     "key": "21B5",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje met hoek links"
+        "default": "neerwaarts pijltje met hoek links"
       }
     }
   },
@@ -310,7 +310,7 @@
     "key": "21B6",
     "mappings": {
       "default": {
-        "default": "antikloksgewyse boontoe halfcirkel pijltje"
+        "default": "antikloksgewijze bovenste halfcirkel pijltje"
       }
     }
   },
@@ -318,7 +318,7 @@
     "key": "21B7",
     "mappings": {
       "default": {
-        "default": "kloksgewyse boontoe halfcirkel pijltje"
+        "default": "kloksgewijze bovenste halfcirkel pijltje"
       }
     }
   },
@@ -326,7 +326,7 @@
     "key": "21B8",
     "mappings": {
       "default": {
-        "default": "opwaartse links pijltje na lang staaf"
+        "default": "opwaarts links pijltje na lange staaf"
       }
     }
   },
@@ -334,7 +334,7 @@
     "key": "21B9",
     "mappings": {
       "default": {
-        "default": "links pijltje na staaf oor rechts pijltje na staaf"
+        "default": "links pijltje na staaf over rechts pijltje na staaf"
       }
     }
   },
@@ -342,7 +342,7 @@
     "key": "21BA",
     "mappings": {
       "default": {
-        "default": "antikloksgewyse open cirkel pijltje"
+        "default": "antikloksgewijze open cirkel pijltje"
       }
     }
   },
@@ -350,7 +350,7 @@
     "key": "21BB",
     "mappings": {
       "default": {
-        "default": "kloksgewyse open cirkel pijltje"
+        "default": "kloksgewijze open cirkel pijltje"
       }
     }
   },
@@ -358,7 +358,7 @@
     "key": "21C4",
     "mappings": {
       "default": {
-        "default": "rechts pijltje oor links pijltje"
+        "default": "rechts pijltje over links pijltje"
       }
     }
   },
@@ -366,7 +366,7 @@
     "key": "21C5",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje links van neerwaartse pijltje"
+        "default": "opwaarts pijltje links van neerwaarts pijltje"
       }
     }
   },
@@ -374,7 +374,7 @@
     "key": "21C6",
     "mappings": {
       "default": {
-        "default": "links pijltje oor rechts pijltje"
+        "default": "links pijltje over rechts pijltje"
       }
     }
   },
@@ -446,7 +446,7 @@
     "key": "21D1",
     "mappings": {
       "default": {
-        "default": "opwaartse dubbelpijltje"
+        "default": "opwaarts dubbelpijltje"
       }
     }
   },
@@ -462,7 +462,7 @@
     "key": "21D3",
     "mappings": {
       "default": {
-        "default": "neerwaartse dubbelpijltje"
+        "default": "neerwaarts dubbelpijltje"
       }
     }
   },
@@ -478,7 +478,7 @@
     "key": "21D5",
     "mappings": {
       "default": {
-        "default": "opwaartse neerwaartse dubbelpijltje"
+        "default": "opwaarts neerwaarts dubbelpijltje"
       }
     }
   },
@@ -486,7 +486,7 @@
     "key": "21D6",
     "mappings": {
       "default": {
-        "default": "opwaartse links dubbelpijltje"
+        "default": "opwaarts links dubbelpijltje"
       }
     }
   },
@@ -494,7 +494,7 @@
     "key": "21D7",
     "mappings": {
       "default": {
-        "default": "opwaartse rechts dubbelpijltje"
+        "default": "opwaarts rechts dubbelpijltje"
       }
     }
   },
@@ -502,7 +502,7 @@
     "key": "21D8",
     "mappings": {
       "default": {
-        "default": "neerwaartse rechts dubbelpijltje"
+        "default": "neerwaarts rechts dubbelpijltje"
       }
     }
   },
@@ -510,7 +510,7 @@
     "key": "21D9",
     "mappings": {
       "default": {
-        "default": "neerwaartse links dubbelpijltje"
+        "default": "neerwaarts links dubbelpijltje"
       }
     }
   },
@@ -550,7 +550,7 @@
     "key": "21DE",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje met dubbelstreep"
+        "default": "opwaarts pijltje met dubbelstreep"
       }
     }
   },
@@ -558,7 +558,7 @@
     "key": "21DF",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje met dubbelstreep"
+        "default": "neerwaarts pijltje met dubbelstreep"
       }
     }
   },
@@ -574,7 +574,7 @@
     "key": "21E1",
     "mappings": {
       "default": {
-        "default": "opwaartse koppeltekenpijltje"
+        "default": "opwaarts koppeltekenpijltje"
       }
     }
   },
@@ -590,7 +590,7 @@
     "key": "21E3",
     "mappings": {
       "default": {
-        "default": "neerwaartse koppeltekenpijltje"
+        "default": "neerwaarts koppeltekenpijltje"
       }
     }
   },
@@ -622,7 +622,7 @@
     "key": "21E7",
     "mappings": {
       "default": {
-        "default": "wit opwaartse pijltje"
+        "default": "wit opwaarts pijltje"
       }
     }
   },
@@ -638,7 +638,7 @@
     "key": "21E9",
     "mappings": {
       "default": {
-        "default": "wit neerwaartse pijltje"
+        "default": "wit neerwaarts pijltje"
       }
     }
   },
@@ -646,7 +646,7 @@
     "key": "21EA",
     "mappings": {
       "default": {
-        "default": "wit opwaartse pijltje vanaf staaf"
+        "default": "wit opwaarts pijltje vanaf staaf"
       }
     }
   },
@@ -654,7 +654,7 @@
     "key": "21EB",
     "mappings": {
       "default": {
-        "default": "wit opwaartse pijltje opwaartse staander"
+        "default": "wit opwaarts pijltje opwaartse staander"
       }
     }
   },
@@ -662,7 +662,7 @@
     "key": "21EC",
     "mappings": {
       "default": {
-        "default": "wit opwaartse pijltje opwaartse staander met horizontale lijn"
+        "default": "wit opwaarts pijltje opwaartse staander met horizontale lijn"
       }
     }
   },
@@ -670,7 +670,7 @@
     "key": "21ED",
     "mappings": {
       "default": {
-        "default": "wit opwaartse pijltje opwaartse staander met verticale lijn"
+        "default": "wit opwaarts pijltje opwaartse staander met verticale lijn"
       }
     }
   },
@@ -678,7 +678,7 @@
     "key": "21EE",
     "mappings": {
       "default": {
-        "default": "wit dubbel opwaartse pijltje"
+        "default": "wit dubbel opwaarts pijltje"
       }
     }
   },
@@ -686,7 +686,7 @@
     "key": "21EF",
     "mappings": {
       "default": {
-        "default": "wit dubbel opwaartse pijltje opwaartse staander"
+        "default": "wit dubbel opwaarts pijltje opwaartse staander"
       }
     }
   },
@@ -702,7 +702,7 @@
     "key": "21F1",
     "mappings": {
       "default": {
-        "default": "noordwes pijltje na hoek"
+        "default": "noordwest pijltje na hoek"
       }
     }
   },
@@ -718,7 +718,7 @@
     "key": "21F3",
     "mappings": {
       "default": {
-        "default": "opwaartse neerwaartse wit pijltje"
+        "default": "opwaarts neerwaarts wit pijltje"
       }
     }
   },
@@ -726,7 +726,7 @@
     "key": "21F4",
     "mappings": {
       "default": {
-        "default": "rechts pijltje met klein cirkel"
+        "default": "rechts pijltje met kleine cirkel"
       }
     }
   },
@@ -734,7 +734,7 @@
     "key": "21F5",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje links van opwaartse pijltje"
+        "default": "neerwaarts pijltje links van opwaarts pijltje"
       }
     }
   },
@@ -742,7 +742,7 @@
     "key": "21F6",
     "mappings": {
       "default": {
-        "default": "drie rechts pijltjes"
+        "default": "drie rechtse pijltjes"
       }
     }
   },
@@ -798,7 +798,7 @@
     "key": "21FD",
     "mappings": {
       "default": {
-        "default": "links oopkop pijltje"
+        "default": "links open kop pijltje"
       }
     }
   },
@@ -806,7 +806,7 @@
     "key": "21FE",
     "mappings": {
       "default": {
-        "default": "rechts oopkop pijltje"
+        "default": "rechts open kop pijltje"
       }
     }
   },
@@ -814,7 +814,7 @@
     "key": "21FF",
     "mappings": {
       "default": {
-        "default": "links rechts oopkop pijltje"
+        "default": "links rechts open kop pijltje"
       }
     }
   },
@@ -822,7 +822,7 @@
     "key": "2301",
     "mappings": {
       "default": {
-        "default": "elektrisiteit pijltje"
+        "default": "electriciteit pijltje"
       }
     }
   },
@@ -846,7 +846,7 @@
     "key": "2324",
     "mappings": {
       "default": {
-        "default": "opwaartse pijlkop tussen twee horizontale lijne",
+        "default": "opwaartse pijlkop tussen twee horizontale lijnen",
         "alternative": "enter key"
       }
     }
@@ -855,7 +855,7 @@
     "key": "238B",
     "mappings": {
       "default": {
-        "default": "gebroke cirkel met noordwes pijltje"
+        "default": "gebroken cirkel met noordwest pijltje"
       }
     }
   },
@@ -863,7 +863,7 @@
     "key": "2794",
     "mappings": {
       "default": {
-        "default": "zware wye rechts pijltje met kop"
+        "default": "zwaar breed rechts pijltje met kop"
       }
     }
   },
@@ -871,7 +871,7 @@
     "key": "2798",
     "mappings": {
       "default": {
-        "default": "zware neerwaartse rechts pijltje"
+        "default": "zwaar neerwaarts rechts pijltje"
       }
     }
   },
@@ -879,7 +879,7 @@
     "key": "2799",
     "mappings": {
       "default": {
-        "default": "zware rechts pijltje"
+        "default": "zwaar rechts pijltje"
       }
     }
   },
@@ -887,7 +887,7 @@
     "key": "279A",
     "mappings": {
       "default": {
-        "default": "zware opwaartse rechts pijltje"
+        "default": "zwaar opwaarts rechts pijltje"
       }
     }
   },
@@ -903,7 +903,7 @@
     "key": "279C",
     "mappings": {
       "default": {
-        "default": "zware rondepunt rechts pijltje"
+        "default": "zwaar rond punt rechts pijltje"
       }
     }
   },
@@ -935,7 +935,7 @@
     "key": "27A0",
     "mappings": {
       "default": {
-        "default": "zware koppelteken driehoek rechts pijltje met kop"
+        "default": "zwaar koppelteken driehoek rechts pijltje met kop"
       }
     }
   },
@@ -951,7 +951,7 @@
     "key": "27A2",
     "mappings": {
       "default": {
-        "default": "drie d boven verligte pijlkop"
+        "default": "drie d boven verlichte pijlkop"
       }
     }
   },
@@ -959,7 +959,7 @@
     "key": "27A3",
     "mappings": {
       "default": {
-        "default": "drie d onderverligte rechts pijlkop"
+        "default": "drie d onderverlichte rechts pijlkop"
       }
     }
   },
@@ -967,7 +967,7 @@
     "key": "27A4",
     "mappings": {
       "default": {
-        "default": "zwart rechts pijlkop"
+        "default": "zwarte rechtse pijlkop"
       }
     }
   },
@@ -975,7 +975,7 @@
     "key": "27A5",
     "mappings": {
       "default": {
-        "default": "zware zwart gekurwde neerwaartse en rechts pijltje"
+        "default": "zware zwarte gebogen neerwaarts en rechts pijltje"
       }
     }
   },
@@ -983,7 +983,7 @@
     "key": "27A6",
     "mappings": {
       "default": {
-        "default": "zware gekurwde opwaartse en rechts pijltje"
+        "default": "zware gebogen opwaarts en rechts pijltje"
       }
     }
   },
@@ -991,7 +991,7 @@
     "key": "27A7",
     "mappings": {
       "default": {
-        "default": "saamgedrukte zwart rechts pijltje"
+        "default": "samengedrukt zwart rechts pijltje"
       }
     }
   },
@@ -999,7 +999,7 @@
     "key": "27A8",
     "mappings": {
       "default": {
-        "default": "zware konkaafgepunte rechts pijltje"
+        "default": "zwaar concaafgepunt rechts pijltje"
       }
     }
   },
@@ -1007,7 +1007,7 @@
     "key": "27A9",
     "mappings": {
       "default": {
-        "default": "rechts geskakeerde wit rechts pijltje"
+        "default": "rechts gearceerd wit rechts pijltje"
       }
     }
   },
@@ -1015,7 +1015,7 @@
     "key": "27AA",
     "mappings": {
       "default": {
-        "default": "links geskakeerde wit rechts pijltje"
+        "default": "links gearceerd wit rechts pijltje"
       }
     }
   },
@@ -1023,7 +1023,7 @@
     "key": "27AB",
     "mappings": {
       "default": {
-        "default": "terugleunende geskakeerde wit  rechts pijltje"
+        "default": "terugleunend gearceerd wit rechts pijltje"
       }
     }
   },
@@ -1031,7 +1031,7 @@
     "key": "27AC",
     "mappings": {
       "default": {
-        "default": "vooroor leunende geskakeerde wit rechts pijltje"
+        "default": "voorover leunend gearceerd wit rechts pijltje"
       }
     }
   },
@@ -1039,7 +1039,7 @@
     "key": "27AD",
     "mappings": {
       "default": {
-        "default": "zware laer rechts geskakeerde wit rechts pijltje"
+        "default": "zware rechtsonder gearceerd wit rechts pijltje"
       }
     }
   },
@@ -1047,7 +1047,7 @@
     "key": "27AE",
     "mappings": {
       "default": {
-        "default": "zware bovenste rechts geskakeerde wit rechts pijltje"
+        "default": "zware rechtsboven gearceerd wit rechts pijltje"
       }
     }
   },
@@ -1055,7 +1055,7 @@
     "key": "27AF",
     "mappings": {
       "default": {
-        "default": "getande laer rechts geskakeerde wit rechts pijltje"
+        "default": "getand rechtsonder gearceerd wit rechts pijltje"
       }
     }
   },
@@ -1063,7 +1063,7 @@
     "key": "27B1",
     "mappings": {
       "default": {
-        "default": "getande bovenste rechts geskakeerde wit rechts pijltje"
+        "default": "getand rechtsboven gearceerd wit rechts pijltje"
       }
     }
   },
@@ -1071,7 +1071,7 @@
     "key": "27B2",
     "mappings": {
       "default": {
-        "default": "omkringde zware wit rechts pijltje"
+        "default": "omkringde zwaar wit rechts pijltje"
       }
     }
   },
@@ -1079,7 +1079,7 @@
     "key": "27B3",
     "mappings": {
       "default": {
-        "default": "wit geveerde rechts pijltje"
+        "default": "wit geveerd rechts pijltje"
       }
     }
   },
@@ -1087,7 +1087,7 @@
     "key": "27B4",
     "mappings": {
       "default": {
-        "default": "zwart geveerde neerwaartse rechts pijltje"
+        "default": "zwart geveerd neerwaarts rechts pijltje"
       }
     }
   },
@@ -1095,7 +1095,7 @@
     "key": "27B5",
     "mappings": {
       "default": {
-        "default": "zwart geveerde rechts pijltje"
+        "default": "zwart geveerd rechts pijltje"
       }
     }
   },
@@ -1103,7 +1103,7 @@
     "key": "27B6",
     "mappings": {
       "default": {
-        "default": "zwart geveerde opwaartse rechts pijltje"
+        "default": "zwart geveerd opwaarts rechts pijltje"
       }
     }
   },
@@ -1111,7 +1111,7 @@
     "key": "27B7",
     "mappings": {
       "default": {
-        "default": "zware zwart geveerde neerwaartse rechts pijltje"
+        "default": "zware zwart geveerd neerwaarts rechts pijltje"
       }
     }
   },
@@ -1119,7 +1119,7 @@
     "key": "27B8",
     "mappings": {
       "default": {
-        "default": "zware zwart geveerde rechts pijltje"
+        "default": "zwaar zwart geveerd rechts pijltje"
       }
     }
   },
@@ -1127,7 +1127,7 @@
     "key": "27B9",
     "mappings": {
       "default": {
-        "default": "zware zwart geveerde opwaartse rechts pijltje"
+        "default": "zwaar zwart geveerd opwaarts rechts pijltje"
       }
     }
   },
@@ -1135,7 +1135,7 @@
     "key": "27BA",
     "mappings": {
       "default": {
-        "default": "traandruppel stekelrige rechts pijltje"
+        "default": "traandruppel met haken rechts pijltje"
       }
     }
   },
@@ -1143,7 +1143,7 @@
     "key": "27BB",
     "mappings": {
       "default": {
-        "default": "zware traandruppel geskenkelde rechts pijltje"
+        "default": "zware traandruppel scheef rechts pijltje"
       }
     }
   },
@@ -1151,7 +1151,7 @@
     "key": "27BC",
     "mappings": {
       "default": {
-        "default": "wigstert rechts pijltje"
+        "default": "wigstaart rechts pijltje"
       }
     }
   },
@@ -1159,7 +1159,7 @@
     "key": "27BD",
     "mappings": {
       "default": {
-        "default": "zware wigstert rechts pijltje"
+        "default": "zwaar wigstaart rechts pijltje"
       }
     }
   },
@@ -1175,7 +1175,7 @@
     "key": "27F0",
     "mappings": {
       "default": {
-        "default": "opwaartse vierdubbelle pijltje"
+        "default": "opwaarts vierdubbell pijltje"
       }
     }
   },
@@ -1183,7 +1183,7 @@
     "key": "27F1",
     "mappings": {
       "default": {
-        "default": "neerwaartse vierdubbele pijltje"
+        "default": "neerwaarts vierdubbel pijltje"
       }
     }
   },
@@ -1191,7 +1191,7 @@
     "key": "27F2",
     "mappings": {
       "default": {
-        "default": "antikloksgewyse cirkel pijltje met gapings"
+        "default": "antikloksgewijze cirkel pijltje met openingen"
       }
     }
   },
@@ -1199,7 +1199,7 @@
     "key": "27F3",
     "mappings": {
       "default": {
-        "default": "kloksgewyse cirkel pijltje met gapings"
+        "default": "kloksgewijze cirkel pijltje met openingen"
       }
     }
   },
@@ -1279,7 +1279,7 @@
     "key": "27FD",
     "mappings": {
       "default": {
-        "default": "lang links pijltje vanaf staaf"
+        "default": "lang links dubbel pijltje vanaf staaf"
       }
     }
   },
@@ -1303,7 +1303,7 @@
     "key": "2900",
     "mappings": {
       "default": {
-        "default": "tweekoppige rechts pijltje met verticale streep"
+        "default": "tweekoppig rechts pijltje met verticale streep"
       }
     }
   },
@@ -1311,7 +1311,7 @@
     "key": "2901",
     "mappings": {
       "default": {
-        "default": "tweekoppige rechts pijltje met dubbel verticale streep"
+        "default": "tweekoppig rechts pijltje met dubbele verticale streep"
       }
     }
   },
@@ -1367,7 +1367,7 @@
     "key": "2908",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje met horizontale streep"
+        "default": "neerwaart pijltje met horizontale streep"
       }
     }
   },
@@ -1375,7 +1375,7 @@
     "key": "2909",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje met horizontale streep"
+        "default": "opwaarts pijltje met horizontale streep"
       }
     }
   },
@@ -1383,7 +1383,7 @@
     "key": "290A",
     "mappings": {
       "default": {
-        "default": "opwaartse trippelpijltje"
+        "default": "opwaarts trippelpijltje"
       }
     }
   },
@@ -1391,7 +1391,7 @@
     "key": "290B",
     "mappings": {
       "default": {
-        "default": "neerwaartse trippelpijltje"
+        "default": "neerwaarts trippelpijltje"
       }
     }
   },
@@ -1431,7 +1431,7 @@
     "key": "2910",
     "mappings": {
       "default": {
-        "default": "rechts tweekoppige trippelkoppelteken pijltje"
+        "default": "rechts tweekoppig trippelkoppelteken pijltje"
       }
     }
   },
@@ -1439,7 +1439,7 @@
     "key": "2911",
     "mappings": {
       "default": {
-        "default": "rechts pijltje met kolletjie steel"
+        "default": "rechts pijltje met gestippelde steel"
       }
     }
   },
@@ -1447,7 +1447,7 @@
     "key": "2912",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje na staaf"
+        "default": "opwaarts pijltje na staaf"
       }
     }
   },
@@ -1455,7 +1455,7 @@
     "key": "2913",
     "mappings": {
       "default": {
-        "default": "neerwaartse pijltje na staaf"
+        "default": "neerwaarts pijltje na staaf"
       }
     }
   },
@@ -1463,7 +1463,7 @@
     "key": "2914",
     "mappings": {
       "default": {
-        "default": "rechts pijltje met stert met verticale streep"
+        "default": "rechts pijltje met staart met verticale streep"
       }
     }
   },
@@ -1471,7 +1471,7 @@
     "key": "2915",
     "mappings": {
       "default": {
-        "default": "rechts pijltje met stert met dubbelverticale streep"
+        "default": "rechts pijltje met staart met dubbele verticale streep"
       }
     }
   },
@@ -1479,7 +1479,7 @@
     "key": "2916",
     "mappings": {
       "default": {
-        "default": "rechts tweekoppige pijltje met stert"
+        "default": "rechts tweekoppig pijltje met staart"
       }
     }
   },
@@ -1487,7 +1487,7 @@
     "key": "2917",
     "mappings": {
       "default": {
-        "default": "rechts tweekoppige pijltje met stert met verticale streep"
+        "default": "rechts tweekoppig pijltje met staart met verticale streep"
       }
     }
   },
@@ -1495,7 +1495,7 @@
     "key": "2918",
     "mappings": {
       "default": {
-        "default": "rechts tweekoppige pijltje met stert met dubbelverticale streep"
+        "default": "rechts tweekoppige pijltje met staart met dubbele verticale streep"
       }
     }
   },
@@ -1503,7 +1503,7 @@
     "key": "2919",
     "mappings": {
       "default": {
-        "default": "links pylstert"
+        "default": "linkse pijlstaart"
       }
     }
   },
@@ -1511,7 +1511,7 @@
     "key": "291A",
     "mappings": {
       "default": {
-        "default": "rechts pylstert"
+        "default": "rechtse pijlstaart"
       }
     }
   },
@@ -1519,7 +1519,7 @@
     "key": "291B",
     "mappings": {
       "default": {
-        "default": "links dubbel pylstert"
+        "default": "linkse dubbele pijlstaart"
       }
     }
   },
@@ -1527,7 +1527,7 @@
     "key": "291C",
     "mappings": {
       "default": {
-        "default": "rechts dubbel pylstert"
+        "default": "rechtse dubbele pijlstaart"
       }
     }
   },
@@ -1535,7 +1535,7 @@
     "key": "291D",
     "mappings": {
       "default": {
-        "default": "links pijltje na zwart diamand"
+        "default": "links pijltje na zware diamant"
       }
     }
   },
@@ -1543,7 +1543,7 @@
     "key": "291E",
     "mappings": {
       "default": {
-        "default": "rechts pijltje na zwart diamand"
+        "default": "rechts pijltje na zwarte diamant"
       }
     }
   },
@@ -1551,7 +1551,7 @@
     "key": "291F",
     "mappings": {
       "default": {
-        "default": "links pijltje vanaf staaf na zwart diamand"
+        "default": "links pijltje vanaf staaf na zwarte diamant"
       }
     }
   },
@@ -1559,7 +1559,7 @@
     "key": "2920",
     "mappings": {
       "default": {
-        "default": "rechts pijltje vanaf staaf na zwart diamand"
+        "default": "rechts pijltje vanaf staaf na zwarte diamant"
       }
     }
   },
@@ -1567,7 +1567,7 @@
     "key": "2921",
     "mappings": {
       "default": {
-        "default": "noordwes en zuidoost pijltje"
+        "default": "noordwest en zuidoost pijltje"
       }
     }
   },
@@ -1575,7 +1575,7 @@
     "key": "2922",
     "mappings": {
       "default": {
-        "default": "noordoost en suidwes pijltje"
+        "default": "noordoost en zuidwest pijltje"
       }
     }
   },
@@ -1583,7 +1583,7 @@
     "key": "2923",
     "mappings": {
       "default": {
-        "default": "noordwes pijltje met haak"
+        "default": "noordwest pijltje met haak"
       }
     }
   },
@@ -1607,7 +1607,7 @@
     "key": "2926",
     "mappings": {
       "default": {
-        "default": "suidwes pijltje met haak"
+        "default": "zuidwest pijltje met haak"
       }
     }
   },
@@ -1615,7 +1615,7 @@
     "key": "2927",
     "mappings": {
       "default": {
-        "default": "noordwes pijltje en noordoost pijltje"
+        "default": "noordwest pijltje en noordoost pijltje"
       }
     }
   },
@@ -1631,7 +1631,7 @@
     "key": "2929",
     "mappings": {
       "default": {
-        "default": "zuidoost pijltje en suidwes pijltje"
+        "default": "zuidoost pijltje en zuidwest pijltje"
       }
     }
   },
@@ -1639,7 +1639,7 @@
     "key": "292A",
     "mappings": {
       "default": {
-        "default": "suidwes pijltje en noordwes pijltje"
+        "default": "zuidwest pijltje en noordwest pijltje"
       }
     }
   },
@@ -1647,7 +1647,7 @@
     "key": "292D",
     "mappings": {
       "default": {
-        "default": "zuidoost pijltje kruis noordoost pijltje"
+        "default": "zuidoost pijltje kruist noordoost pijltje"
       }
     }
   },
@@ -1655,7 +1655,7 @@
     "key": "292E",
     "mappings": {
       "default": {
-        "default": "noordoost pijltje kruis zuidoost pijltje"
+        "default": "noordoost pijltje kruist zuidoost pijltje"
       }
     }
   },
@@ -1663,7 +1663,7 @@
     "key": "292F",
     "mappings": {
       "default": {
-        "default": "afwaartse diagonaal kruis noordoost pijltje"
+        "default": "afwaartse diagonaal kruist noordoost pijltje"
       }
     }
   },
@@ -1671,7 +1671,7 @@
     "key": "2930",
     "mappings": {
       "default": {
-        "default": "opwaartse diagonaal kruis zuidoost pijltje"
+        "default": "opwaartse diagonaal kruist zuidoost pijltje"
       }
     }
   },
@@ -1679,7 +1679,7 @@
     "key": "2931",
     "mappings": {
       "default": {
-        "default": "noordoost pijltje kruis noordwes pijltje"
+        "default": "noordoost pijltje kruist noordwest pijltje"
       }
     }
   },
@@ -1687,7 +1687,7 @@
     "key": "2932",
     "mappings": {
       "default": {
-        "default": "noordwes pijltje kruis noordoost pijltje"
+        "default": "noordwest pijltje kruist noordoost pijltje"
       }
     }
   },
@@ -1695,7 +1695,7 @@
     "key": "2933",
     "mappings": {
       "default": {
-        "default": "golfpijltje direk na rechts"
+        "default": "golfpijltje direct naar rechts"
       }
     }
   },
@@ -1703,7 +1703,7 @@
     "key": "2934",
     "mappings": {
       "default": {
-        "default": "pijltje na rechts en buig opwaarts"
+        "default": "pijltje naar rechts en buigt opwaarts"
       }
     }
   },
@@ -1711,7 +1711,7 @@
     "key": "2935",
     "mappings": {
       "default": {
-        "default": "pijltje na rechts en buig af"
+        "default": "pijltje naar rechts en buigt neerwaarts"
       }
     }
   },
@@ -1719,7 +1719,7 @@
     "key": "2936",
     "mappings": {
       "default": {
-        "default": "pijltje neerwaartse en buig links"
+        "default": "pijltje neerwaarts en buigt links"
       }
     }
   },
@@ -1727,7 +1727,7 @@
     "key": "2937",
     "mappings": {
       "default": {
-        "default": "pijltje neerwaartse en buig rechts"
+        "default": "pijltje neerwaarts en buigt rechts"
       }
     }
   },
@@ -1735,7 +1735,7 @@
     "key": "2938",
     "mappings": {
       "default": {
-        "default": "regsom boog kloksgewyse pijltje"
+        "default": "rechtsom boog kloksgewijs pijltje"
       }
     }
   },
@@ -1743,7 +1743,7 @@
     "key": "2939",
     "mappings": {
       "default": {
-        "default": "linksom boog antikloksgewyse pijltje"
+        "default": "linksom boog antikloksgewijs pijltje"
       }
     }
   },
@@ -1751,7 +1751,7 @@
     "key": "293A",
     "mappings": {
       "default": {
-        "default": "bovenste boog antikloksgewyse pijltje"
+        "default": "bovenste boog antikloksgewijs pijltje"
       }
     }
   },
@@ -1759,7 +1759,7 @@
     "key": "293B",
     "mappings": {
       "default": {
-        "default": "onderste boog antikloksgewyse pijltje"
+        "default": "onderste boog antikloksgewijs pijltje"
       }
     }
   },
@@ -1767,7 +1767,7 @@
     "key": "293C",
     "mappings": {
       "default": {
-        "default": "bovenste boog antikloksgewyse pijltje met minus"
+        "default": "bovenste boog antikloksgewijs pijltje met minus"
       }
     }
   },
@@ -1775,7 +1775,7 @@
     "key": "293D",
     "mappings": {
       "default": {
-        "default": "bovenste boog antikloksgewyse pijltje met plus"
+        "default": "bovenste boog antikloksgewijs pijltje met plus"
       }
     }
   },
@@ -1783,7 +1783,7 @@
     "key": "293E",
     "mappings": {
       "default": {
-        "default": "neerwaartse rechts semicirkel kloksgewyse pijltje"
+        "default": "neerwaarts rechts semicirkel kloksgewijs pijltje"
       }
     }
   },
@@ -1791,7 +1791,7 @@
     "key": "293F",
     "mappings": {
       "default": {
-        "default": "neerwaartse links semicirkel antikloksgewyse pijltje"
+        "default": "neerwaarts links semicirkel antikloksgewijs pijltje"
       }
     }
   },
@@ -1799,7 +1799,7 @@
     "key": "2940",
     "mappings": {
       "default": {
-        "default": "antikloksgewyse toe cirkel pijltje"
+        "default": "antikloksgewijze gesloten cirkel pijltje"
       }
     }
   },
@@ -1807,7 +1807,7 @@
     "key": "2941",
     "mappings": {
       "default": {
-        "default": "kloksgewyse toe cirkel pijltje"
+        "default": "kloksgewijze gesloten cirkel pijltje"
       }
     }
   },
@@ -1815,7 +1815,7 @@
     "key": "2942",
     "mappings": {
       "default": {
-        "default": "rechts pijltje bovenkant kort links pijltje"
+        "default": "rechts pijltje boven kort links pijltje"
       }
     }
   },
@@ -1823,7 +1823,7 @@
     "key": "2943",
     "mappings": {
       "default": {
-        "default": "links pijltje bovenkant kort rechts pijltje"
+        "default": "links pijltje boven kort rechts pijltje"
       }
     }
   },
@@ -1831,7 +1831,7 @@
     "key": "2944",
     "mappings": {
       "default": {
-        "default": "kort rechts pijltje bovenkant links pijltje"
+        "default": "kort rechts pijltje boven links pijltje"
       }
     }
   },
@@ -1855,7 +1855,7 @@
     "key": "2947",
     "mappings": {
       "default": {
-        "default": "rechts pijltje deur x"
+        "default": "rechts pijltje door x"
       }
     }
   },
@@ -1863,7 +1863,7 @@
     "key": "2948",
     "mappings": {
       "default": {
-        "default": "links rechts pijltje deur klein cirkel"
+        "default": "links rechts pijltje door kleine cirkel"
       }
     }
   },
@@ -1871,7 +1871,7 @@
     "key": "2949",
     "mappings": {
       "default": {
-        "default": "opwaartse tweekoppige pijltje vanaf klein cirkel"
+        "default": "opwaarts tweekoppig pijltje vanaf kleine cirkel"
       }
     }
   },
@@ -1887,7 +1887,7 @@
     "key": "2971",
     "mappings": {
       "default": {
-        "default": "is gelyk aan bovenkant rechts pijltje"
+        "default": "is gelijk aan boven rechts pijltje"
       }
     }
   },
@@ -1895,7 +1895,7 @@
     "key": "2972",
     "mappings": {
       "default": {
-        "default": "tilde bovenkant rechts pijltje"
+        "default": "tilde boven rechts pijltje"
       }
     }
   },
@@ -1903,7 +1903,7 @@
     "key": "2973",
     "mappings": {
       "default": {
-        "default": "links pijltje bovenkant tilde"
+        "default": "links pijltje boven tilde"
       }
     }
   },
@@ -1911,7 +1911,7 @@
     "key": "2974",
     "mappings": {
       "default": {
-        "default": "rechts pijltje bovenkant tilde"
+        "default": "rechts pijltje boven tilde"
       }
     }
   },
@@ -1919,7 +1919,7 @@
     "key": "2975",
     "mappings": {
       "default": {
-        "default": "rechts pijltje bovenkant is amper gelyk aan"
+        "default": "rechts pijltje boven is vrijwel gelijk aan"
       }
     }
   },
@@ -1927,7 +1927,7 @@
     "key": "2976",
     "mappings": {
       "default": {
-        "default": "kleiner as bovenkant links pijltje"
+        "default": "kleiner dan boven links pijltje"
       }
     }
   },
@@ -1935,7 +1935,7 @@
     "key": "2977",
     "mappings": {
       "default": {
-        "default": "links pijltje deur kleiner as"
+        "default": "links pijltje door kleiner dan"
       }
     }
   },
@@ -1943,7 +1943,7 @@
     "key": "2978",
     "mappings": {
       "default": {
-        "default": "groter as bovenkant rechts pijltje"
+        "default": "groter dan boven rechts pijltje"
       }
     }
   },
@@ -1951,7 +1951,7 @@
     "key": "2979",
     "mappings": {
       "default": {
-        "default": "deelverzameling bovenkant rechts pijltje"
+        "default": "deelverzameling boven rechts pijltje"
       }
     }
   },
@@ -1959,7 +1959,7 @@
     "key": "297A",
     "mappings": {
       "default": {
-        "default": "links pijltje deur deelverzameling"
+        "default": "links pijltje door deelverzameling"
       }
     }
   },
@@ -1967,7 +1967,7 @@
     "key": "297B",
     "mappings": {
       "default": {
-        "default": "superverzameling bovenkant links pijltje"
+        "default": "superverzameling boven links pijltje"
       }
     }
   },
@@ -1975,7 +1975,7 @@
     "key": "29B3",
     "mappings": {
       "default": {
-        "default": "leë verzameling met rechts pijltje bo"
+        "default": "lege verzameling met rechts pijltje boven"
       }
     }
   },
@@ -1983,7 +1983,7 @@
     "key": "29B4",
     "mappings": {
       "default": {
-        "default": "leë verzameling met links pijltje bo"
+        "default": "lege verzameling met links pijltje boven"
       }
     }
   },
@@ -1991,7 +1991,7 @@
     "key": "29BD",
     "mappings": {
       "default": {
-        "default": "opwaartse pijltje deur cirkel"
+        "default": "opwaart pijltje door cirkel"
       }
     }
   },
@@ -1999,7 +1999,7 @@
     "key": "29EA",
     "mappings": {
       "default": {
-        "default": "zwart diamand met neerwaartse pijltje"
+        "default": "zwarte diamant met neerwaarts pijltje"
       }
     }
   },
@@ -2007,7 +2007,7 @@
     "key": "29EC",
     "mappings": {
       "default": {
-        "default": "wit cirkel met neerwaartse pijltje"
+        "default": "witte cirkel met neerwaarts pijltje"
       }
     }
   },
@@ -2015,7 +2015,7 @@
     "key": "29ED",
     "mappings": {
       "default": {
-        "default": "zwart cirkel met neerwaartse pijltje"
+        "default": "zwarte cirkel met neerwaarts pijltje"
       }
     }
   },
@@ -2039,7 +2039,7 @@
     "key": "2B01",
     "mappings": {
       "default": {
-        "default": "noordwes wit pijltje"
+        "default": "noordwest wit pijltje"
       }
     }
   },
@@ -2055,7 +2055,7 @@
     "key": "2B03",
     "mappings": {
       "default": {
-        "default": "suidwes wit pijltje"
+        "default": "zuidwest wit pijltje"
       }
     }
   },
@@ -2103,7 +2103,7 @@
     "key": "2B09",
     "mappings": {
       "default": {
-        "default": "noordwes zwart pijltje"
+        "default": "noordwest zwart pijltje"
       }
     }
   },
@@ -2119,7 +2119,7 @@
     "key": "2B0B",
     "mappings": {
       "default": {
-        "default": "suidwes zwart pijltje"
+        "default": "zuidwest zwart pijltje"
       }
     }
   },
@@ -2135,7 +2135,7 @@
     "key": "2B0D",
     "mappings": {
       "default": {
-        "default": "opwaartse neerwaartse zwart pijltje"
+        "default": "opwaarts neerwaarts zwart pijltje"
       }
     }
   },
@@ -2143,7 +2143,7 @@
     "key": "2B0E",
     "mappings": {
       "default": {
-        "default": "rechts pijltje met punt ondertoe"
+        "default": "rechts pijltje met punt naar beneden"
       }
     }
   },
@@ -2151,7 +2151,7 @@
     "key": "2B0F",
     "mappings": {
       "default": {
-        "default": "rechts pijltje met punt boontoe"
+        "default": "rechts pijltje met punt naar boven"
       }
     }
   },
@@ -2159,7 +2159,7 @@
     "key": "2B10",
     "mappings": {
       "default": {
-        "default": "links pijltje met punt ondertoe"
+        "default": "links pijltje met punt naar beneden"
       }
     }
   },
@@ -2167,7 +2167,7 @@
     "key": "2B11",
     "mappings": {
       "default": {
-        "default": "links pijltje met punt boontoe"
+        "default": "links pijltje met punt naar boven"
       }
     }
   },
@@ -2175,7 +2175,7 @@
     "key": "2B30",
     "mappings": {
       "default": {
-        "default": "links pijltje met klein cirkel"
+        "default": "links pijltje met kleine cirkel"
       }
     }
   },
@@ -2183,7 +2183,7 @@
     "key": "2B31",
     "mappings": {
       "default": {
-        "default": "drie links pijltjes"
+        "default": "drie linkse pijltjes"
       }
     }
   },
@@ -2215,7 +2215,7 @@
     "key": "2B35",
     "mappings": {
       "default": {
-        "default": "links tweekoppige pijltje met dubbel verticale streep"
+        "default": "links tweekoppig pijltje met dubbele verticale streep"
       }
     }
   },
@@ -2223,7 +2223,7 @@
     "key": "2B36",
     "mappings": {
       "default": {
-        "default": "links tweekoppige pijltje vanaf staaf"
+        "default": "links tweekoppig pijltje vanaf staaf"
       }
     }
   },
@@ -2231,7 +2231,7 @@
     "key": "2B37",
     "mappings": {
       "default": {
-        "default": "links tweekoppige trippel koppelteken pijltje"
+        "default": "links tweekoppig trippel koppelteken pijltje"
       }
     }
   },
@@ -2239,7 +2239,7 @@
     "key": "2B38",
     "mappings": {
       "default": {
-        "default": "links pijltje met kolletjie steel"
+        "default": "links pijltje met gestippelde steel"
       }
     }
   },
@@ -2247,7 +2247,7 @@
     "key": "2B39",
     "mappings": {
       "default": {
-        "default": "links pijltje met stert met verticale streep"
+        "default": "links pijltje met staart met verticale streep"
       }
     }
   },
@@ -2255,7 +2255,7 @@
     "key": "2B3A",
     "mappings": {
       "default": {
-        "default": "links pijltje met stert met dubbel verticale streep"
+        "default": "links pijltje met staart met dubbele verticale streep"
       }
     }
   },
@@ -2263,7 +2263,7 @@
     "key": "2B3B",
     "mappings": {
       "default": {
-        "default": "links tweekoppige pijltje met stert"
+        "default": "links tweekoppig pijltje met staart"
       }
     }
   },
@@ -2271,7 +2271,7 @@
     "key": "2B3C",
     "mappings": {
       "default": {
-        "default": "links tweekoppige pijltje met stert met verticale streep"
+        "default": "links tweekoppig pijltje met staart met verticale streep"
       }
     }
   },
@@ -2279,7 +2279,7 @@
     "key": "2B3D",
     "mappings": {
       "default": {
-        "default": "links tweekoppige pijltje met stert met dubbel verticale streep"
+        "default": "links tweekoppig pijltje met staart met dubbele verticale streep"
       }
     }
   },
@@ -2287,7 +2287,7 @@
     "key": "2B3E",
     "mappings": {
       "default": {
-        "default": "links pijltje deur x"
+        "default": "links pijltje door x"
       }
     }
   },
@@ -2295,7 +2295,7 @@
     "key": "2B3F",
     "mappings": {
       "default": {
-        "default": "golfpijltje direk na links"
+        "default": "golfpijltje direct naar links"
       }
     }
   },
@@ -2303,7 +2303,7 @@
     "key": "2B40",
     "mappings": {
       "default": {
-        "default": "is gelyk aan bovenkant links pijltje"
+        "default": "is gelijk aan boven links pijltje"
       }
     }
   },
@@ -2311,7 +2311,7 @@
     "key": "2B41",
     "mappings": {
       "default": {
-        "default": "tru tilde bovenkant links pijltje"
+        "default": "omgekeerde tilde boven links pijltje"
       }
     }
   },
@@ -2319,7 +2319,7 @@
     "key": "2B42",
     "mappings": {
       "default": {
-        "default": "links pijltje bovenkant tru is amper gelyk aan"
+        "default": "links pijltje boven omgekeerde is vrijwel gelijk aan"
       }
     }
   },
@@ -2327,7 +2327,7 @@
     "key": "2B43",
     "mappings": {
       "default": {
-        "default": "rechts pijltje deur groter as"
+        "default": "rechts pijltje door groter dan"
       }
     }
   },
@@ -2335,7 +2335,7 @@
     "key": "2B44",
     "mappings": {
       "default": {
-        "default": "rechts pijltje deur superverzameling"
+        "default": "rechts pijltje door superverzameling"
       }
     }
   },
@@ -2343,7 +2343,7 @@
     "key": "2B45",
     "mappings": {
       "default": {
-        "default": "links vierdubbele pijltje"
+        "default": "links vierdubbel pijltje"
       }
     }
   },
@@ -2351,7 +2351,7 @@
     "key": "2B46",
     "mappings": {
       "default": {
-        "default": "rechts vierdubbele pijltje"
+        "default": "rechts vierdubbel pijltje"
       }
     }
   },
@@ -2359,7 +2359,7 @@
     "key": "2B47",
     "mappings": {
       "default": {
-        "default": "tru tilde bovenkant rechts pijltje"
+        "default": "omgekeerde tilde boven rechts pijltje"
       }
     }
   },
@@ -2367,7 +2367,7 @@
     "key": "2B48",
     "mappings": {
       "default": {
-        "default": "rechts pijltje bovenkant tru is amper gelyk aan"
+        "default": "rechts pijltje boven omgekeerde is vrijwel gelijk aan"
       }
     }
   },
@@ -2375,7 +2375,7 @@
     "key": "2B49",
     "mappings": {
       "default": {
-        "default": "tilde bovenkant links pijltje"
+        "default": "tilde boven links pijltje"
       }
     }
   },
@@ -2383,7 +2383,7 @@
     "key": "2B4A",
     "mappings": {
       "default": {
-        "default": "links pijltje bovenkant is amper gelyk aan"
+        "default": "links pijltje boven is vrijwel gelijk aan"
       }
     }
   },
@@ -2391,7 +2391,7 @@
     "key": "2B4B",
     "mappings": {
       "default": {
-        "default": "links pijltje bovenkant tru tilde"
+        "default": "links pijltje boven omgekeerde tilde"
       }
     }
   },
@@ -2399,7 +2399,7 @@
     "key": "2B4C",
     "mappings": {
       "default": {
-        "default": "rechts pijltje bovenkant tru tilde"
+        "default": "rechts pijltje boven omgekeerde tilde"
       }
     }
   },
@@ -2407,7 +2407,7 @@
     "key": "FFE9",
     "mappings": {
       "default": {
-        "default": "half wyte links pijltje"
+        "default": "half breed links pijltje"
       }
     }
   },
@@ -2415,7 +2415,7 @@
     "key": "FFEA",
     "mappings": {
       "default": {
-        "default": "half wyte opwaartse pijltje"
+        "default": "half breed opwaarts pijltje"
       }
     }
   },
@@ -2423,7 +2423,7 @@
     "key": "FFEB",
     "mappings": {
       "default": {
-        "default": "half wyte rechts pijltje"
+        "default": "half breed rechts pijltje"
       }
     }
   },
@@ -2431,7 +2431,7 @@
     "key": "FFEC",
     "mappings": {
       "default": {
-        "default": "half wyte neerwaartse pijltje"
+        "default": "half breed neerwaarts pijltje"
       }
     }
   }

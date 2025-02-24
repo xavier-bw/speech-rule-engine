@@ -6,7 +6,7 @@
     "key": "22BE",
     "mappings": {
       "default": {
-        "default": "rechts hoek met boog"
+        "default": "rechtse hoek met boog"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "237C",
     "mappings": {
       "default": {
-        "default": "rechts hoek met afwaartse heen en weer pijltje"
+        "default": "rechtse hoek met neerwaartse heen en weer pijltje"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "299C",
     "mappings": {
       "default": {
-        "default": "rechts hoek variant met vierkant"
+        "default": "rechtse hoek variant met vierkant"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "299D",
     "mappings": {
       "default": {
-        "default": "gemete rechts hoek met punt"
+        "default": "gemete rechtse hoek met punt"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "299E",
     "mappings": {
       "default": {
-        "default": "hoek met s binnein"
+        "default": "hoek met s erin"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "299F",
     "mappings": {
       "default": {
-        "default": "akkute hoek"
+        "default": "acute hoek"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "29A1",
     "mappings": {
       "default": {
-        "default": "bolvormige hoek opening boontoe"
+        "default": "bolvormige hoek opening bovenaan"
       }
     }
   },
@@ -94,7 +94,7 @@
     "key": "29A3",
     "mappings": {
       "default": {
-        "default": "tru hoek"
+        "default": "omgekeerde hoek"
       }
     }
   },
@@ -110,7 +110,7 @@
     "key": "29A5",
     "mappings": {
       "default": {
-        "default": "tru hoek met onderstaaf"
+        "default": "omgekeerde hoek met onderstaaf"
       }
     }
   },
@@ -118,7 +118,7 @@
     "key": "29A6",
     "mappings": {
       "default": {
-        "default": "skuins hoek opening boontoe"
+        "default": "schuine hoek opening bovenaan"
       }
     }
   },
@@ -126,7 +126,7 @@
     "key": "29A7",
     "mappings": {
       "default": {
-        "default": "skuins hoek opening ondertoe"
+        "default": "schuine hoek opening ondertoe"
       }
     }
   },
@@ -134,7 +134,7 @@
     "key": "29A8",
     "mappings": {
       "default": {
-        "default": "gemeten hoek met open arm die in 'n pijltje eindig die opwaartse en rechts wys"
+        "default": "gemeten hoek met open arm die in een pijltje eindigt die opwaarts en rechts wijst"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "29A9",
     "mappings": {
       "default": {
-        "default": "gemeten hoek met open arm die in 'n pijltje eindig die opwaartse en links wys"
+        "default": "gemeten hoek met open arm die in een pijltje eindig die opwaarts en links wijst"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "29AA",
     "mappings": {
       "default": {
-        "default": "gemeten hoek met open arm die in 'n pijltje eindig die neerwaartse en rechts wys"
+        "default": "gemeten hoek met open arm die in een pijltje eindig die neerwaarts en rechts wijst"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "29AB",
     "mappings": {
       "default": {
-        "default": "gemeten hoek met open arm die in 'n pijltje eindig die neerwaartse en links wys"
+        "default": "gemeten hoek met open arm die in een pijltje eindig die neerwaarts en links wijst"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "29AC",
     "mappings": {
       "default": {
-        "default": "gemeten hoek met open arm die in 'n pijltje eindig die rechts en opwaartse wys"
+        "default": "gemeten hoek met open arm die in een pijltje eindig die rechts en opwaarts wijst"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "29AD",
     "mappings": {
       "default": {
-        "default": "gemeten hoek met open arm die in 'n pijltje eindig die links en opwaartse wys"
+        "default": "gemeten hoek met open arm die in een pijltje eindig die links en opwaarts wijst"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "29AE",
     "mappings": {
       "default": {
-        "default": "gemeten hoek met open arm die in 'n pijltje eindig die rechts en neerwaartse wys"
+        "default": "gemeten hoek met open arm die in een pijltje eindig die rechts en neerwaarts wijst"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "29AF",
     "mappings": {
       "default": {
-        "default": "gemeten hoek met open arm die in 'n pijltje eindig die links en neerwaartse wys"
+        "default": "gemeten hoek met open arm die in een pijltje eindig die links en neerwaarts wijst"
       }
     }
   }

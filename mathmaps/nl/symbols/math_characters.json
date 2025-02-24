@@ -6,7 +6,7 @@
     "key": "2113",
     "mappings": {
       "default": {
-        "default": "skript l"
+        "default": "script l"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "2118",
     "mappings": {
       "default": {
-        "default": "skript hoofletter p"
+        "default": "script hoofdletter p"
       }
     }
   },
@@ -22,7 +22,7 @@
     "key": "213C",
     "mappings": {
       "default": {
-        "default": "pi dubbelgeslaan"
+        "default": "pi dubbelgeslagen"
       }
     }
   },
@@ -30,7 +30,7 @@
     "key": "213D",
     "mappings": {
       "default": {
-        "default": "gamma dubbelgeslaan"
+        "default": "gamma dubbelgeslagen"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "213E",
     "mappings": {
       "default": {
-        "default": "hoofletter gamma dubbelgeslaan"
+        "default": "hoofdletter gamma dubbelgeslagen"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "213F",
     "mappings": {
       "default": {
-        "default": "hoofletter Pi dubbelgeslaan"
+        "default": "hoofdletter Pi dubbelgeslagen"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "2140",
     "mappings": {
       "default": {
-        "default": "sommeer dubbelgeslaan"
+        "default": "sommeer dubbelgeslagen"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "2145",
     "mappings": {
       "default": {
-        "default": "dubbelgeslaande kursief hoofletter d"
+        "default": "dubbelgeslagen cursieve hoofdletter d"
       }
     }
   },
@@ -70,7 +70,7 @@
     "key": "2146",
     "mappings": {
       "default": {
-        "default": "dubbelgeslaande kursief d"
+        "default": "dubbelgeslagen cursieve d"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "2147",
     "mappings": {
       "default": {
-        "default": "dubbelgeslaande kursief e"
+        "default": "dubbelgeslagen cursieve e"
       }
     }
   },
@@ -86,7 +86,7 @@
     "key": "2148",
     "mappings": {
       "default": {
-        "default": "dubbelgeslaande kursief i"
+        "default": "dubbelgeslagen cursieve i"
       }
     }
   },
@@ -94,7 +94,7 @@
     "key": "2149",
     "mappings": {
       "default": {
-        "default": "dubbelgeslaande kursief j"
+        "default": "dubbelgeslagen cursieve j"
       }
     }
   },
@@ -102,7 +102,7 @@
     "key": "1D6A4",
     "mappings": {
       "default": {
-        "default": "kursief puntlose i"
+        "default": "cursieve puntlose i"
       }
     }
   },
@@ -110,7 +110,7 @@
     "key": "1D6A5",
     "mappings": {
       "default": {
-        "default": "kursief puntlose j"
+        "default": "cursieve puntlose j"
       }
     }
   }
