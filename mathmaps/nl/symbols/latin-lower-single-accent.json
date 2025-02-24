@@ -494,7 +494,7 @@
     "key": "0151",
     "mappings": {
       "default": {
-        "default": "o dubbel aigu"
+        "default": "o dubbele aigu"
       }
     }
   },
@@ -606,7 +606,7 @@
     "key": "0171",
     "mappings": {
       "default": {
-        "default": "u dubbel aigu"
+        "default": "u dubbele aigu"
       }
     }
   },
@@ -742,7 +742,7 @@
     "key": "0201",
     "mappings": {
       "default": {
-        "default": "a dubbel grave"
+        "default": "a dubbele grave"
       }
     }
   },
@@ -750,7 +750,7 @@
     "key": "0203",
     "mappings": {
       "default": {
-        "default": "a tru breve"
+        "default": "a omgekeerde breve"
       }
     }
   },
@@ -758,7 +758,7 @@
     "key": "0205",
     "mappings": {
       "default": {
-        "default": "e dubbel grave"
+        "default": "e dubbele grave"
       }
     }
   },
@@ -766,7 +766,7 @@
     "key": "0207",
     "mappings": {
       "default": {
-        "default": "e tru breve"
+        "default": "e omgekeerde breve"
       }
     }
   },
@@ -774,7 +774,7 @@
     "key": "0209",
     "mappings": {
       "default": {
-        "default": "i dubbel grave"
+        "default": "i dubbele grave"
       }
     }
   },
@@ -782,7 +782,7 @@
     "key": "020B",
     "mappings": {
       "default": {
-        "default": "i tru breve"
+        "default": "i omgekeerde breve"
       }
     }
   },
@@ -790,7 +790,7 @@
     "key": "020D",
     "mappings": {
       "default": {
-        "default": "o dubbel grave"
+        "default": "o dubbele grave"
       }
     }
   },
@@ -798,7 +798,7 @@
     "key": "020F",
     "mappings": {
       "default": {
-        "default": "o tru breve"
+        "default": "o omgekeerde breve"
       }
     }
   },
@@ -806,7 +806,7 @@
     "key": "0211",
     "mappings": {
       "default": {
-        "default": "r dubbel grave"
+        "default": "r dubbele grave"
       }
     }
   },
@@ -814,7 +814,7 @@
     "key": "0213",
     "mappings": {
       "default": {
-        "default": "r tru breve"
+        "default": "r omgekeerde breve"
       }
     }
   },
@@ -822,7 +822,7 @@
     "key": "0215",
     "mappings": {
       "default": {
-        "default": "u dubbel grave"
+        "default": "u dubbele grave"
       }
     }
   },
@@ -830,7 +830,7 @@
     "key": "0217",
     "mappings": {
       "default": {
-        "default": "u tru breve"
+        "default": "u omgekeerde breve"
       }
     }
   },

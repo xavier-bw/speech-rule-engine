@@ -14,7 +14,7 @@
     "key": "00C1",
     "mappings": {
       "default": {
-        "default": "hoofletter A akkuut"
+        "default": "hoofletter A acuut"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "00C4",
     "mappings": {
       "default": {
-        "default": "hoofletter A dubbel bopunt"
+        "default": "hoofletter A dubbel bovenpunt"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "00C7",
     "mappings": {
       "default": {
-        "default": "hoofletter C sidilla"
+        "default": "hoofletter C cedille"
       }
     }
   },
@@ -70,7 +70,7 @@
     "key": "00C9",
     "mappings": {
       "default": {
-        "default": "hoofletter E akkuut"
+        "default": "hoofletter E acuut"
       }
     }
   },
@@ -102,7 +102,7 @@
     "key": "00CD",
     "mappings": {
       "default": {
-        "default": "hoofletter I akkuut"
+        "default": "hoofletter I acuut"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "00D3",
     "mappings": {
       "default": {
-        "default": "hoofletter O akkuut"
+        "default": "hoofletter O acuut"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "00DA",
     "mappings": {
       "default": {
-        "default": "hoofletter U akkuut"
+        "default": "hoofletter U acuut"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "00DD",
     "mappings": {
       "default": {
-        "default": "hoofletter Y akkuut"
+        "default": "hoofletter Y acuut"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "0100",
     "mappings": {
       "default": {
-        "default": "hoofletter A bostaaf"
+        "default": "hoofletter A bovenstaaf"
       }
     }
   },
@@ -238,7 +238,7 @@
     "key": "0106",
     "mappings": {
       "default": {
-        "default": "hoofletter C akkuut"
+        "default": "hoofletter C acuut"
       }
     }
   },
@@ -254,7 +254,7 @@
     "key": "010A",
     "mappings": {
       "default": {
-        "default": "hoofletter C bopunt"
+        "default": "hoofletter C bovenpunt"
       }
     }
   },
@@ -262,7 +262,7 @@
     "key": "010C",
     "mappings": {
       "default": {
-        "default": "hoofletter C karon"
+        "default": "hoofletter C caron"
       }
     }
   },
@@ -270,7 +270,7 @@
     "key": "010E",
     "mappings": {
       "default": {
-        "default": "hoofletter D karon"
+        "default": "hoofletter D caron"
       }
     }
   },
@@ -278,7 +278,7 @@
     "key": "0112",
     "mappings": {
       "default": {
-        "default": "hoofletter E bostaaf"
+        "default": "hoofletter E bovenstaaf"
       }
     }
   },
@@ -294,7 +294,7 @@
     "key": "0116",
     "mappings": {
       "default": {
-        "default": "hoofletter E bopunt"
+        "default": "hoofletter E bovenpunt"
       }
     }
   },
@@ -310,7 +310,7 @@
     "key": "011A",
     "mappings": {
       "default": {
-        "default": "hoofletter E karon"
+        "default": "hoofletter E caron"
       }
     }
   },
@@ -334,7 +334,7 @@
     "key": "0120",
     "mappings": {
       "default": {
-        "default": "hoofletter G bopunt"
+        "default": "hoofletter G bovenpunt"
       }
     }
   },
@@ -342,7 +342,7 @@
     "key": "0122",
     "mappings": {
       "default": {
-        "default": "hoofletter G sidilla"
+        "default": "hoofletter G cedille"
       }
     }
   },
@@ -366,7 +366,7 @@
     "key": "012A",
     "mappings": {
       "default": {
-        "default": "hoofletter I bostaaf"
+        "default": "hoofletter I bovenstaaf"
       }
     }
   },
@@ -390,7 +390,7 @@
     "key": "0130",
     "mappings": {
       "default": {
-        "default": "hoofletter I bopunt"
+        "default": "hoofletter I bovenpunt"
       }
     }
   },
@@ -406,7 +406,7 @@
     "key": "0136",
     "mappings": {
       "default": {
-        "default": "hoofletter K sidilla"
+        "default": "hoofletter K cedille"
       }
     }
   },
@@ -414,7 +414,7 @@
     "key": "0139",
     "mappings": {
       "default": {
-        "default": "hoofletter L akkuut"
+        "default": "hoofletter L acuut"
       }
     }
   },
@@ -422,7 +422,7 @@
     "key": "013B",
     "mappings": {
       "default": {
-        "default": "hoofletter L sidilla"
+        "default": "hoofletter L cedille"
       }
     }
   },
@@ -430,7 +430,7 @@
     "key": "013D",
     "mappings": {
       "default": {
-        "default": "hoofletter L karon"
+        "default": "hoofletter L caron"
       }
     }
   },
@@ -446,7 +446,7 @@
     "key": "0143",
     "mappings": {
       "default": {
-        "default": "hoofletter N akkuut"
+        "default": "hoofletter N acuut"
       }
     }
   },
@@ -454,7 +454,7 @@
     "key": "0145",
     "mappings": {
       "default": {
-        "default": "hoofletter N sidilla"
+        "default": "hoofletter N cedille"
       }
     }
   },
@@ -462,7 +462,7 @@
     "key": "0147",
     "mappings": {
       "default": {
-        "default": "hoofletter N karon"
+        "default": "hoofletter N caron"
       }
     }
   },
@@ -470,7 +470,7 @@
     "key": "014C",
     "mappings": {
       "default": {
-        "default": "hoofletter O bostaaf"
+        "default": "hoofletter O bovenstaaf"
       }
     }
   },
@@ -486,7 +486,7 @@
     "key": "0150",
     "mappings": {
       "default": {
-        "default": "hoofletter O dubbel akkuut"
+        "default": "hoofletter O dubbele acuut"
       }
     }
   },
@@ -494,7 +494,7 @@
     "key": "0154",
     "mappings": {
       "default": {
-        "default": "hoofletter R akkuut"
+        "default": "hoofletter R acuut"
       }
     }
   },
@@ -502,7 +502,7 @@
     "key": "0156",
     "mappings": {
       "default": {
-        "default": "hoofletter R sidilla"
+        "default": "hoofletter R cedille"
       }
     }
   },
@@ -510,7 +510,7 @@
     "key": "0158",
     "mappings": {
       "default": {
-        "default": "hoofletter R karon"
+        "default": "hoofletter R caron"
       }
     }
   },
@@ -518,7 +518,7 @@
     "key": "015A",
     "mappings": {
       "default": {
-        "default": "hoofletter S akkuut"
+        "default": "hoofletter S acuut"
       }
     }
   },
@@ -534,7 +534,7 @@
     "key": "015E",
     "mappings": {
       "default": {
-        "default": "hoofletter S sidilla"
+        "default": "hoofletter S cedille"
       }
     }
   },
@@ -542,7 +542,7 @@
     "key": "0160",
     "mappings": {
       "default": {
-        "default": "hoofletter S karon"
+        "default": "hoofletter S caron"
       }
     }
   },
@@ -550,7 +550,7 @@
     "key": "0162",
     "mappings": {
       "default": {
-        "default": "hoofletter T sidilla"
+        "default": "hoofletter T cedille"
       }
     }
   },
@@ -558,7 +558,7 @@
     "key": "0164",
     "mappings": {
       "default": {
-        "default": "hoofletter T karon"
+        "default": "hoofletter T caron"
       }
     }
   },
@@ -574,7 +574,7 @@
     "key": "016A",
     "mappings": {
       "default": {
-        "default": "hoofletter U bostaaf"
+        "default": "hoofletter U bovenstaaf"
       }
     }
   },
@@ -598,7 +598,7 @@
     "key": "0170",
     "mappings": {
       "default": {
-        "default": "hoofletter U dubbel akkuut"
+        "default": "hoofletter U dubbele acuut"
       }
     }
   },
@@ -630,7 +630,7 @@
     "key": "0178",
     "mappings": {
       "default": {
-        "default": "hoofletter Y dubbel bopunt"
+        "default": "hoofletter Y dubbel bovenpunt"
       }
     }
   },
@@ -638,7 +638,7 @@
     "key": "0179",
     "mappings": {
       "default": {
-        "default": "hoofletter Z akkuut"
+        "default": "hoofletter Z acuut"
       }
     }
   },
@@ -646,7 +646,7 @@
     "key": "017B",
     "mappings": {
       "default": {
-        "default": "hoofletter Z bopunt"
+        "default": "hoofletter Z bovenpunt"
       }
     }
   },
@@ -654,7 +654,7 @@
     "key": "017D",
     "mappings": {
       "default": {
-        "default": "hoofletter Z karon"
+        "default": "hoofletter Z caron"
       }
     }
   },
@@ -662,7 +662,7 @@
     "key": "01CD",
     "mappings": {
       "default": {
-        "default": "hoofletter A karon"
+        "default": "hoofletter A caron"
       }
     }
   },
@@ -670,7 +670,7 @@
     "key": "01CF",
     "mappings": {
       "default": {
-        "default": "hoofletter I karon"
+        "default": "hoofletter I caron"
       }
     }
   },
@@ -678,7 +678,7 @@
     "key": "01D1",
     "mappings": {
       "default": {
-        "default": "hoofletter O karon"
+        "default": "hoofletter O caron"
       }
     }
   },
@@ -686,7 +686,7 @@
     "key": "01D3",
     "mappings": {
       "default": {
-        "default": "hoofletter U karon"
+        "default": "hoofletter U caron"
       }
     }
   },
@@ -694,7 +694,7 @@
     "key": "01E6",
     "mappings": {
       "default": {
-        "default": "hoofletter G karon"
+        "default": "hoofletter G caron"
       }
     }
   },
@@ -702,7 +702,7 @@
     "key": "01E8",
     "mappings": {
       "default": {
-        "default": "hoofletter K karon"
+        "default": "hoofletter K caron"
       }
     }
   },
@@ -718,7 +718,7 @@
     "key": "01F4",
     "mappings": {
       "default": {
-        "default": "hoofletter G akkuut"
+        "default": "hoofletter G acuut"
       }
     }
   },
@@ -734,7 +734,7 @@
     "key": "0200",
     "mappings": {
       "default": {
-        "default": "hoofletter A dubbel gravis"
+        "default": "hoofletter A dubbele gravis"
       }
     }
   },
@@ -742,7 +742,7 @@
     "key": "0202",
     "mappings": {
       "default": {
-        "default": "hoofletter A tru brevis"
+        "default": "hoofletter A omgekeerde brevis"
       }
     }
   },
@@ -750,7 +750,7 @@
     "key": "0204",
     "mappings": {
       "default": {
-        "default": "hoofletter E dubbel gravis"
+        "default": "hoofletter E dubbele gravis"
       }
     }
   },
@@ -758,7 +758,7 @@
     "key": "0206",
     "mappings": {
       "default": {
-        "default": "hoofletter E tru brevis"
+        "default": "hoofletter E omgekeerde brevis"
       }
     }
   },
@@ -766,7 +766,7 @@
     "key": "0208",
     "mappings": {
       "default": {
-        "default": "hoofletter I dubbel gravis"
+        "default": "hoofletter I dubbele gravis"
       }
     }
   },
@@ -774,7 +774,7 @@
     "key": "020A",
     "mappings": {
       "default": {
-        "default": "hoofletter I tru brevis"
+        "default": "hoofletter I omgekeerde brevis"
       }
     }
   },
@@ -782,7 +782,7 @@
     "key": "020C",
     "mappings": {
       "default": {
-        "default": "hoofletter O dubbel gravis"
+        "default": "hoofletter O dubbele gravis"
       }
     }
   },
@@ -790,7 +790,7 @@
     "key": "020E",
     "mappings": {
       "default": {
-        "default": "hoofletter O tru brevis"
+        "default": "hoofletter O omgekeerde brevis"
       }
     }
   },
@@ -798,7 +798,7 @@
     "key": "0210",
     "mappings": {
       "default": {
-        "default": "hoofletter R dubbel gravis"
+        "default": "hoofletter R dubbele gravis"
       }
     }
   },
@@ -806,7 +806,7 @@
     "key": "0212",
     "mappings": {
       "default": {
-        "default": "hoofletter R tru brevis"
+        "default": "hoofletter R omgekeerde brevis"
       }
     }
   },
@@ -814,7 +814,7 @@
     "key": "0214",
     "mappings": {
       "default": {
-        "default": "hoofletter U dubbel gravis"
+        "default": "hoofletter U dubbele gravis"
       }
     }
   },
@@ -822,7 +822,7 @@
     "key": "0216",
     "mappings": {
       "default": {
-        "default": "hoofletter U tru brevis"
+        "default": "hoofletter U omgekeerde brevis"
       }
     }
   },
@@ -846,7 +846,7 @@
     "key": "021E",
     "mappings": {
       "default": {
-        "default": "hoofletter H karon"
+        "default": "hoofletter H caron"
       }
     }
   },
@@ -854,7 +854,7 @@
     "key": "0226",
     "mappings": {
       "default": {
-        "default": "hoofletter A bopunt"
+        "default": "hoofletter A bovenpunt"
       }
     }
   },
@@ -862,7 +862,7 @@
     "key": "0228",
     "mappings": {
       "default": {
-        "default": "hoofletter E sidilla"
+        "default": "hoofletter E cedille"
       }
     }
   },
@@ -870,7 +870,7 @@
     "key": "022E",
     "mappings": {
       "default": {
-        "default": "hoofletter O bopunt"
+        "default": "hoofletter O bovenpunt"
       }
     }
   },
@@ -878,7 +878,7 @@
     "key": "0232",
     "mappings": {
       "default": {
-        "default": "hoofletter Y bostaaf"
+        "default": "hoofletter Y bovenstaaf"
       }
     }
   },
@@ -894,7 +894,7 @@
     "key": "1E02",
     "mappings": {
       "default": {
-        "default": "hoofletter B bopunt"
+        "default": "hoofletter B bovenpunt"
       }
     }
   },
@@ -918,7 +918,7 @@
     "key": "1E0A",
     "mappings": {
       "default": {
-        "default": "hoofletter D bopunt"
+        "default": "hoofletter D bovenpunt"
       }
     }
   },
@@ -942,7 +942,7 @@
     "key": "1E10",
     "mappings": {
       "default": {
-        "default": "hoofletter D sidilla"
+        "default": "hoofletter D cedille"
       }
     }
   },
@@ -974,7 +974,7 @@
     "key": "1E1E",
     "mappings": {
       "default": {
-        "default": "hoofletter F bopunt"
+        "default": "hoofletter F bovenpunt"
       }
     }
   },
@@ -982,7 +982,7 @@
     "key": "1E20",
     "mappings": {
       "default": {
-        "default": "hoofletter G bostaaf"
+        "default": "hoofletter G bovenstaaf"
       }
     }
   },
@@ -990,7 +990,7 @@
     "key": "1E22",
     "mappings": {
       "default": {
-        "default": "hoofletter H bopunt"
+        "default": "hoofletter H bovenpunt"
       }
     }
   },
@@ -1006,7 +1006,7 @@
     "key": "1E26",
     "mappings": {
       "default": {
-        "default": "hoofletter H dubbel bopunt"
+        "default": "hoofletter H dubbel bovenpunt"
       }
     }
   },
@@ -1014,7 +1014,7 @@
     "key": "1E28",
     "mappings": {
       "default": {
-        "default": "hoofletter H sidilla"
+        "default": "hoofletter H cedille"
       }
     }
   },
@@ -1038,7 +1038,7 @@
     "key": "1E30",
     "mappings": {
       "default": {
-        "default": "hoofletter K akkuut"
+        "default": "hoofletter K acuut"
       }
     }
   },
@@ -1086,7 +1086,7 @@
     "key": "1E3E",
     "mappings": {
       "default": {
-        "default": "hoofletter M akkuut"
+        "default": "hoofletter M acuut"
       }
     }
   },
@@ -1094,7 +1094,7 @@
     "key": "1E40",
     "mappings": {
       "default": {
-        "default": "hoofletter M bopunt"
+        "default": "hoofletter M bovenpunt"
       }
     }
   },
@@ -1110,7 +1110,7 @@
     "key": "1E44",
     "mappings": {
       "default": {
-        "default": "hoofletter N bopunt"
+        "default": "hoofletter N bovenpunt"
       }
     }
   },
@@ -1142,7 +1142,7 @@
     "key": "1E54",
     "mappings": {
       "default": {
-        "default": "hoofletter P akkuut"
+        "default": "hoofletter P acuut"
       }
     }
   },
@@ -1150,7 +1150,7 @@
     "key": "1E56",
     "mappings": {
       "default": {
-        "default": "hoofletter P bopunt"
+        "default": "hoofletter P bovenpunt"
       }
     }
   },
@@ -1158,7 +1158,7 @@
     "key": "1E58",
     "mappings": {
       "default": {
-        "default": "hoofletter R bopunt"
+        "default": "hoofletter R bovenpunt"
       }
     }
   },
@@ -1182,7 +1182,7 @@
     "key": "1E60",
     "mappings": {
       "default": {
-        "default": "hoofletter S bopunt"
+        "default": "hoofletter S bovenpunt"
       }
     }
   },
@@ -1198,7 +1198,7 @@
     "key": "1E6A",
     "mappings": {
       "default": {
-        "default": "hoofletter T bopunt"
+        "default": "hoofletter T bovenpunt"
       }
     }
   },
@@ -1278,7 +1278,7 @@
     "key": "1E82",
     "mappings": {
       "default": {
-        "default": "hoofletter W akkuut"
+        "default": "hoofletter W acuut"
       }
     }
   },
@@ -1286,7 +1286,7 @@
     "key": "1E84",
     "mappings": {
       "default": {
-        "default": "hoofletter W dubbel bopunt"
+        "default": "hoofletter W dubbel bovenpunt"
       }
     }
   },
@@ -1294,7 +1294,7 @@
     "key": "1E86",
     "mappings": {
       "default": {
-        "default": "hoofletter W bopunt"
+        "default": "hoofletter W bovenpunt"
       }
     }
   },
@@ -1310,7 +1310,7 @@
     "key": "1E8A",
     "mappings": {
       "default": {
-        "default": "hoofletter X bopunt"
+        "default": "hoofletter X bovenpunt"
       }
     }
   },
@@ -1318,7 +1318,7 @@
     "key": "1E8C",
     "mappings": {
       "default": {
-        "default": "hoofletter X dubbel bopunt"
+        "default": "hoofletter X dubbel bovenpunt"
       }
     }
   },
@@ -1326,7 +1326,7 @@
     "key": "1E8E",
     "mappings": {
       "default": {
-        "default": "hoofletter Y bopunt"
+        "default": "hoofletter Y bovenpunt"
       }
     }
   },

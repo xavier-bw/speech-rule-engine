@@ -6,7 +6,7 @@
     "key": "01D5",
     "mappings": {
       "default": {
-        "default": "hoofletter u dubbel bopunt bostaaf"
+        "default": "hoofletter u dubbel bovenpunt bovenstaaf"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "01D7",
     "mappings": {
       "default": {
-        "default": "hoofletter u dubbel bopunt akkuut"
+        "default": "hoofletter u dubbel bovenpunt acuut"
       }
     }
   },
@@ -22,7 +22,7 @@
     "key": "01D9",
     "mappings": {
       "default": {
-        "default": "hoofletter u dubbel bopunt karon"
+        "default": "hoofletter u dubbel bovenpunt caron"
       }
     }
   },
@@ -30,7 +30,7 @@
     "key": "01DB",
     "mappings": {
       "default": {
-        "default": "hoofletter u dubbel bopunt gravis"
+        "default": "hoofletter u dubbel bovenpunt gravis"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "01DE",
     "mappings": {
       "default": {
-        "default": "hoofletter a dubbel bopunt bostaaf"
+        "default": "hoofletter a dubbel bovenpunt bovenstaaf"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "01E0",
     "mappings": {
       "default": {
-        "default": "hoofletter a bopunt bostaaf"
+        "default": "hoofletter a bovenpunt bovenstaaf"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "01EC",
     "mappings": {
       "default": {
-        "default": "hoofletter o ogonek bostaaf"
+        "default": "hoofletter o ogonek bovenstaaf"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "01FA",
     "mappings": {
       "default": {
-        "default": "hoofletter a ring akkuut"
+        "default": "hoofletter a ring acuut"
       }
     }
   },
@@ -70,7 +70,7 @@
     "key": "022A",
     "mappings": {
       "default": {
-        "default": "hoofletter o dubbel bopunt bostaaf"
+        "default": "hoofletter o dubbel bovenpunt bovenstaaf"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "022C",
     "mappings": {
       "default": {
-        "default": "hoofletter o tilde bostaaf"
+        "default": "hoofletter o tilde bovenstaaf"
       }
     }
   },
@@ -86,7 +86,7 @@
     "key": "0230",
     "mappings": {
       "default": {
-        "default": "hoofletter o bopunt bostaaf"
+        "default": "hoofletter o bovenpunt bovenstaaf"
       }
     }
   },
@@ -94,7 +94,7 @@
     "key": "1E08",
     "mappings": {
       "default": {
-        "default": "hoofletter c sidila akkuut"
+        "default": "hoofletter c sidila acuut"
       }
     }
   },
@@ -102,7 +102,7 @@
     "key": "1E14",
     "mappings": {
       "default": {
-        "default": "hoofletter e bostaaf gravis"
+        "default": "hoofletter e bovenstaaf gravis"
       }
     }
   },
@@ -110,7 +110,7 @@
     "key": "1E16",
     "mappings": {
       "default": {
-        "default": "hoofletter e bostaaf akkuut"
+        "default": "hoofletter e bovenstaaf acuut"
       }
     }
   },
@@ -126,7 +126,7 @@
     "key": "1E2E",
     "mappings": {
       "default": {
-        "default": "hoofletter i dubbel bopunt akkuut"
+        "default": "hoofletter i dubbel bovenpunt acuut"
       }
     }
   },
@@ -134,7 +134,7 @@
     "key": "1E38",
     "mappings": {
       "default": {
-        "default": "hoofletter l onderpunt bostaaf"
+        "default": "hoofletter l onderpunt bovenstaaf"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "1E4C",
     "mappings": {
       "default": {
-        "default": "hoofletter o tilde akkuut"
+        "default": "hoofletter o tilde acuut"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "1E4E",
     "mappings": {
       "default": {
-        "default": "hoofletter o tilde dubbel bopunt"
+        "default": "hoofletter o tilde dubbel bovenpunt"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "1E50",
     "mappings": {
       "default": {
-        "default": "hoofletter o bostaaf gravis"
+        "default": "hoofletter o bovenstaaf gravis"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "1E52",
     "mappings": {
       "default": {
-        "default": "hoofletter o bostaaf akkuut"
+        "default": "hoofletter o bovenstaaf acuut"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "1E5C",
     "mappings": {
       "default": {
-        "default": "hoofletter r bostaaf onderpunt"
+        "default": "hoofletter r bovenstaaf onderpunt"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "1E64",
     "mappings": {
       "default": {
-        "default": "hoofletter s akkuut bopunt"
+        "default": "hoofletter s acuut bovenpunt"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "1E66",
     "mappings": {
       "default": {
-        "default": "hoofletter s karon bopunt"
+        "default": "hoofletter s caron bovenpunt"
       }
     }
   },
@@ -198,7 +198,7 @@
     "key": "1E68",
     "mappings": {
       "default": {
-        "default": "hoofletter s onderpunt bopunt"
+        "default": "hoofletter s onderpunt bovenpunt"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "1E78",
     "mappings": {
       "default": {
-        "default": "hoofletter u tilde akkuut"
+        "default": "hoofletter u tilde acuut"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "1E7A",
     "mappings": {
       "default": {
-        "default": "hoofletter u bostaaf dubbel bopunt"
+        "default": "hoofletter u bovenstaaf dubbel bovenpunt"
       }
     }
   },
@@ -222,7 +222,7 @@
     "key": "1EA4",
     "mappings": {
       "default": {
-        "default": "hoofletter a hoed akkuut"
+        "default": "hoofletter a hoed acuut"
       }
     }
   },
@@ -262,7 +262,7 @@
     "key": "1EAE",
     "mappings": {
       "default": {
-        "default": "hoofletter a brevis akkuut"
+        "default": "hoofletter a brevis acuut"
       }
     }
   },
@@ -302,7 +302,7 @@
     "key": "1EBE",
     "mappings": {
       "default": {
-        "default": "hoofletter e hoed akkuut"
+        "default": "hoofletter e hoed acuut"
       }
     }
   },
@@ -342,7 +342,7 @@
     "key": "1ED0",
     "mappings": {
       "default": {
-        "default": "hoofletter o hoed akkuut"
+        "default": "hoofletter o hoed acuut"
       }
     }
   },
@@ -382,7 +382,7 @@
     "key": "1EDA",
     "mappings": {
       "default": {
-        "default": "hoofletter o akkuut priem"
+        "default": "hoofletter o acuut priem"
       }
     }
   },
@@ -422,7 +422,7 @@
     "key": "1EE8",
     "mappings": {
       "default": {
-        "default": "hoofletter u akkuut priem"
+        "default": "hoofletter u acuut priem"
       }
     }
   },

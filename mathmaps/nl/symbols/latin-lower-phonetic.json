@@ -134,7 +134,7 @@
     "key": "025F",
     "mappings": {
       "default": {
-        "default": "puntlose j met streep"
+        "default": "puntloze j met streep"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "0284",
     "mappings": {
       "default": {
-        "default": "puntlose j met streep en haak"
+        "default": "puntloze j met streep en haak"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "1D13",
     "mappings": {
       "default": {
-        "default": "zijwaardse o met streep"
+        "default": "zijwaartse o met streep"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "1E9C",
     "mappings": {
       "default": {
-        "default": "lange  s met diagonale streep"
+        "default": "lange s met diagonale streep"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "1E9D",
     "mappings": {
       "default": {
-        "default": "lange  s met hoë streep"
+        "default": "lange s met hoë streep"
       }
     }
   },
@@ -254,7 +254,7 @@
     "key": "017F",
     "mappings": {
       "default": {
-        "default": "lange  s"
+        "default": "lange s"
       }
     }
   },
@@ -750,7 +750,7 @@
     "key": "025E",
     "mappings": {
       "default": {
-        "default": "toe omgekeerde open e"
+        "default": "gesloten omgekeerde open e"
       }
     }
   },
@@ -886,7 +886,7 @@
     "key": "0275",
     "mappings": {
       "default": {
-        "default": "barred o"
+        "default": "o met horizontale streep"
       }
     }
   },
@@ -894,7 +894,7 @@
     "key": "0277",
     "mappings": {
       "default": {
-        "default": "toe omega"
+        "default": "gesloten omega"
       }
     }
   },
@@ -1110,7 +1110,7 @@
     "key": "029A",
     "mappings": {
       "default": {
-        "default": "toe open e"
+        "default": "gesloten open e"
       }
     }
   },
@@ -1254,7 +1254,7 @@
     "key": "1D11",
     "mappings": {
       "default": {
-        "default": "zijwaardse o"
+        "default": "zijwaartse o"
       }
     }
   },
@@ -1262,7 +1262,7 @@
     "key": "1D12",
     "mappings": {
       "default": {
-        "default": "zijwaardse m"
+        "default": "zijwaartse m"
       }
     }
   },
@@ -1294,7 +1294,7 @@
     "key": "1D1D",
     "mappings": {
       "default": {
-        "default": "zijwaardse u"
+        "default": "zijwaartse u"
       }
     }
   },
@@ -1302,7 +1302,7 @@
     "key": "1D1E",
     "mappings": {
       "default": {
-        "default": "zijwaardse diaeresized u"
+        "default": "zijwaartse diaeresized u"
       }
     }
   },
@@ -1310,7 +1310,7 @@
     "key": "1D1F",
     "mappings": {
       "default": {
-        "default": "zijwaardse m"
+        "default": "zijwaartse m"
       }
     }
   },

@@ -30,7 +30,7 @@
     "key": "1D7CA",
     "mappings": {
       "default": {
-        "default": "vetgedrukte hoofdletter Digamma"
+        "default": "vetgedrukte hoofdletter digamma"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "1D7CB",
     "mappings": {
       "default": {
-        "default": "vetgedrukte Digamma"
+        "default": "vetgedrukte digamma"
       }
     }
   }

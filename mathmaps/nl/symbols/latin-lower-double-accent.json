@@ -94,7 +94,7 @@
     "key": "1E09",
     "mappings": {
       "default": {
-        "default": "c sidilla aigu"
+        "default": "c cedille aigu"
       }
     }
   },
@@ -118,7 +118,7 @@
     "key": "1E1D",
     "mappings": {
       "default": {
-        "default": "e sidilla asem"
+        "default": "e cedille asem"
       }
     }
   },
