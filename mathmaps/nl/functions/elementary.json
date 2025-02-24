@@ -93,7 +93,7 @@
     "key": "im",
     "mappings": {
       "default": {
-        "default": "imaginaire gedeelte"
+        "default": "imaginair deel"
       },
       "mathspeak": {
         "default": "im"
@@ -107,7 +107,7 @@
     "key": "re",
     "mappings": {
       "default": {
-        "default": "reëele gedeelte"
+        "default": "reëel deel"
       },
       "mathspeak": {
         "default": "re"

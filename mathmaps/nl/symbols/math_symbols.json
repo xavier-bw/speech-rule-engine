@@ -6,7 +6,7 @@
     "key": "0021",
     "mappings": {
       "default": {
-        "default": "uitroep"
+        "default": "uitroepingsteken"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "0022",
     "mappings": {
       "default": {
-        "default": "haal aan"
+        "default": "aanhalingsteken"
       }
     }
   },
@@ -22,7 +22,7 @@
     "key": "0023",
     "mappings": {
       "default": {
-        "default": "huts",
+        "default": "hekje",
         "alternative": "hash"
       }
     }
@@ -39,7 +39,7 @@
     "key": "0025",
     "mappings": {
       "default": {
-        "default": "persent"
+        "default": "percent"
       }
     }
   },
@@ -260,7 +260,7 @@
     "key": "00A6",
     "mappings": {
       "default": {
-        "default": "gebroken  verticale streep"
+        "default": "gebroken verticale streep"
       }
     }
   },
@@ -484,7 +484,7 @@
     "key": "02DD",
     "mappings": {
       "default": {
-        "default": "dubbel aigu"
+        "default": "dubbele aigu"
       }
     }
   },
@@ -572,7 +572,7 @@
     "key": "201A",
     "mappings": {
       "default": {
-        "default": "lage rechter enkel aanhalingsteken"
+        "default": "laag rechter enkel aanhalingsteken"
       }
     }
   },
@@ -580,7 +580,7 @@
     "key": "201B",
     "mappings": {
       "default": {
-        "default": "linker omgekeerde enkele aanhalingsteken"
+        "default": "linker omgekeerd enkel aanhalingsteken"
       }
     }
   },
@@ -604,7 +604,7 @@
     "key": "201E",
     "mappings": {
       "default": {
-        "default": "lage rechter aanhalingsteken"
+        "default": "laag rechter aanhalingsteken"
       }
     }
   },
@@ -644,7 +644,7 @@
     "key": "2023",
     "mappings": {
       "default": {
-        "default": "driehoek kogel"
+        "default": "driehoekige kogel"
       }
     }
   },
@@ -652,7 +652,7 @@
     "key": "2024",
     "mappings": {
       "default": {
-        "default": "een punt leier"
+        "default": "leider met één punt"
       }
     }
   },
@@ -660,7 +660,7 @@
     "key": "2025",
     "mappings": {
       "default": {
-        "default": "twee punt leier"
+        "default": "leider met twee punten"
       }
     }
   },
@@ -684,7 +684,7 @@
     "key": "2030",
     "mappings": {
       "default": {
-        "default": "per myl"
+        "default": "per duizend"
       }
     }
   },
@@ -692,7 +692,7 @@
     "key": "2031",
     "mappings": {
       "default": {
-        "default": "per tienduisend"
+        "default": "per tienduizend"
       }
     }
   },
@@ -756,7 +756,7 @@
     "key": "2039",
     "mappings": {
       "default": {
-        "default": "linkswijzende enkel guillemet"
+        "default": "linkswijzende enkele guillemet"
       }
     }
   },
@@ -764,7 +764,7 @@
     "key": "203A",
     "mappings": {
       "default": {
-        "default": "rechtswijzende enkel guillemet"
+        "default": "rechtswijzende enkele guillemet"
       }
     }
   },
@@ -876,7 +876,7 @@
     "key": "204B",
     "mappings": {
       "default": {
-        "default": "omgekeerde pilkro"
+        "default": "omgekeerde pilkraai"
       }
     }
   },
@@ -884,7 +884,7 @@
     "key": "204C",
     "mappings": {
       "default": {
-        "default": "zwarte linkzwaretse kogel"
+        "default": "zwarte linkswaartse kogel"
       }
     }
   },
@@ -892,7 +892,7 @@
     "key": "204D",
     "mappings": {
       "default": {
-        "default": "zwarte rechtzwaretse kogel"
+        "default": "zwarte rechtswaartse kogel"
       }
     }
   },
@@ -916,7 +916,7 @@
     "key": "2050",
     "mappings": {
       "default": {
-        "default": "van naby"
+        "default": "van nabij"
       }
     }
   },
@@ -924,7 +924,7 @@
     "key": "2051",
     "mappings": {
       "default": {
-        "default": "twee sterre vertikaal"
+        "default": "twee sterren vertikaal"
       }
     }
   },
@@ -932,7 +932,7 @@
     "key": "2052",
     "mappings": {
       "default": {
-        "default": "kommersiële minus"
+        "default": "commerciële minus"
       }
     }
   },
@@ -940,7 +940,7 @@
     "key": "2053",
     "mappings": {
       "default": {
-        "default": "gedraaide koppelteken"
+        "default": "gedraaid koppelteken"
       }
     }
   },
@@ -956,7 +956,7 @@
     "key": "2055",
     "mappings": {
       "default": {
-        "default": "blom leesteken"
+        "default": "bloem leesteken"
       }
     }
   },
@@ -1020,7 +1020,7 @@
     "key": "205D",
     "mappings": {
       "default": {
-        "default": "trikolon"
+        "default": "tricolon"
       }
     }
   },
@@ -1116,7 +1116,7 @@
     "key": "214A",
     "mappings": {
       "default": {
-        "default": "eigenschaplijn"
+        "default": "eigenschapslijn"
       }
     }
   },
@@ -1308,7 +1308,7 @@
     "key": "2215",
     "mappings": {
       "default": {
-        "default": "gedeeld door schuinstreep"
+        "default": "gedeeld door schuine streep"
       }
     }
   },
@@ -1356,7 +1356,7 @@
     "key": "221B",
     "mappings": {
       "default": {
-        "default": "derdemagswortel"
+        "default": "derdemachtswortel"
       }
     }
   },
@@ -1364,7 +1364,7 @@
     "key": "221C",
     "mappings": {
       "default": {
-        "default": "vierdemagswortel"
+        "default": "vierdemachtsswortel"
       }
     }
   },
@@ -1372,7 +1372,7 @@
     "key": "221D",
     "mappings": {
       "default": {
-        "default": "eweredig aan"
+        "default": "evenredig aan"
       }
     }
   },
@@ -1388,7 +1388,7 @@
     "key": "221F",
     "mappings": {
       "default": {
-        "default": "rechtse hoek"
+        "default": "rechte hoek"
       }
     }
   },
@@ -1404,7 +1404,7 @@
     "key": "2221",
     "mappings": {
       "default": {
-        "default": "gemeete hoek"
+        "default": "gemeten hoek"
       }
     }
   },
@@ -1412,7 +1412,7 @@
     "key": "2222",
     "mappings": {
       "default": {
-        "default": "sweriese hoek"
+        "default": "sferische hoek"
       }
     }
   },
@@ -1493,7 +1493,7 @@
     "key": "222C",
     "mappings": {
       "default": {
-        "default": "dubbel integraal"
+        "default": "dubbele integraal"
       }
     }
   },
@@ -1517,7 +1517,7 @@
     "key": "222F",
     "mappings": {
       "default": {
-        "default": "oppervlak integraal"
+        "default": "oppervlakte integraal"
       }
     }
   },
@@ -1581,7 +1581,7 @@
     "key": "2237",
     "mappings": {
       "default": {
-        "default": "proporsie"
+        "default": "verhouding"
       }
     }
   },
@@ -1597,7 +1597,7 @@
     "key": "2239",
     "mappings": {
       "default": {
-        "default": "ekstra"
+        "default": "teveel"
       }
     }
   },
@@ -1605,7 +1605,7 @@
     "key": "223A",
     "mappings": {
       "default": {
-        "default": "giometriese verhouding"
+        "default": "geometrische verhouding"
       }
     }
   },
@@ -1613,7 +1613,7 @@
     "key": "223B",
     "mappings": {
       "default": {
-        "default": "homoteties"
+        "default": "homothetisch"
       }
     }
   },
@@ -1637,7 +1637,7 @@
     "key": "223E",
     "mappings": {
       "default": {
-        "default": "omgekeerde lui s"
+        "default": "omgekeerde luie s"
       }
     }
   },
@@ -1749,7 +1749,7 @@
     "key": "224C",
     "mappings": {
       "default": {
-        "default": "almal gelijk aan"
+        "default": "allemaal gelijk aan"
       }
     }
   },
@@ -1765,7 +1765,7 @@
     "key": "224E",
     "mappings": {
       "default": {
-        "default": "giometries soortgelijk aan"
+        "default": "geometrische soortgelijk aan"
       }
     }
   },
@@ -1773,7 +1773,7 @@
     "key": "224F",
     "mappings": {
       "default": {
-        "default": "verskil tussen"
+        "default": "verschil tussen"
       }
     }
   },
@@ -1781,7 +1781,7 @@
     "key": "2250",
     "mappings": {
       "default": {
-        "default": "nader die limiet"
+        "default": "nadert de limiet"
       }
     }
   },
@@ -1797,7 +1797,7 @@
     "key": "2252",
     "mappings": {
       "default": {
-        "default": "ongeveer gelijk aan of die beeld van"
+        "default": "ongeveer gelijk aan of het beeld van"
       }
     }
   },
@@ -1805,7 +1805,7 @@
     "key": "2253",
     "mappings": {
       "default": {
-        "default": "die beeld van of ongeveer gelijk aan"
+        "default": "het beeld van of ongeveer gelijk aan"
       }
     }
   },
@@ -1845,7 +1845,7 @@
     "key": "2258",
     "mappings": {
       "default": {
-        "default": "stem ooreen met"
+        "default": "stem overeen met"
       }
     }
   },
@@ -1853,7 +1853,7 @@
     "key": "2259",
     "mappings": {
       "default": {
-        "default": "skattings"
+        "default": "schatting"
       }
     }
   },
@@ -1861,7 +1861,7 @@
     "key": "225A",
     "mappings": {
       "default": {
-        "default": "ewehoekig aan"
+        "default": "gelijkhoekig aan"
       }
     }
   },
@@ -1885,7 +1885,7 @@
     "key": "225D",
     "mappings": {
       "default": {
-        "default": "is gelijk aan volgens definisie"
+        "default": "is gelijk aan volgens definitie"
       }
     }
   },
@@ -1893,7 +1893,7 @@
     "key": "225E",
     "mappings": {
       "default": {
-        "default": "gemeet by"
+        "default": "gemeten aan"
       }
     }
   },
@@ -2357,7 +2357,7 @@
     "key": "2298",
     "mappings": {
       "default": {
-        "default": "omcirkelde gedeeld door schuinstreep"
+        "default": "omcirkelde gedeeld door schuine streep"
       }
     }
   },
@@ -2365,7 +2365,7 @@
     "key": "2299",
     "mappings": {
       "default": {
-        "default": "omcirkelde punt"
+        "default": "omcirkeld punt"
       }
     }
   },
@@ -2453,7 +2453,7 @@
     "key": "22A4",
     "mappings": {
       "default": {
-        "default": "neerwaardse tack"
+        "default": "neerwaartse tack"
       }
     }
   },
@@ -2461,7 +2461,7 @@
     "key": "22A5",
     "mappings": {
       "default": {
-        "default": "opwaardse tack"
+        "default": "opwaartse tack"
       }
     }
   },
@@ -2477,7 +2477,7 @@
     "key": "22A7",
     "mappings": {
       "default": {
-        "default": "modelle"
+        "default": "modelleert"
       }
     }
   },
@@ -2621,7 +2621,7 @@
     "key": "22B9",
     "mappings": {
       "default": {
-        "default": "hermitian conjugate matrix"
+        "default": "hermitische geconjugeerde matrix"
       }
     }
   },
@@ -2629,7 +2629,7 @@
     "key": "22BA",
     "mappings": {
       "default": {
-        "default": "invoeg"
+        "default": "intercalate"
       }
     }
   },
@@ -2669,7 +2669,7 @@
     "key": "22C0",
     "mappings": {
       "default": {
-        "default": "n ary and"
+        "default": "n ary en"
       }
     }
   },
@@ -2677,7 +2677,7 @@
     "key": "22C1",
     "mappings": {
       "default": {
-        "default": "n ary or"
+        "default": "n ary of"
       }
     }
   },
@@ -2685,7 +2685,7 @@
     "key": "22C2",
     "mappings": {
       "default": {
-        "default": "n ary intersection"
+        "default": "n ary doorsnede"
       }
     }
   },
@@ -2693,7 +2693,7 @@
     "key": "22C3",
     "mappings": {
       "default": {
-        "default": "n ary union"
+        "default": "n ary unie"
       }
     }
   },
@@ -2701,7 +2701,7 @@
     "key": "22C4",
     "mappings": {
       "default": {
-        "default": "diamand"
+        "default": "diamant"
       }
     }
   },
@@ -2733,7 +2733,7 @@
     "key": "22C8",
     "mappings": {
       "default": {
-        "default": "strikdas"
+        "default": "strikje"
       }
     }
   },
@@ -2741,7 +2741,7 @@
     "key": "22C9",
     "mappings": {
       "default": {
-        "default": "linker normaal faktor semidirekte product"
+        "default": "linker normale factor semi-direct product"
       }
     }
   },
@@ -2749,7 +2749,7 @@
     "key": "22CA",
     "mappings": {
       "default": {
-        "default": "rechter normaal faktor semidirekte product"
+        "default": "rechter normale factor semi-direct product"
       }
     }
   },
@@ -2757,7 +2757,7 @@
     "key": "22CB",
     "mappings": {
       "default": {
-        "default": "linker semidirekte product"
+        "default": "linker semi-direct product"
       }
     }
   },
@@ -2765,7 +2765,7 @@
     "key": "22CC",
     "mappings": {
       "default": {
-        "default": "rechter semidirekte product"
+        "default": "rechter semi-direct product"
       }
     }
   },
@@ -2813,7 +2813,7 @@
     "key": "22D2",
     "mappings": {
       "default": {
-        "default": "dubel intersectie"
+        "default": "dubbele intersectie"
       }
     }
   },
@@ -2829,7 +2829,7 @@
     "key": "22D4",
     "mappings": {
       "default": {
-        "default": "tuinvurk"
+        "default": "hooivork"
       }
     }
   },
@@ -2941,7 +2941,7 @@
     "key": "22E2",
     "mappings": {
       "default": {
-        "default": "not square image of or equals"
+        "default": "geen vierkant beeld van of gelijk aan"
       }
     }
   },
@@ -2949,7 +2949,7 @@
     "key": "22E3",
     "mappings": {
       "default": {
-        "default": "not square original of or equals"
+        "default": "niet vierkant origineel van of gelijk aan"
       }
     }
   },
@@ -2957,7 +2957,7 @@
     "key": "22E4",
     "mappings": {
       "default": {
-        "default": "square image of or not equals"
+        "default": "vierkant beeld van of niet gelijk aan"
       }
     }
   },
@@ -2965,7 +2965,7 @@
     "key": "22E5",
     "mappings": {
       "default": {
-        "default": "square original of or not equals"
+        "default": "vierkant origineel van of niet gelijk aan"
       }
     }
   },
@@ -2989,7 +2989,7 @@
     "key": "22E8",
     "mappings": {
       "default": {
-        "default": "gaan vooraf, maar niet equivalent aan"
+        "default": "gaat vooraf, maar niet equivalent aan"
       }
     }
   },
@@ -3077,7 +3077,7 @@
     "key": "22F3",
     "mappings": {
       "default": {
-        "default": "element van met verticale streep aan die einde van horizontale streep"
+        "default": "element van met verticale streep aan het einde van horizontale streep"
       }
     }
   },
@@ -3085,7 +3085,7 @@
     "key": "22F4",
     "mappings": {
       "default": {
-        "default": "element van met verticale streep aan die einde van horizontale streep"
+        "default": "element van met verticale streep aan het einde van horizontale streep"
       }
     }
   },
@@ -3101,7 +3101,7 @@
     "key": "22F6",
     "mappings": {
       "default": {
-        "default": "element of with overbar"
+        "default": "element van met streep boven"
       }
     }
   },
@@ -3109,7 +3109,7 @@
     "key": "22F7",
     "mappings": {
       "default": {
-        "default": "element of with overbar"
+        "default": "element van met streep boven"
       }
     }
   },
@@ -3117,7 +3117,7 @@
     "key": "22F8",
     "mappings": {
       "default": {
-        "default": "element of with underbar"
+        "default": "element van met streep onder"
       }
     }
   },
@@ -3125,7 +3125,7 @@
     "key": "22F9",
     "mappings": {
       "default": {
-        "default": "element van met twee horizontale strepe"
+        "default": "element van met twee horizontale strepen"
       }
     }
   },
@@ -3133,7 +3133,7 @@
     "key": "22FA",
     "mappings": {
       "default": {
-        "default": "bevat met lang horizontale streep"
+        "default": "bevat met lange horizontale streep"
       }
     }
   },
@@ -3141,7 +3141,7 @@
     "key": "22FB",
     "mappings": {
       "default": {
-        "default": "bevat met verticale streep aan die einde van horizontale streep"
+        "default": "bevat met verticale streep aan het einde van horizontale streep"
       }
     }
   },
@@ -3149,7 +3149,7 @@
     "key": "22FC",
     "mappings": {
       "default": {
-        "default": "bevat met verticale streep aan die einde van horizontale streep"
+        "default": "bevat met verticale streep aan het einde van horizontale streep"
       }
     }
   },
@@ -3157,7 +3157,7 @@
     "key": "22FD",
     "mappings": {
       "default": {
-        "default": "contains with overbar"
+        "default": "bevat met streep boven"
       }
     }
   },
@@ -3165,7 +3165,7 @@
     "key": "22FE",
     "mappings": {
       "default": {
-        "default": "contains with overbar"
+        "default": "bevat met streep boven"
       }
     }
   },
@@ -3309,7 +3309,7 @@
     "key": "27C2",
     "mappings": {
       "default": {
-        "default": "loodreg"
+        "default": "loodrecht"
       }
     }
   },
@@ -3349,7 +3349,7 @@
     "key": "27C9",
     "mappings": {
       "default": {
-        "default": "superset preceding solidus"
+        "default": "superset voor solidus"
       }
     }
   },
@@ -3389,7 +3389,7 @@
     "key": "27CE",
     "mappings": {
       "default": {
-        "default": "squared and"
+        "default": "vierkante en"
       }
     }
   },
@@ -3397,7 +3397,7 @@
     "key": "27CF",
     "mappings": {
       "default": {
-        "default": "squared or"
+        "default": "vierkante of"
       }
     }
   },
@@ -3405,7 +3405,7 @@
     "key": "27D0",
     "mappings": {
       "default": {
-        "default": "wit diamand met gesentreerde punt"
+        "default": "witte diamant met gecentreerde punt"
       }
     }
   },
@@ -3421,7 +3421,7 @@
     "key": "27D2",
     "mappings": {
       "default": {
-        "default": "element van opening boontoe"
+        "default": "element van opening naar boven"
       }
     }
   },
@@ -3445,7 +3445,7 @@
     "key": "27D5",
     "mappings": {
       "default": {
-        "default": "left outer join"
+        "default": "linkse outer join"
       }
     }
   },
@@ -3453,7 +3453,7 @@
     "key": "27D6",
     "mappings": {
       "default": {
-        "default": "right outer join"
+        "default": "rechtse outer join"
       }
     }
   },
@@ -3461,7 +3461,7 @@
     "key": "27D7",
     "mappings": {
       "default": {
-        "default": "full outer join"
+        "default": "volledige outer join"
       }
     }
   },
@@ -3469,7 +3469,7 @@
     "key": "27D8",
     "mappings": {
       "default": {
-        "default": "groot opwaartse tack"
+        "default": "grote opwaartse tack"
       }
     }
   },
@@ -3477,7 +3477,7 @@
     "key": "27D9",
     "mappings": {
       "default": {
-        "default": "groot neerwaartse tack"
+        "default": "grote neerwaartse tack"
       }
     }
   },
@@ -3493,7 +3493,7 @@
     "key": "27DB",
     "mappings": {
       "default": {
-        "default": "links en rechts tack"
+        "default": "links en rechts etack"
       }
     }
   },
@@ -3509,7 +3509,7 @@
     "key": "27DD",
     "mappings": {
       "default": {
-        "default": "lange rechts tack"
+        "default": "lange rechtse tack"
       }
     }
   },
@@ -3517,7 +3517,7 @@
     "key": "27DE",
     "mappings": {
       "default": {
-        "default": "lang links tack"
+        "default": "lange linkse tack"
       }
     }
   },
@@ -3541,7 +3541,7 @@
     "key": "27E1",
     "mappings": {
       "default": {
-        "default": "wit concave dwars diamand"
+        "default": "witte concave dwarse diamant"
       }
     }
   },
@@ -3549,7 +3549,7 @@
     "key": "27E2",
     "mappings": {
       "default": {
-        "default": "wit concave dwars diamand met linkzwaretse merk"
+        "default": "witte concave dwarse diamant met linkswaards merk"
       }
     }
   },
@@ -3557,7 +3557,7 @@
     "key": "27E3",
     "mappings": {
       "default": {
-        "default": "wit concave dwars diamand met rechtzwaretse merk"
+        "default": "wit concave dwars diamant met rechtswaards merk"
       }
     }
   },
@@ -3565,7 +3565,7 @@
     "key": "27E4",
     "mappings": {
       "default": {
-        "default": "wit vierkant met linkzwaretse merk"
+        "default": "wit vierkant met linkswaards merk"
       }
     }
   },
@@ -3573,7 +3573,7 @@
     "key": "27E5",
     "mappings": {
       "default": {
-        "default": "wit vierkant met rechtzwaretse merk"
+        "default": "wit vierkant met rechtswaards merk"
       }
     }
   },
@@ -4573,7 +4573,7 @@
     "key": "2A32",
     "mappings": {
       "default": {
-        "default": "semidirekte product met toe onderkant"
+        "default": "semi-direct product met toe onderkant"
       }
     }
   },
@@ -5381,7 +5381,7 @@
     "key": "2A97",
     "mappings": {
       "default": {
-        "default": "schuin is gelijk aan of kleiner dan met punt binne in"
+        "default": "schuin is gelijk aan of kleiner dan met punt binnenin"
       }
     }
   },
@@ -5389,7 +5389,7 @@
     "key": "2A98",
     "mappings": {
       "default": {
-        "default": "schuin is gelijk aan of groter dan met punt binne in"
+        "default": "schuin is gelijk aan of groter dan met punt binnenin"
       }
     }
   },
@@ -5429,7 +5429,7 @@
     "key": "2A9D",
     "mappings": {
       "default": {
-        "default": "eenders of kleiner dan"
+        "default": "gelijkvormig of kleiner dan"
       }
     }
   },
@@ -5437,7 +5437,7 @@
     "key": "2A9E",
     "mappings": {
       "default": {
-        "default": "eenders of groter dan"
+        "default": "gelijkvormig of groter dan"
       }
     }
   },
@@ -5445,7 +5445,7 @@
     "key": "2A9F",
     "mappings": {
       "default": {
-        "default": "eenders boven kleiner dan boven is gelijk aan"
+        "default": "gelijkvormig boven kleiner dan boven is gelijk aan"
       }
     }
   },
@@ -5901,7 +5901,7 @@
     "key": "2AD8",
     "mappings": {
       "default": {
-        "default": "superverzameling naast en verenig met koppelteken met deelverzameling"
+        "default": "superverzameling naast en verenigd met koppelteken met deelverzameling"
       }
     }
   },
@@ -5917,7 +5917,7 @@
     "key": "2ADA",
     "mappings": {
       "default": {
-        "default": "tuinvurk met t boven"
+        "default": "hooivork met t boven"
       }
     }
   },
@@ -5933,7 +5933,7 @@
     "key": "2ADC",
     "mappings": {
       "default": {
-        "default": "wat vurk"
+        "default": "vorkt"
       }
     }
   },
@@ -5957,7 +5957,7 @@
     "key": "2ADF",
     "mappings": {
       "default": {
-        "default": "kort neerwaartse tack"
+        "default": "korte neerwaartse tack"
       }
     }
   },
@@ -5965,7 +5965,7 @@
     "key": "2AE0",
     "mappings": {
       "default": {
-        "default": "kort opwaartse tack"
+        "default": "korte opwaartse tack"
       }
     }
   },
@@ -5973,7 +5973,7 @@
     "key": "2AE1",
     "mappings": {
       "default": {
-        "default": "loodreg met s"
+        "default": "loodrecht met s"
       }
     }
   },
@@ -5989,7 +5989,7 @@
     "key": "2AE3",
     "mappings": {
       "default": {
-        "default": "dubbel verticale streep linker draaihek"
+        "default": "dubbele verticale streep linker draaihek"
       }
     }
   },
@@ -6005,7 +6005,7 @@
     "key": "2AE5",
     "mappings": {
       "default": {
-        "default": "dubbel verticale streep dubbel linker draaihek"
+        "default": "dubbele verticale streep dubbel linker draaihek"
       }
     }
   },
@@ -6013,7 +6013,7 @@
     "key": "2AE6",
     "mappings": {
       "default": {
-        "default": "lang koppelteken vanaf linker been van dubbel verticale streep"
+        "default": "lang koppelteken vanaf linker been van dubbele verticale streep"
       }
     }
   },
@@ -6021,7 +6021,7 @@
     "key": "2AE7",
     "mappings": {
       "default": {
-        "default": "kort neerwaartse tack met overbar"
+        "default": "korte neerwaartse tack met overbar"
       }
     }
   },
@@ -6029,7 +6029,7 @@
     "key": "2AE8",
     "mappings": {
       "default": {
-        "default": "kort opwaartse tack met underbar"
+        "default": "korte opwaartse tack met underbar"
       }
     }
   },
@@ -6037,7 +6037,7 @@
     "key": "2AE9",
     "mappings": {
       "default": {
-        "default": "kort opwaartse tack boven kort neerwaartse tack"
+        "default": "korte opwaartse tack boven kort neerwaartse tack"
       }
     }
   },
@@ -6277,7 +6277,7 @@
     "key": "FE30",
     "mappings": {
       "default": {
-        "default": "glyf voor verticale tweepunt leier"
+        "default": "teken voor verticale tweepunt leier"
       }
     }
   },
@@ -6285,7 +6285,7 @@
     "key": "FE31",
     "mappings": {
       "default": {
-        "default": "glyf voor verticale m koppelteken"
+        "default": "teken voor verticaal em koppelteken"
       }
     }
   },
@@ -6293,7 +6293,7 @@
     "key": "FE32",
     "mappings": {
       "default": {
-        "default": "glyf voor verticale n koppelteken"
+        "default": "teken voor verticaal en koppelteken"
       }
     }
   },
@@ -6301,7 +6301,7 @@
     "key": "FE33",
     "mappings": {
       "default": {
-        "default": "glyf voor verticale onderstreep"
+        "default": "teken voor verticale onderstreep"
       }
     }
   },
@@ -6309,7 +6309,7 @@
     "key": "FE34",
     "mappings": {
       "default": {
-        "default": "glyf voor verticalegolvende onderstreep"
+        "default": "teken voor verticale golvende onderstreep"
       }
     }
   },
@@ -6389,7 +6389,7 @@
     "key": "FE50",
     "mappings": {
       "default": {
-        "default": "klein komma"
+        "default": "kleine komma"
       }
     }
   },
@@ -6437,7 +6437,7 @@
     "key": "FE58",
     "mappings": {
       "default": {
-        "default": "klein m koppelteken"
+        "default": "klein em koppelteken"
       }
     }
   },
@@ -6445,7 +6445,7 @@
     "key": "FE5F",
     "mappings": {
       "default": {
-        "default": "klein huts"
+        "default": "klein hekje"
       }
     }
   },
@@ -6453,7 +6453,7 @@
     "key": "FE60",
     "mappings": {
       "default": {
-        "default": "klein ampersand"
+        "default": "kleine ampersand"
       }
     }
   },
@@ -6461,7 +6461,7 @@
     "key": "FE61",
     "mappings": {
       "default": {
-        "default": "klein ster"
+        "default": "kleine ster"
       }
     }
   },
@@ -6469,7 +6469,7 @@
     "key": "FE62",
     "mappings": {
       "default": {
-        "default": "klein plus"
+        "default": "kleine plus"
       }
     }
   },
@@ -6485,7 +6485,7 @@
     "key": "FE64",
     "mappings": {
       "default": {
-        "default": "klein kleiner dan"
+        "default": "kleine kleiner dan"
       }
     }
   },
@@ -6493,7 +6493,7 @@
     "key": "FE65",
     "mappings": {
       "default": {
-        "default": "klein groter dan"
+        "default": "kleine groter dan"
       }
     }
   },
@@ -6501,7 +6501,7 @@
     "key": "FE66",
     "mappings": {
       "default": {
-        "default": "klein is gelijk aan"
+        "default": "kleine is gelijk aan"
       }
     }
   },
@@ -6518,7 +6518,7 @@
     "key": "FE69",
     "mappings": {
       "default": {
-        "default": "klein doller"
+        "default": "klein dollarteken"
       }
     }
   },
@@ -6526,7 +6526,7 @@
     "key": "FE6A",
     "mappings": {
       "default": {
-        "default": "klein persent"
+        "default": "kleine percent"
       }
     }
   },
@@ -6534,7 +6534,7 @@
     "key": "FE6B",
     "mappings": {
       "default": {
-        "default": "klein komersiele teen"
+        "default": "klein commercieel apenstaartje"
       }
     }
   },
@@ -6558,7 +6558,7 @@
     "key": "FF03",
     "mappings": {
       "default": {
-        "default": "huts"
+        "default": "hekje"
       }
     }
   },
@@ -6566,7 +6566,7 @@
     "key": "FF04",
     "mappings": {
       "default": {
-        "default": "doller"
+        "default": "dollarteken"
       }
     }
   },
@@ -6574,7 +6574,7 @@
     "key": "FF05",
     "mappings": {
       "default": {
-        "default": "persent"
+        "default": "percent"
       }
     }
   },
@@ -6638,7 +6638,7 @@
     "key": "FF0F",
     "mappings": {
       "default": {
-        "default": "schuinstreep",
+        "default": "schuine streep",
         "alternative": "solidus"
       }
     }
@@ -6695,7 +6695,7 @@
     "key": "FF20",
     "mappings": {
       "default": {
-        "default": "komersiele teen"
+        "default": "commercieel apenstaartje"
       }
     }
   },
@@ -6712,7 +6712,7 @@
     "key": "FF3E",
     "mappings": {
       "default": {
-        "default": "karret",
+        "default": "caret",
         "alternative": "circumflex"
       }
     }
@@ -6754,7 +6754,7 @@
     "key": "FFE0",
     "mappings": {
       "default": {
-        "default": "sent teken"
+        "default": "cent teken"
       }
     }
   },
@@ -6778,7 +6778,7 @@
     "key": "FFE3",
     "mappings": {
       "default": {
-        "default": "macron"
+        "default": "streep"
       }
     }
   },
@@ -6786,7 +6786,7 @@
     "key": "FFE4",
     "mappings": {
       "default": {
-        "default": "gebroke verticale streep"
+        "default": "gebroken verticale streep"
       }
     }
   },
@@ -6794,7 +6794,7 @@
     "key": "FFE5",
     "mappings": {
       "default": {
-        "default": "jen teken"
+        "default": "yen teken"
       }
     }
   },
@@ -6818,7 +6818,7 @@
     "key": "FFED",
     "mappings": {
       "default": {
-        "default": "half wydte zwart vierkant"
+        "default": "halfbreed zwart vierkant"
       }
     }
   },
@@ -6826,7 +6826,7 @@
     "key": "FFEE",
     "mappings": {
       "default": {
-        "default": "half wydte wit cirkel"
+        "default": "halfbreede witte cirkel"
       }
     }
   }

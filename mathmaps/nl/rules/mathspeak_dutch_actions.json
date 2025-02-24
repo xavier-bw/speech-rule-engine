@@ -9,16 +9,8 @@
       "collapsed",
       "[t] \"opgesom\"; [n] . (engine:modality=summary, grammar:?collapsed)"
     ],
-    [
-      "Action",
-      "blank-cell-empty",
-      "[t] \"Leeg\""
-    ],
-    [
-      "Action",
-      "blank-line-empty",
-      "[t] \"Leeg\""
-    ],
+    ["Action", "blank-cell-empty", "[t] \"Leeg\""],
+    ["Action", "blank-line-empty", "[t] \"Leeg\""],
     [
       "Action",
       "font",
@@ -49,11 +41,7 @@
       "number-as-upper-word",
       "[t] \"hoofletters\"; [t] CSFspaceoutText"
     ],
-    [
-      "Action",
-      "number-baseline",
-      "[t] \"Basislyn\"; [n] . (grammar:baseline)"
-    ],
+    ["Action", "number-baseline", "[t] \"Basislyn\"; [n] . (grammar:baseline)"],
     [
       "Action",
       "number-baseline-brief",
@@ -69,71 +57,47 @@
       "number-baseline-font-brief",
       "[t] \"Basis\"; [t] @font; [n] . (grammar:ignoreFont=@font)"
     ],
-    [
-      "Action",
-      "negative-number",
-      "[t] \"negatief\"; [n] children/*[1]"
-    ],
-    [
-      "Action",
-      "negative",
-      "[t] \"minus\"; [n] children/*[1]"
-    ],
+    ["Action", "negative-number", "[t] \"negatief\"; [n] children/*[1]"],
+    ["Action", "negative", "[t] \"minus\"; [n] children/*[1]"],
     [
       "Action",
       "division",
       "[n] children/*[1]; [t] \"gedeel deur\"; [n] children/*[2]"
     ],
-    [
-      "Action",
-      "subtraction",
-      "[m] children/* (separator:\"minus\")"
-    ],
+    ["Action", "subtraction", "[m] children/* (separator:\"minus\")"],
     [
       "Action",
       "fences-neutral",
-      "[t] \"begin absolute Waarde\"; [n] children/*[1]; [t] \"End Absolute Waarde\""
+      "[t] \"begin absolute Waarde\"; [n] children/*[1]; [t] \"einde Absolute Waarde\""
     ],
     [
       "Action",
       "fences-neutral-sbrief",
-      "[t] \"Absolute Waarde\"; [n] children/*[1]; [t] \"End Absolute Waarde\""
+      "[t] \"Absolute Waarde\"; [n] children/*[1]; [t] \"einde Absolute Waarde\""
     ],
     [
       "Action",
       "fences-metric",
-      "[t] \"Begin Metries\"; [n] children/*[1]; [t] \"End Metries\""
+      "[t] \"Begin Metries\"; [n] children/*[1]; [t] \"einde Metries\""
     ],
     [
       "Action",
       "fences-metric-sbrief",
-      "[t] \"Metries\"; [n] children/*[1]; [t] \"end metries\""
+      "[t] \"Metries\"; [n] children/*[1]; [t] \"einde metries\""
     ],
-    [
-      "Action",
-      "empty-set",
-      "[t] \"leë versameling\""
-    ],
+    ["Action", "empty-set", "[t] \"leë versameling\""],
     [
       "Action",
       "fences-set",
-      "[t] \"begin versameling\"; [n] children/*[1]; [t] \"End versameling\""
+      "[t] \"begin versameling\"; [n] children/*[1]; [t] \"einde versameling\""
     ],
     [
       "Action",
       "fences-set-sbrief",
-      "[t] \"Versameling\"; [n] children/*[1]; [t] \"End Versameling\""
+      "[t] \"Versameling\"; [n] children/*[1]; [t] \"einde Versameling\""
     ],
-    [
-      "Action",
-      "factorial",
-      "[t] \"faktoriaal\""
-    ],
-    [
-      "Action",
-      "minus",
-      "[t] \"minus\""
-    ],
+    ["Action", "factorial", "[t] \"faktoriaal\""],
+    ["Action", "minus", "[t] \"minus\""],
     [
       "Action",
       "continued-fraction-outer",
@@ -179,11 +143,7 @@
       "cube",
       "[n] children/*[1]; [t] \"kubbiek\" (span:children/*[2])"
     ],
-    [
-      "Action",
-      "prime",
-      "[n] children/*[1]; [n] children/*[2]"
-    ],
+    ["Action", "prime", "[n] children/*[1]; [n] children/*[2]"],
     [
       "Action",
       "counted-prime",
@@ -197,22 +157,22 @@
     [
       "Action",
       "overscore",
-      "[t] \"pas boonste aan\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
+      "[t] \"pas Bovenste aan\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
     ],
     [
       "Action",
       "overscore-brief",
-      "[t] \"pas aan bo\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
+      "[t] \"pas aan boven; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
     ],
     [
       "Action",
       "double-overscore",
-      "[t] \"Pas aan Bokant Bokant\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
+      "[t] \"Pas aan Bovenkant Bovenkant\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
     ],
     [
       "Action",
       "double-overscore-brief",
-      "[t] \"Pas aan Bo Bo\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
+      "[t] \"Pas aan dubbel boven; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
     ],
     [
       "Action",
@@ -227,42 +187,26 @@
     [
       "Action",
       "double-underscore",
-      "[t] \"Pas aan Onder Onder\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
+      "[t] \"Pas aan dubbel onder\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
     ],
     [
       "Action",
       "double-underscore-brief",
-      "[t] \"Pas aan Onder Onder\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
+      "[t] \"Pas aan dubbel onder\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
     ],
-    [
-      "Action",
-      "overbar",
-      "[n] children/*[1]; [t] \"bostaaf\""
-    ],
-    [
-      "Action",
-      "underbar",
-      "[n] children/*[1]; [t] \"onderstaaf\""
-    ],
-    [
-      "Action",
-      "overtilde",
-      "[n] children/*[1]; [t] \"oor tilde\""
-    ],
-    [
-      "Action",
-      "undertilde",
-      "[n] children/*[1]; [t] \"onder tilde\""
-    ],
+    ["Action", "overbar", "[n] children/*[1]; [t] \"lijn boven\""],
+    ["Action", "underbar", "[n] children/*[1]; [t] \"lijn onder\""],
+    ["Action", "overtilde", "[n] children/*[1]; [t] \"over tilde\""],
+    ["Action", "undertilde", "[n] children/*[1]; [t] \"onder tilde\""],
     [
       "Action",
       "matrix",
-      "[t] \"Begin\"; [t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Matriks\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"End Matriks\""
+      "[t] \"Begin\"; [t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Matrix\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"einde Matrix\""
     ],
     [
       "Action",
       "matrix-sbrief",
-      "[t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Matriks\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"End Matriks\""
+      "[t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Matrix\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"einde Matrix\""
     ],
     [
       "Action",
@@ -272,142 +216,122 @@
     [
       "Action",
       "row-with-label",
-      "[t] \"met opskrif\"; [n] content/*[1]; [t] \"End opskrif\" (pause:200); [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Kolom\")"
+      "[t] \"met label\"; [n] content/*[1]; [t] \"einde label\" (pause:200); [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Kolom\")"
     ],
     [
       "Action",
       "row-with-label-brief",
-      "[t] \"opskrif\"; [n] content/*[1]; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Kolom\")"
+      "[t] \"label\"; [n] content/*[1]; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Kolom\")"
     ],
     [
       "Action",
       "row-with-text-label",
-      "[t] \"opskrif\"; [t] CSFRemoveParens; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Kolom\")"
+      "[t] \"label\"; [t] CSFRemoveParens; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Kolom\")"
     ],
-    [
-      "Action",
-      "empty-row",
-      "[t] \"leeg\""
-    ],
-    [
-      "Action",
-      "empty-cell",
-      "[t] \"leeg\" (pause:300)"
-    ],
+    ["Action", "empty-row", "[t] \"leeg\""],
+    ["Action", "empty-cell", "[t] \"leeg\" (pause:300)"],
     [
       "Action",
       "determinant",
-      "[t] \"Begin\"; [t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Determinant\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"EndDeterminant\""
+      "[t] \"Begin\"; [t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Determinant\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"einde Determinant\""
     ],
     [
       "Action",
       "determinant-sbrief",
-      "[t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Determinant\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"EndDeterminant\""
+      "[t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Determinant\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"einde Determinant\""
     ],
     [
       "Action",
       "determinant-simple",
-      "[t] \"Begin\"; [t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Determinant\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry\", grammar:simpleDet); [t] \"EndDeterminant\""
+      "[t] \"Begin\"; [t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Determinant\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry\", grammar:simpleDet); [t] \"einde Determinant\""
     ],
     [
       "Action",
       "determinant-simple-sbrief",
-      "[t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Determinant\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry\", grammar:simpleDet); [t] \"EndDeterminant\""
+      "[t] count(children/*); [t] \"By\"; [t] count(children/*[1]/children/*); [t] \"Determinant\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry\", grammar:simpleDet); [t] \"einde Determinant\""
     ],
     [
       "Action",
       "layout",
-      "[t] \"Begin uitleg\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"End uitleg\""
+      "[t] \"Begin uitleg\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"einde uitleg\""
     ],
     [
       "Action",
       "layout-sbrief",
-      "[t] \"uitleg\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"End uitleg\""
+      "[t] \"uitleg\"; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"einde uitleg\""
     ],
     [
       "Action",
       "binomial",
-      "[t] \"Begin Binomiaal of Matriks\"; [n] children/*[1]/children/*[1]; [t] \"Kies\"; [n] children/*[2]/children/*[1]; [t] \"End Binomiaal of Matriks\""
+      "[t] \"Begin Binomiaal of Matrix\"; [n] children/*[1]/children/*[1]; [t] \"Kies\"; [n] children/*[2]/children/*[1]; [t] \"einde Binomiaal of Matrix\""
     ],
     [
       "Action",
       "binomial-sbrief",
-      "[t] \"Binomiaal of Matriks\"; [n] children/*[1]/children/*[1]; [t] \"Kies\"; [n] children/*[2]/children/*[1]; [t] \"End Binomiaal of Matriks\""
+      "[t] \"Binomiaal of Matrix\"; [n] children/*[1]/children/*[1]; [t] \"Kies\"; [n] children/*[2]/children/*[1]; [t] \"einde Binomiaal of Matrix\""
     ],
     [
       "Action",
       "cases",
-      "[t] \"Begin uitleg\"; [t] \"vergroot\"; [n] content/*[1]; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"End uitleg\""
+      "[t] \"Begin uitleg\"; [t] \"vergroot\"; [n] content/*[1]; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"einde uitleg\""
     ],
     [
       "Action",
       "cases-sbrief",
-      "[t] \"Uitleg\"; [t] \"Vergroot\"; [n] content/*[1]; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"End uitleg\""
+      "[t] \"Uitleg\"; [t] \"Vergroot\"; [n] content/*[1]; [m] children/* (ctxtFunc:CTFordinalCounter, context:\"Ry \"); [t] \"einde uitleg\""
     ],
     [
       "Action",
       "line-with-label",
-      "[t] \"met opskrif\"; [n] content/*[1]; [t] \"End opskrif\" (pause:200); [m] children/*"
+      "[t] \"met label\"; [n] content/*[1]; [t] \"einde label\" (pause:200); [m] children/*"
     ],
     [
       "Action",
       "line-with-label-brief",
-      "[t] \"Opskrif\"; [n] content/*[1] (pause:200); [m] children/*"
+      "[t] \"label\"; [n] content/*[1] (pause:200); [m] children/*"
     ],
     [
       "Action",
       "line-with-text-label",
-      "[t] \"Opskrif\"; [t] CSFRemoveParens; [m] children/*"
+      "[t] \"label\"; [t] CSFRemoveParens; [m] children/*"
     ],
-    [
-      "Action",
-      "empty-line",
-      "[t] \"leeg\""
-    ],
+    ["Action", "empty-line", "[t] \"leeg\""],
     [
       "Action",
       "empty-line-with-label",
-      "[t] \"met opskrif\"; [n] content/*[1]; [t] \"End opskrif\" (pause:200); [t] \"Leeg\""
+      "[t] \"met label\"; [n] content/*[1]; [t] \"einde label\" (pause:200); [t] \"Leeg\""
     ],
     [
       "Action",
       "empty-line-with-label-brief",
-      "[t] \"opskrif\"; [n] content/*[1] (pause:200); [t] \"Leeg\""
+      "[t] \"label\"; [n] content/*[1] (pause:200); [t] \"Leeg\""
     ],
     [
       "Action",
       "enclose",
-      "[t] \"Begin omhein\"; [t] @role (grammar:localEnclose); [n] children/*[1]; [t] \"End omhein\""
+      "[t] \"Begin omsluiting\"; [t] @role (grammar:localEnclose); [n] children/*[1]; [t] \"einde omsluiting\""
     ],
-    [
-      "Action",
-      "leftbar",
-      "[t] \"afstreep\"; [n] children/*[1]"
-    ],
-    [
-      "Action",
-      "rightbar",
-      "[n] children/*[1]; [t] \"afstreep\""
-    ],
+    ["Action", "leftbar", "[t] \"linker streep\"; [n] children/*[1]"],
+    ["Action", "rightbar", "[n] children/*[1]; [t] \"rechter streep\""],
     [
       "Action",
       "crossout",
-      "[t] \"doodgetrek\"; [n] children/*[1]; [t] \"End doodgetrek\""
+      "[t] \"doodgetrek\"; [n] children/*[1]; [t] \"einde doodgetrek\""
     ],
     [
       "Action",
       "cancel",
-      "[t] \"vervang\"; [n] children/*[1]/children/*[1]; [t] \"met\"; [n] children/*[2]; [t] \"End vervang\""
+      "[t] \"vervang\"; [n] children/*[1]/children/*[1]; [t] \"met\"; [n] children/*[2]; [t] \"einde vervang\""
     ],
     [
       "Action",
       "cancel-reverse",
-      "[t] \"vervang\"; [n] children/*[2]/children/*[1]; [t] \"met\"; [n] children/*[1]; [t] \"End vervang\""
+      "[t] \"vervang\"; [n] children/*[2]/children/*[1]; [t] \"met\"; [n] children/*[1]; [t] \"einde vervang\""
     ],
     [
       "Action",
       "multi-inference",
-      "[t] \"afleidingsreël\"; [m] content/*; [t] \"met gevolgtrekking\"; [n] children/*[1]; [t] \"en\"; [t] count(children/*[2]/children/*); [t] \"uitgangspunte\""
+      "[t] \"afleidingsreël\"; [m] content/*; [t] \"met gevolgtrekking\"; [n] children/*[1]; [t] \"en\"; [t] count(children/*[2]/children/*); [t] \"uitgangspunt\""
     ],
     [
       "Action",
@@ -419,25 +343,9 @@
       "premise",
       "[m] children/* (ctxtFunc:CTFordinalCounter, context:\"uitgangspunt \")"
     ],
-    [
-      "Action",
-      "conclusion",
-      "[n] children/*[1]"
-    ],
-    [
-      "Action",
-      "label",
-      "[t] \"opskrif\"; [n] children/*[1]"
-    ],
-    [
-      "Action",
-      "axiom",
-      "[t] \"aksioom\"; [m] children/*[1]"
-    ],
-    [
-      "Action",
-      "empty-axiom",
-      "[t] \"leë aksioom\""
-    ]
+    ["Action", "conclusion", "[n] children/*[1]"],
+    ["Action", "label", "[t] \"label\"; [n] children/*[1]"],
+    ["Action", "axiom", "[t] \"aksioom\"; [m] children/*[1]"],
+    ["Action", "empty-axiom", "[t] \"leë aksioom\""]
   ]
 }

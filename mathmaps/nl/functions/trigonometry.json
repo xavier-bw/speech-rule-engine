@@ -68,7 +68,7 @@
         "default": "boog cotangens"
       },
       "clearspeak": {
-        "Trig_TrigInverse": "inverse cotangent"
+        "Trig_TrigInverse": "inverse cotangens"
       }
     }
   },
@@ -79,7 +79,7 @@
         "default": "boog cosecans"
       },
       "clearspeak": {
-        "Trig_TrigInverse": "inverse cosecant"
+        "Trig_TrigInverse": "inverse cosecans"
       }
     }
   },
@@ -90,7 +90,7 @@
         "default": "boog secans"
       },
       "clearspeak": {
-        "Trig_TrigInverse": "inverse secant"
+        "Trig_TrigInverse": "inverse secans"
       }
     }
   },
@@ -101,7 +101,7 @@
         "default": "boog sinus"
       },
       "clearspeak": {
-        "Trig_TrigInverse": "inverse sine"
+        "Trig_TrigInverse": "inverse sinus"
       }
     }
   },
@@ -112,7 +112,7 @@
         "default": "boog tangens"
       },
       "clearspeak": {
-        "Trig_TrigInverse": "inverse tangent"
+        "Trig_TrigInverse": "inverse tangens"
       }
     }
   }

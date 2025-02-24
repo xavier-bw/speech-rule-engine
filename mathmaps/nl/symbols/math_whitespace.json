@@ -6,7 +6,7 @@
     "key": "0020",
     "mappings": {
       "default": {
-        "default": "spasie"
+        "default": "spatie"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "00A0",
     "mappings": {
       "default": {
-        "default": "geen breek spasie",
+        "default": "niet-brekende spatie",
         "alternative": "non breaking space"
       }
     }
@@ -23,7 +23,7 @@
     "key": "00AD",
     "mappings": {
       "default": {
-        "default": "sagte koppelteken"
+        "default": "zacht koppelteken"
       }
     }
   },
@@ -47,7 +47,7 @@
     "key": "2002",
     "mappings": {
       "default": {
-        "default": "en spasie"
+        "default": "en spatie"
       }
     }
   },
@@ -55,7 +55,7 @@
     "key": "2003",
     "mappings": {
       "default": {
-        "default": "em spasie"
+        "default": "em spatie"
       }
     }
   },
@@ -63,7 +63,7 @@
     "key": "2004",
     "mappings": {
       "default": {
-        "default": "drie per em spasie"
+        "default": "drie per em spatie"
       }
     }
   },
@@ -71,7 +71,7 @@
     "key": "2005",
     "mappings": {
       "default": {
-        "default": "vier per em spasie"
+        "default": "vier per em spatie"
       }
     }
   },
@@ -79,7 +79,7 @@
     "key": "2006",
     "mappings": {
       "default": {
-        "default": "ses per em spasie"
+        "default": "zes per em spatie"
       }
     }
   },
@@ -87,7 +87,7 @@
     "key": "2007",
     "mappings": {
       "default": {
-        "default": "figuurspasie"
+        "default": "figuurspatie"
       }
     }
   },
@@ -95,7 +95,7 @@
     "key": "2008",
     "mappings": {
       "default": {
-        "default": "leestekenspasie"
+        "default": "leestekenspatie"
       }
     }
   },
@@ -103,7 +103,7 @@
     "key": "2009",
     "mappings": {
       "default": {
-        "default": "dun spasie"
+        "default": "dunne spatie"
       }
     }
   },
@@ -111,7 +111,7 @@
     "key": "200A",
     "mappings": {
       "default": {
-        "default": "haar spasie"
+        "default": "haar spatie"
       }
     }
   },
@@ -119,7 +119,7 @@
     "key": "200B",
     "mappings": {
       "default": {
-        "default": "nul wyt spasie"
+        "default": "nul breedte spatie"
       }
     }
   },
@@ -127,7 +127,7 @@
     "key": "200C",
     "mappings": {
       "default": {
-        "default": "nul wyte nie lasser"
+        "default": "nul breedte niet-verbinder"
       }
     }
   },
@@ -135,7 +135,7 @@
     "key": "200D",
     "mappings": {
       "default": {
-        "default": "nul wyte lasser"
+        "default": "nul breedte verbinder"
       }
     }
   },
@@ -143,7 +143,7 @@
     "key": "200E",
     "mappings": {
       "default": {
-        "default": "links na rechts teken"
+        "default": "links naar rechts teken"
       }
     }
   },
@@ -151,7 +151,7 @@
     "key": "200F",
     "mappings": {
       "default": {
-        "default": "rechts na links teken"
+        "default": "rechts naar links teken"
       }
     }
   },
@@ -175,7 +175,7 @@
     "key": "202A",
     "mappings": {
       "default": {
-        "default": "links na rechts ingebed"
+        "default": "links naar rechts ingebed"
       }
     }
   },
@@ -183,7 +183,7 @@
     "key": "202B",
     "mappings": {
       "default": {
-        "default": "rechts na links ingebed"
+        "default": "rechts naar links ingebed"
       }
     }
   },
@@ -191,7 +191,7 @@
     "key": "202C",
     "mappings": {
       "default": {
-        "default": "pop rigtinggewende formatering"
+        "default": "pop richtingevende formatering"
       }
     }
   },
@@ -199,7 +199,7 @@
     "key": "202D",
     "mappings": {
       "default": {
-        "default": "links na rechts oorskryf"
+        "default": "links naar rechts overschrijving"
       }
     }
   },
@@ -207,7 +207,7 @@
     "key": "202E",
     "mappings": {
       "default": {
-        "default": "rechts na links oorskryf"
+        "default": "rechts naar links overschrijving"
       }
     }
   },
@@ -215,7 +215,7 @@
     "key": "202F",
     "mappings": {
       "default": {
-        "default": "nou geenbreekspasie"
+        "default": "smalle niet-brekende patie"
       }
     }
   },
@@ -223,7 +223,7 @@
     "key": "205F",
     "mappings": {
       "default": {
-        "default": "medium wiskundige spasie"
+        "default": "medium wiskundige spatie"
       }
     }
   },
@@ -231,7 +231,7 @@
     "key": "2060",
     "mappings": {
       "default": {
-        "default": "woordlasser"
+        "default": "woordverbinder"
       }
     }
   },
@@ -249,7 +249,7 @@
     "mappings": {
       "default": {
         "default": "maal",
-        "alternative": "invisible times"
+        "alternative": "onzichtbare maal"
       }
     }
   },
@@ -258,7 +258,7 @@
     "mappings": {
       "default": {
         "default": "verdeler",
-        "alternative": "invisible separator"
+        "alternative": "onzichtbare verdeler"
       }
     }
   },
@@ -267,7 +267,7 @@
     "mappings": {
       "default": {
         "default": "plus",
-        "alternative": "invisible plus"
+        "alternative": "onzichtbare plus"
       }
     }
   },
@@ -275,7 +275,7 @@
     "key": "206A",
     "mappings": {
       "default": {
-        "default": "inhibeer simmetriese omruiling"
+        "default": "inhibeer symmetrische omruiling"
       }
     }
   },
@@ -283,7 +283,7 @@
     "key": "206B",
     "mappings": {
       "default": {
-        "default": "aktifeer simmetriese omruiling"
+        "default": "aktiveer symmetrische omruiling"
       }
     }
   },
@@ -291,7 +291,7 @@
     "key": "206E",
     "mappings": {
       "default": {
-        "default": "nasionale syfervorms"
+        "default": "nationale cijfer vormen"
       }
     }
   },
@@ -299,7 +299,7 @@
     "key": "206F",
     "mappings": {
       "default": {
-        "default": "nominale syfervorms"
+        "default": "nominale cijfer vormen"
       }
     }
   },
@@ -307,7 +307,7 @@
     "key": "FEFF",
     "mappings": {
       "default": {
-        "default": "nul wyte geenbreek spasie",
+        "default": "nul breedte niet-brekende spatie",
         "alternative": "byte order mark"
       }
     }
@@ -316,7 +316,7 @@
     "key": "FFF9",
     "mappings": {
       "default": {
-        "default": "interliniëre nota anker"
+        "default": "interlineair annotatieanker"
       }
     }
   },
@@ -324,7 +324,7 @@
     "key": "FFFA",
     "mappings": {
       "default": {
-        "default": "interliniëre notaverdeler"
+        "default": "interlinaire annotatie verdeler"
       }
     }
   },
@@ -332,7 +332,7 @@
     "key": "FFFB",
     "mappings": {
       "default": {
-        "default": "interliniëre notastop"
+        "default": "interlineaire annotatie terminator"
       }
     }
   }

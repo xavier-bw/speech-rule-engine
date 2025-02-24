@@ -6,7 +6,7 @@
     "key": "2500",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig horizontaal"
+        "default": "lijntekeningen licht horizontaal"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "2501",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware horizontaal"
+        "default": "lijntekeningen zwaar horizontaal"
       }
     }
   },
@@ -22,7 +22,7 @@
     "key": "2502",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig vertikaal"
+        "default": "lijntekeningen licht verticaal"
       }
     }
   },
@@ -30,7 +30,7 @@
     "key": "2503",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware vertikaal"
+        "default": "lijntekeningen zwaar verticaal"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "2504",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig trippel koppelteken horizontaal"
+        "default": "lijntekeningen licht trippel koppelteken horizontaal"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "2505",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware trippel koppelteken horizontaal"
+        "default": "lijntekeningen zwaar trippel koppelteken horizontaal"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "2506",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig trippel koppelteken vertikaal"
+        "default": "lijntekeningen licht trippel koppelteken verticaal"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "2507",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware trippel koppelteken vertikaal"
+        "default": "lijntekeningen zwaar trippel koppelteken verticaal"
       }
     }
   },
@@ -70,7 +70,7 @@
     "key": "2508",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig vierdubbel koppelteken horizontaal"
+        "default": "lijntekeningen licht vierdubbel koppelteken horizontaal"
       }
     }
   },
@@ -78,7 +78,7 @@
     "key": "2509",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware vierdubbel koppelteken horizontaal"
+        "default": "lijntekeningen zwaar vierdubbel koppelteken horizontaal"
       }
     }
   },
@@ -86,7 +86,7 @@
     "key": "250A",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig vierdubbel koppelteken vertikaal"
+        "default": "lijntekeningen licht vierdubbel koppelteken verticaal"
       }
     }
   },
@@ -94,7 +94,7 @@
     "key": "250B",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware vierdubbel koppelteken vertikaal"
+        "default": "lijntekeningen zwaar vierdubbel koppelteken verticaal"
       }
     }
   },
@@ -102,7 +102,7 @@
     "key": "250C",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig neerwaartse en rechts"
+        "default": "lijntekeningen licht neerwaarts en rechts"
       }
     }
   },
@@ -110,7 +110,7 @@
     "key": "250D",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse lig en rechts zware"
+        "default": "lijntekeningen neerwaarts licht en rechts zwaar"
       }
     }
   },
@@ -118,7 +118,7 @@
     "key": "250E",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse zware en rechts lig"
+        "default": "lijntekeningen neerwaarts zwaar en rechts licht"
       }
     }
   },
@@ -126,7 +126,7 @@
     "key": "250F",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware neerwaartse en rechts"
+        "default": "lijntekeningen zwaar neerwaarts en rechts"
       }
     }
   },
@@ -134,7 +134,7 @@
     "key": "2510",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig neerwaartse en links"
+        "default": "lijntekeningen licht neerwaarts en links"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "2511",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse lig en links zware"
+        "default": "lijntekeningen neerwaarts licht en links zwaar"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "2512",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse zware en links lig"
+        "default": "lijntekeningen neerwaarts zwaar en links licht"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "2513",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware neerwaartse en links"
+        "default": "lijntekeningen zwaar neerwaarts en links"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "2514",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig opwaartse en rechts"
+        "default": "lijntekeningen licht opwaarts en rechts"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "2515",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse lig en rechts zware"
+        "default": "lijntekeningen opwaarts licht en rechts zwaar"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "2516",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse zware en rechts lig"
+        "default": "lijntekeningen opwaarts zwaar en rechts licht"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "2517",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware opwaartse en rechts"
+        "default": "lijntekeningen zwaar opwaarts en rechts"
       }
     }
   },
@@ -198,7 +198,7 @@
     "key": "2518",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig opwaartse en links"
+        "default": "lijntekeningen licht opwaarts en links"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "2519",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse lig en links zware"
+        "default": "lijntekeningen opwaarts licht en links zwaar"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "251A",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse zware en links lig"
+        "default": "lijntekeningen opwaarts zwaar en links licht"
       }
     }
   },
@@ -222,7 +222,7 @@
     "key": "251B",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware opwaartse en links"
+        "default": "lijntekeningen zwaar opwaarts en links"
       }
     }
   },
@@ -230,7 +230,7 @@
     "key": "251C",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig vertikaal en rechts"
+        "default": "lijntekeningen licht verticaal en rechts"
       }
     }
   },
@@ -238,7 +238,7 @@
     "key": "251D",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal lig en rechts zware"
+        "default": "lijntekeningen verticaal licht en rechts zwaar"
       }
     }
   },
@@ -246,7 +246,7 @@
     "key": "251E",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse zware en rechts neerwaartse lig"
+        "default": "lijntekeningen opwaarts zwaar en rechts neerwaarts licht"
       }
     }
   },
@@ -254,7 +254,7 @@
     "key": "251F",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse zware en rechts opwaartse lig"
+        "default": "lijntekeningen neerwaarts zwaar en rechts opwaarts licht"
       }
     }
   },
@@ -262,7 +262,7 @@
     "key": "2520",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal zware en rechts lig"
+        "default": "lijntekeningen verticaal zwaar en rechts licht"
       }
     }
   },
@@ -270,7 +270,7 @@
     "key": "2521",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse lig en rechts opwaartse zware"
+        "default": "lijntekeningen neerwaarts licht en rechts opwaarts zwaar"
       }
     }
   },
@@ -278,7 +278,7 @@
     "key": "2522",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse lig en rechts neerwaartse zware"
+        "default": "lijntekeningen opwaarts licht en rechts neerwaarts zwaar"
       }
     }
   },
@@ -286,7 +286,7 @@
     "key": "2523",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware vertikaal en rechts"
+        "default": "lijntekeningen zwaar verticaal en rechts"
       }
     }
   },
@@ -294,7 +294,7 @@
     "key": "2524",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig vertikaal en links"
+        "default": "lijntekeningen licht verticaal en links"
       }
     }
   },
@@ -302,7 +302,7 @@
     "key": "2525",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal lig en links zware"
+        "default": "lijntekeningen verticaal licht en links zwaar"
       }
     }
   },
@@ -310,7 +310,7 @@
     "key": "2526",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse zware en links neerwaartse lig"
+        "default": "lijntekeningen opwaarts zwaar en links neerwaarts licht"
       }
     }
   },
@@ -318,7 +318,7 @@
     "key": "2527",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse zware en links opwaartse lig"
+        "default": "lijntekeningen neerwaarts zwaar en links opwaarts licht"
       }
     }
   },
@@ -326,7 +326,7 @@
     "key": "2528",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal zware en links lig"
+        "default": "lijntekeningen verticaal zwaar en links licht"
       }
     }
   },
@@ -334,7 +334,7 @@
     "key": "2529",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse lig en links opwaartse zware"
+        "default": "lijntekeningen neerwaarts licht en links opwaarts zwaar"
       }
     }
   },
@@ -342,7 +342,7 @@
     "key": "252A",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse lig en links neerwaartse zware"
+        "default": "lijntekeningen opwaarts licht en links neerwaarts zwaar"
       }
     }
   },
@@ -350,7 +350,7 @@
     "key": "252B",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware vertikaal en links"
+        "default": "lijntekeningen zwaar verticaal en links"
       }
     }
   },
@@ -358,7 +358,7 @@
     "key": "252C",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig neerwaartse en horizontaal"
+        "default": "lijntekeningen licht neerwaarts en horizontaal"
       }
     }
   },
@@ -366,7 +366,7 @@
     "key": "252D",
     "mappings": {
       "default": {
-        "default": "bokstekeninge links zware en rechts neerwaartse lig"
+        "default": "lijntekeningen links zwaar en rechts neerwaarts licht"
       }
     }
   },
@@ -374,7 +374,7 @@
     "key": "252E",
     "mappings": {
       "default": {
-        "default": "bokstekeninge rechts zware en links neerwaartse lig"
+        "default": "lijntekeningen rechts zwaar en links neerwaarts licht"
       }
     }
   },
@@ -382,7 +382,7 @@
     "key": "252F",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse lig en horizontaal zware"
+        "default": "lijntekeningen neerwaarts licht en horizontaal zwaar"
       }
     }
   },
@@ -390,7 +390,7 @@
     "key": "2530",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse zware en horizontaal lig"
+        "default": "lijntekeningen neerwaarts zwaar en horizontaal licht"
       }
     }
   },
@@ -398,7 +398,7 @@
     "key": "2531",
     "mappings": {
       "default": {
-        "default": "bokstekeninge rechts lig en links neerwaartse zware"
+        "default": "lijntekeningen rechts licht en links neerwaarts zwaar"
       }
     }
   },
@@ -406,7 +406,7 @@
     "key": "2532",
     "mappings": {
       "default": {
-        "default": "bokstekeninge links lig en rechts neerwaartse zware"
+        "default": "lijntekeningen links licht en rechts neerwaarts zwaar"
       }
     }
   },
@@ -414,7 +414,7 @@
     "key": "2533",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware neerwaartse en horizontaal"
+        "default": "lijntekeningen zwaar neerwaarts en horizontaal"
       }
     }
   },
@@ -422,7 +422,7 @@
     "key": "2534",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig opwaartse en horizontaal"
+        "default": "lijntekeningen licht opwaarts en horizontaal"
       }
     }
   },
@@ -430,7 +430,7 @@
     "key": "2535",
     "mappings": {
       "default": {
-        "default": "bokstekeninge links zware en rechts opwaartse lig"
+        "default": "lijntekeningen links zwaar en rechts opwaarts licht"
       }
     }
   },
@@ -438,7 +438,7 @@
     "key": "2536",
     "mappings": {
       "default": {
-        "default": "bokstekeninge rechts zware en links opwaartse lig"
+        "default": "lijntekeningen rechts zwaar en links opwaarts licht"
       }
     }
   },
@@ -446,7 +446,7 @@
     "key": "2537",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse lig en horizontaal zware"
+        "default": "lijntekeningen opwaarts licht en horizontaal zwaar"
       }
     }
   },
@@ -454,7 +454,7 @@
     "key": "2538",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse zware en horizontaal lig"
+        "default": "lijntekeningen opwaarts zwaar en horizontaal licht"
       }
     }
   },
@@ -462,7 +462,7 @@
     "key": "2539",
     "mappings": {
       "default": {
-        "default": "bokstekeninge rechts lig en links opwaartse zware"
+        "default": "lijntekeningen rechts licht en links opwaarts zwaar"
       }
     }
   },
@@ -470,7 +470,7 @@
     "key": "253A",
     "mappings": {
       "default": {
-        "default": "bokstekeninge links lig en rechts opwaartse zware"
+        "default": "lijntekeningen links licht en rechts opwaarts zwaar"
       }
     }
   },
@@ -478,7 +478,7 @@
     "key": "253B",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware opwaartse en horizontaal"
+        "default": "lijntekeningen zwaar opwaarts en horizontaal"
       }
     }
   },
@@ -486,7 +486,7 @@
     "key": "253C",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig vertikaal en horizontaal"
+        "default": "lijntekeningen licht verticaal en horizontaal"
       }
     }
   },
@@ -494,7 +494,7 @@
     "key": "253D",
     "mappings": {
       "default": {
-        "default": "bokstekeninge links zware en rechts vertikaal lig"
+        "default": "lijntekeningen links zwaar en rechts verticaal licht"
       }
     }
   },
@@ -502,7 +502,7 @@
     "key": "253E",
     "mappings": {
       "default": {
-        "default": "bokstekeninge rechts zware en links vertikaal lig"
+        "default": "lijntekeningen rechts zwaar en links verticaal licht"
       }
     }
   },
@@ -510,7 +510,7 @@
     "key": "253F",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal lig en horizontaal zware"
+        "default": "lijntekeningen verticaal licht en horizontaal zwaar"
       }
     }
   },
@@ -518,7 +518,7 @@
     "key": "2540",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse zware en neerwaartse horizontaal lig"
+        "default": "lijntekeningen opwaarts zwaar en neerwaarts horizontaal licht"
       }
     }
   },
@@ -526,7 +526,7 @@
     "key": "2541",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse zware en opwaartse horizontaal lig"
+        "default": "lijntekeningen neerwaarts zwaar en opwaarts horizontaal licht"
       }
     }
   },
@@ -534,7 +534,7 @@
     "key": "2542",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal zware en horizontaal lig"
+        "default": "lijntekeningen verticaal zwaar en horizontaal licht"
       }
     }
   },
@@ -542,7 +542,7 @@
     "key": "2543",
     "mappings": {
       "default": {
-        "default": "bokstekeninge links opwaartse zware en rechts neerwaartse lig"
+        "default": "lijntekeningen links opwaarts zwaar en rechts neerwaarts licht"
       }
     }
   },
@@ -550,7 +550,7 @@
     "key": "2544",
     "mappings": {
       "default": {
-        "default": "bokstekeninge rechts opwaartse zware en links neerwaartse lig"
+        "default": "lijntekeningen rechts opwaarts zwaar en links neerwaarts licht"
       }
     }
   },
@@ -558,7 +558,7 @@
     "key": "2545",
     "mappings": {
       "default": {
-        "default": "bokstekeninge links neerwaartse zware en rechts opwaartse lig"
+        "default": "lijntekeningen links neerwaarts zwaar en rechts opwaarts licht"
       }
     }
   },
@@ -566,7 +566,7 @@
     "key": "2546",
     "mappings": {
       "default": {
-        "default": "bokstekeninge rechts neerwaartse zware en links opwaartse lig"
+        "default": "lijntekeningen rechts neerwaarts zwaar en links opwaarts licht"
       }
     }
   },
@@ -574,7 +574,7 @@
     "key": "2547",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse lig en opwaartse horizontaal zware"
+        "default": "lijntekeningen neerwaarts licht en opwaarts horizontaal zwaar"
       }
     }
   },
@@ -582,7 +582,7 @@
     "key": "2548",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse lig en neerwaartse horizontaal zware"
+        "default": "lijntekeningen opwaarts licht en neerwaarts horizontaal zwaar"
       }
     }
   },
@@ -590,7 +590,7 @@
     "key": "2549",
     "mappings": {
       "default": {
-        "default": "bokstekeninge rechts lig en links vertikaal zware"
+        "default": "lijntekeningen rechts licht en links verticaal zwaar"
       }
     }
   },
@@ -598,7 +598,7 @@
     "key": "254A",
     "mappings": {
       "default": {
-        "default": "bokstekeninge links lig en rechts vertikaal zware"
+        "default": "lijntekeningen links licht en rechts verticaal zwaar"
       }
     }
   },
@@ -606,7 +606,7 @@
     "key": "254B",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware vertikaal en horizontaal"
+        "default": "lijntekeningen zwaar verticaal en horizontaal"
       }
     }
   },
@@ -614,7 +614,7 @@
     "key": "254C",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig dubbel koppelteken horizontaal"
+        "default": "lijntekeningen licht dubbel koppelteken horizontaal"
       }
     }
   },
@@ -622,7 +622,7 @@
     "key": "254D",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware dubbel koppelteken horizontaal"
+        "default": "lijntekeningen zwaar dubbel koppelteken horizontaal"
       }
     }
   },
@@ -630,7 +630,7 @@
     "key": "254E",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig dubbel koppelteken vertikaal"
+        "default": "lijntekeningen licht dubbel koppelteken verticaal"
       }
     }
   },
@@ -638,7 +638,7 @@
     "key": "254F",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware dubbel koppelteken vertikaal"
+        "default": "lijntekeningen zwaar dubbel koppelteken verticaal"
       }
     }
   },
@@ -646,7 +646,7 @@
     "key": "2550",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel horizontaal"
+        "default": "lijntekeningen dubbel horizontaal"
       }
     }
   },
@@ -654,7 +654,7 @@
     "key": "2551",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel vertikaal"
+        "default": "lijntekeningen dubbel verticaal"
       }
     }
   },
@@ -662,7 +662,7 @@
     "key": "2552",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse enkel en rechts dubbel"
+        "default": "lijntekeningen neerwaarts enkel en rechts dubbel"
       }
     }
   },
@@ -670,7 +670,7 @@
     "key": "2553",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse dubbel en rechts enkel"
+        "default": "lijntekeningen neerwaarts dubbel en rechts enkel"
       }
     }
   },
@@ -678,7 +678,7 @@
     "key": "2554",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel neerwaartse en rechts"
+        "default": "lijntekeningen dubbel neerwaarts en rechts"
       }
     }
   },
@@ -686,7 +686,7 @@
     "key": "2555",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse enkel en links dubbel"
+        "default": "lijntekeningen neerwaarts enkel en links dubbel"
       }
     }
   },
@@ -694,7 +694,7 @@
     "key": "2556",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse dubbel en links enkel"
+        "default": "lijntekeningen neerwaarts dubbel en links enkel"
       }
     }
   },
@@ -702,7 +702,7 @@
     "key": "2557",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel neerwaartse en links"
+        "default": "lijntekeningen dubbel neerwaarts en links"
       }
     }
   },
@@ -710,7 +710,7 @@
     "key": "2558",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse enkel en rechts dubbel"
+        "default": "lijntekeningen opwaarts enkel en rechts dubbel"
       }
     }
   },
@@ -718,7 +718,7 @@
     "key": "2559",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse dubbel en rechts enkel"
+        "default": "lijntekeningen opwaarts dubbel en rechts enkel"
       }
     }
   },
@@ -726,7 +726,7 @@
     "key": "255A",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel opwaartse en rechts"
+        "default": "lijntekeningen dubbel opwaarts en rechts"
       }
     }
   },
@@ -734,7 +734,7 @@
     "key": "255B",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse enkel en links dubbel"
+        "default": "lijntekeningen opwaarts enkel en links dubbel"
       }
     }
   },
@@ -742,7 +742,7 @@
     "key": "255C",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse dubbel en links enkel"
+        "default": "lijntekeningen opwaarts dubbel en links enkel"
       }
     }
   },
@@ -750,7 +750,7 @@
     "key": "255D",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel opwaartse en links"
+        "default": "lijntekeningen dubbel opwaarts en links"
       }
     }
   },
@@ -758,7 +758,7 @@
     "key": "255E",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal enkel en rechts dubbel"
+        "default": "lijntekeningen verticaal enkel en rechts dubbel"
       }
     }
   },
@@ -766,7 +766,7 @@
     "key": "255F",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal dubbel en rechts enkel"
+        "default": "lijntekeningen verticaal dubbel en rechts enkel"
       }
     }
   },
@@ -774,7 +774,7 @@
     "key": "2560",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel vertikaal en rechts"
+        "default": "lijntekeningen dubbel verticaal en rechts"
       }
     }
   },
@@ -782,7 +782,7 @@
     "key": "2561",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal enkel en links dubbel"
+        "default": "lijntekeningen verticaal enkel en links dubbel"
       }
     }
   },
@@ -790,7 +790,7 @@
     "key": "2562",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal dubbel en links enkel"
+        "default": "lijntekeningen verticaal dubbel en links enkel"
       }
     }
   },
@@ -798,7 +798,7 @@
     "key": "2563",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel vertikaal en links"
+        "default": "lijntekeningen dubbel verticaal en links"
       }
     }
   },
@@ -806,7 +806,7 @@
     "key": "2564",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse enkel en horizontaal dubbel"
+        "default": "lijntekeningen neerwaarts enkel en horizontaal dubbel"
       }
     }
   },
@@ -814,7 +814,7 @@
     "key": "2565",
     "mappings": {
       "default": {
-        "default": "bokstekeninge neerwaartse dubbel en horizontaal enkel"
+        "default": "lijntekeningen neerwaarts dubbel en horizontaal enkel"
       }
     }
   },
@@ -822,7 +822,7 @@
     "key": "2566",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel neerwaartse en horizontaal"
+        "default": "lijntekeningen dubbel neerwaarts en horizontaal"
       }
     }
   },
@@ -830,7 +830,7 @@
     "key": "2567",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse enkel en horizontaal dubbel"
+        "default": "lijntekeningen opwaarts enkel en horizontaal dubbel"
       }
     }
   },
@@ -838,7 +838,7 @@
     "key": "2568",
     "mappings": {
       "default": {
-        "default": "bokstekeninge opwaartse dubbel en horizontaal enkel"
+        "default": "lijntekeningen opwaarts dubbel en horizontaal enkel"
       }
     }
   },
@@ -846,7 +846,7 @@
     "key": "2569",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel opwaartse en horizontaal"
+        "default": "lijntekeningen dubbel opwaarts en horizontaal"
       }
     }
   },
@@ -854,7 +854,7 @@
     "key": "256A",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal enkel en horizontaal dubbel"
+        "default": "lijntekeningen verticaal enkel en horizontaal dubbel"
       }
     }
   },
@@ -862,7 +862,7 @@
     "key": "256B",
     "mappings": {
       "default": {
-        "default": "bokstekeninge vertikaal dubbel en horizontaal enkel"
+        "default": "lijntekeningen verticaal dubbel en horizontaal enkel"
       }
     }
   },
@@ -870,7 +870,7 @@
     "key": "256C",
     "mappings": {
       "default": {
-        "default": "bokstekeninge dubbel vertikaal en horizontaal"
+        "default": "lijntekeningen dubbel verticaal en horizontaal"
       }
     }
   },
@@ -878,7 +878,7 @@
     "key": "256D",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig boog  neerwaartse en rechts"
+        "default": "lijntekeningen licht boog neerwaarts en rechts"
       }
     }
   },
@@ -886,7 +886,7 @@
     "key": "256E",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig boog neerwaartse en links"
+        "default": "lijntekeningen licht boog neerwaarts en links"
       }
     }
   },
@@ -894,7 +894,7 @@
     "key": "256F",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig boog opwaartse en links"
+        "default": "lijntekeningen licht boog opwaarts en links"
       }
     }
   },
@@ -902,7 +902,7 @@
     "key": "2570",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig boog opwaartse en rechts"
+        "default": "lijntekeningen licht boog opwaarts en rechts"
       }
     }
   },
@@ -910,7 +910,7 @@
     "key": "2571",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig diagonaal boven rechts na onder links"
+        "default": "lijntekeningen licht diagonaal boven rechts naar onder links"
       }
     }
   },
@@ -918,7 +918,7 @@
     "key": "2572",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig diagonaal boven links na onder rechts"
+        "default": "lijntekeningen licht diagonaal boven links naar onder rechts"
       }
     }
   },
@@ -926,7 +926,7 @@
     "key": "2573",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig diagonale kruis"
+        "default": "lijntekeningen licht diagonale kruis"
       }
     }
   },
@@ -934,7 +934,7 @@
     "key": "2574",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig links"
+        "default": "lijntekeningen licht links"
       }
     }
   },
@@ -942,7 +942,7 @@
     "key": "2575",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig op"
+        "default": "lijntekeningen licht op"
       }
     }
   },
@@ -950,7 +950,7 @@
     "key": "2576",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig rechts"
+        "default": "lijntekeningen licht rechts"
       }
     }
   },
@@ -958,7 +958,7 @@
     "key": "2577",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig af"
+        "default": "lijntekeningen licht af"
       }
     }
   },
@@ -966,7 +966,7 @@
     "key": "2578",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware links"
+        "default": "lijntekeningen zwaar links"
       }
     }
   },
@@ -974,7 +974,7 @@
     "key": "2579",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware op"
+        "default": "lijntekeningen zwaar op"
       }
     }
   },
@@ -982,7 +982,7 @@
     "key": "257A",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware rechts"
+        "default": "lijntekeningen zwaar rechts"
       }
     }
   },
@@ -990,7 +990,7 @@
     "key": "257B",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware af"
+        "default": "lijntekeningen zwaar af"
       }
     }
   },
@@ -998,7 +998,7 @@
     "key": "257C",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig links en zware rechts"
+        "default": "lijntekeningen licht links en zwaar rechts"
       }
     }
   },
@@ -1006,7 +1006,7 @@
     "key": "257D",
     "mappings": {
       "default": {
-        "default": "bokstekeninge lig opwaartse en zware af"
+        "default": "lijntekeningen licht opwaarts en zwaar af"
       }
     }
   },
@@ -1014,7 +1014,7 @@
     "key": "257E",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware links en lig rechts"
+        "default": "lijntekeningen zwaar links en licht rechts"
       }
     }
   },
@@ -1022,7 +1022,7 @@
     "key": "257F",
     "mappings": {
       "default": {
-        "default": "bokstekeninge zware opwaartse en lig af"
+        "default": "lijntekeningen zwaar opwaarts en licht af"
       }
     }
   },
@@ -1342,7 +1342,7 @@
     "key": "25A7",
     "mappings": {
       "default": {
-        "default": "vierkant met boven links na onder rechts vul"
+        "default": "vierkant met boven links naar onder rechts vul"
       }
     }
   },
@@ -1350,7 +1350,7 @@
     "key": "25A8",
     "mappings": {
       "default": {
-        "default": "vierkant met boven rechts na onder links vul"
+        "default": "vierkant met boven rechts naar onder links vul"
       }
     }
   },
@@ -1382,7 +1382,7 @@
     "key": "25AC",
     "mappings": {
       "default": {
-        "default": "zwart reghoek"
+        "default": "zwarte rechthoek"
       }
     }
   },
@@ -1390,7 +1390,7 @@
     "key": "25AD",
     "mappings": {
       "default": {
-        "default": "wit reghoek"
+        "default": "witte rechthoek"
       }
     }
   },
@@ -1398,7 +1398,7 @@
     "key": "25AE",
     "mappings": {
       "default": {
-        "default": "zwart verticale reghoek"
+        "default": "zwarte verticale rechthoek"
       }
     }
   },
@@ -1406,7 +1406,7 @@
     "key": "25AF",
     "mappings": {
       "default": {
-        "default": "wit verticale reghoek"
+        "default": "witte verticale rechthoek"
       }
     }
   },
@@ -1430,7 +1430,7 @@
     "key": "25B2",
     "mappings": {
       "default": {
-        "default": "zwart opwaarts gerichte driehoek"
+        "default": "zwarte opwaarts gerichte driehoek"
       }
     }
   },
@@ -1438,7 +1438,7 @@
     "key": "25B3",
     "mappings": {
       "default": {
-        "default": "wit opwaarts gerichte driehoek"
+        "default": "witte opwaarts gerichte driehoek"
       }
     }
   },
@@ -1446,7 +1446,7 @@
     "key": "25B4",
     "mappings": {
       "default": {
-        "default": "zwart klein opwaarts gerichte driehoek"
+        "default": "zwarte kleine opwaarts gerichte driehoek"
       }
     }
   },
@@ -1454,7 +1454,7 @@
     "key": "25B5",
     "mappings": {
       "default": {
-        "default": "wit klein opwaarts gerichte driehoek"
+        "default": "witte kleine opwaarts gerichte driehoek"
       }
     }
   },
@@ -1462,7 +1462,7 @@
     "key": "25B6",
     "mappings": {
       "default": {
-        "default": "zwart driehoek die rechts wys"
+        "default": "zwarte driehoek die rechts wijst"
       }
     }
   },
@@ -1470,7 +1470,7 @@
     "key": "25B7",
     "mappings": {
       "default": {
-        "default": "wit driehoek die rechts wys"
+        "default": "witte driehoek die rechts wijst"
       }
     }
   },
@@ -1478,7 +1478,7 @@
     "key": "25B8",
     "mappings": {
       "default": {
-        "default": "zwart klein driehoek die rechts wys"
+        "default": "zwarte kleine driehoek die rechts wijst"
       }
     }
   },
@@ -1486,7 +1486,7 @@
     "key": "25B9",
     "mappings": {
       "default": {
-        "default": "wit klein driehoek die rechts wys"
+        "default": "witte kleine driehoek die rechts wijst"
       }
     }
   },
@@ -1494,7 +1494,7 @@
     "key": "25BA",
     "mappings": {
       "default": {
-        "default": "zwart wijzer na rechts"
+        "default": "zwarte wijzer naar rechts"
       }
     }
   },
@@ -1502,7 +1502,7 @@
     "key": "25BB",
     "mappings": {
       "default": {
-        "default": "wit wijzer na rechts"
+        "default": "witte wijzer naar rechts"
       }
     }
   },
@@ -1510,7 +1510,7 @@
     "key": "25BC",
     "mappings": {
       "default": {
-        "default": "zwart driehoek die ondertoe wys"
+        "default": "zwarte driehoek die naar onder wijst"
       }
     }
   },
@@ -1518,7 +1518,7 @@
     "key": "25BD",
     "mappings": {
       "default": {
-        "default": "wit driehoek die ondertoe wys"
+        "default": "witte driehoek die naar onder wijst"
       }
     }
   },
@@ -1526,7 +1526,7 @@
     "key": "25BE",
     "mappings": {
       "default": {
-        "default": "zwart klein driehoek die ondertoe wys"
+        "default": "zwarte kleine driehoek die naar onder wijst"
       }
     }
   },
@@ -1534,7 +1534,7 @@
     "key": "25BF",
     "mappings": {
       "default": {
-        "default": "wit klein driehoek die ondertoe wys"
+        "default": "witte kleine driehoek die naar onder wijst"
       }
     }
   },
@@ -1542,7 +1542,7 @@
     "key": "25C0",
     "mappings": {
       "default": {
-        "default": "zwart driehoek die links wys"
+        "default": "zwarte driehoek die links wijst"
       }
     }
   },
@@ -1550,7 +1550,7 @@
     "key": "25C1",
     "mappings": {
       "default": {
-        "default": "wit driehoek die links wys"
+        "default": "witte driehoek die links wijst"
       }
     }
   },
@@ -1558,7 +1558,7 @@
     "key": "25C2",
     "mappings": {
       "default": {
-        "default": "zwart klein driehoek die links wys"
+        "default": "zwarte kleine driehoek die links wijst"
       }
     }
   },
@@ -1566,7 +1566,7 @@
     "key": "25C3",
     "mappings": {
       "default": {
-        "default": "wit klein driehoek die links wys"
+        "default": "witte kleine driehoek die links wijst"
       }
     }
   },
@@ -1574,7 +1574,7 @@
     "key": "25C4",
     "mappings": {
       "default": {
-        "default": "zwart wijzer na links"
+        "default": "zwarte wijzer naar links"
       }
     }
   },
@@ -1582,7 +1582,7 @@
     "key": "25C5",
     "mappings": {
       "default": {
-        "default": "wit wijzer na links"
+        "default": "witte wijzer naar links"
       }
     }
   },
@@ -1590,7 +1590,7 @@
     "key": "25C6",
     "mappings": {
       "default": {
-        "default": "zwart diamant"
+        "default": "zwarte diamant"
       }
     }
   },
@@ -1598,7 +1598,7 @@
     "key": "25C7",
     "mappings": {
       "default": {
-        "default": "wit diamant"
+        "default": "witte diamant"
       }
     }
   },
@@ -1606,7 +1606,7 @@
     "key": "25C8",
     "mappings": {
       "default": {
-        "default": "wit diamant met klein zwart diamant in"
+        "default": "witte diamant met kleine zwarte diamant in"
       }
     }
   },
@@ -1630,7 +1630,7 @@
     "key": "25CB",
     "mappings": {
       "default": {
-        "default": "wit cirkel"
+        "default": "witte cirkel"
       }
     }
   },
@@ -1662,7 +1662,7 @@
     "key": "25CF",
     "mappings": {
       "default": {
-        "default": "zwart cirkel"
+        "default": "zwarte cirkel"
       }
     }
   },
@@ -1718,7 +1718,7 @@
     "key": "25D6",
     "mappings": {
       "default": {
-        "default": "linker half zwart cirkel"
+        "default": "linker half zwarte cirkel"
       }
     }
   },
@@ -1726,7 +1726,7 @@
     "key": "25D7",
     "mappings": {
       "default": {
-        "default": "rechter half zwart cirkel"
+        "default": "rechter half zwarte cirkel"
       }
     }
   },
@@ -1742,7 +1742,7 @@
     "key": "25D9",
     "mappings": {
       "default": {
-        "default": "omgekeerde wit cirkel"
+        "default": "omgekeerde witte cirkel"
       }
     }
   },
@@ -1750,7 +1750,7 @@
     "key": "25DA",
     "mappings": {
       "default": {
-        "default": "bovenste helft omgekeerde wit cirkel"
+        "default": "bovenste helft omgekeerde witte cirkel"
       }
     }
   },
@@ -1758,7 +1758,7 @@
     "key": "25DB",
     "mappings": {
       "default": {
-        "default": "onderste helft omgekeerde wit cirkel"
+        "default": "onderste helft omgekeerde witte cirkel"
       }
     }
   },
@@ -1814,7 +1814,7 @@
     "key": "25E2",
     "mappings": {
       "default": {
-        "default": "zwart onderste rechts driehoek"
+        "default": "zwarte onderste rechts driehoek"
       }
     }
   },
@@ -1822,7 +1822,7 @@
     "key": "25E3",
     "mappings": {
       "default": {
-        "default": "zwart onderste links driehoek"
+        "default": "zwarte onderste links driehoek"
       }
     }
   },
@@ -1830,7 +1830,7 @@
     "key": "25E4",
     "mappings": {
       "default": {
-        "default": "zwart bovenste links driehoek"
+        "default": "zwarte bovenste links driehoek"
       }
     }
   },
@@ -1838,7 +1838,7 @@
     "key": "25E5",
     "mappings": {
       "default": {
-        "default": "zwart bovenste rechts driehoek"
+        "default": "zwarte bovenste rechts driehoek"
       }
     }
   },
@@ -1846,7 +1846,7 @@
     "key": "25E6",
     "mappings": {
       "default": {
-        "default": "wit koeël"
+        "default": "witte koeël"
       }
     }
   },
@@ -1894,7 +1894,7 @@
     "key": "25EC",
     "mappings": {
       "default": {
-        "default": "wit opwaarts gerichte driehoek met punt"
+        "default": "witte opwaarts gerichte driehoek met punt"
       }
     }
   },
@@ -1918,7 +1918,7 @@
     "key": "25EF",
     "mappings": {
       "default": {
-        "default": "groot cirkel"
+        "default": "grote cirkel"
       }
     }
   },
@@ -1958,7 +1958,7 @@
     "key": "25F4",
     "mappings": {
       "default": {
-        "default": "wit cirkel met bovenste linker kwadrant"
+        "default": "witte cirkel met bovenste linker kwadrant"
       }
     }
   },
@@ -1966,7 +1966,7 @@
     "key": "25F5",
     "mappings": {
       "default": {
-        "default": "wit cirkel met onderste linker kwadrant"
+        "default": "witte cirkel met onderste linker kwadrant"
       }
     }
   },
@@ -1974,7 +1974,7 @@
     "key": "25F6",
     "mappings": {
       "default": {
-        "default": "wit cirkel met onderste rechter kwadrant"
+        "default": "witte cirkel met onderste rechter kwadrant"
       }
     }
   },
@@ -1982,7 +1982,7 @@
     "key": "25F7",
     "mappings": {
       "default": {
-        "default": "wit cirkel met bovenste rechter kwadrant"
+        "default": "witte cirkel met bovenste rechter kwadrant"
       }
     }
   },
@@ -2198,7 +2198,7 @@
     "key": "2B24",
     "mappings": {
       "default": {
-        "default": "zwart groot cirkel"
+        "default": "zwarte grote cirkel"
       }
     }
   },
@@ -2206,7 +2206,7 @@
     "key": "2B25",
     "mappings": {
       "default": {
-        "default": "zwart medium diamant"
+        "default": "zwarte medium diamant"
       }
     }
   },
@@ -2214,7 +2214,7 @@
     "key": "2B26",
     "mappings": {
       "default": {
-        "default": "wit medium diamant"
+        "default": "witte medium diamant"
       }
     }
   },
@@ -2222,7 +2222,7 @@
     "key": "2B27",
     "mappings": {
       "default": {
-        "default": "zwart medium lozenge"
+        "default": "zwarte medium lozenge"
       }
     }
   },
@@ -2230,7 +2230,7 @@
     "key": "2B28",
     "mappings": {
       "default": {
-        "default": "wit medium lozenge"
+        "default": "witte medium lozenge"
       }
     }
   },
@@ -2238,7 +2238,7 @@
     "key": "2B29",
     "mappings": {
       "default": {
-        "default": "zwart klein diamant"
+        "default": "zwarte kleine diamant"
       }
     }
   },
@@ -2246,7 +2246,7 @@
     "key": "2B2A",
     "mappings": {
       "default": {
-        "default": "zwart klein lozenge"
+        "default": "zwarte kleine lozenge"
       }
     }
   },
@@ -2254,7 +2254,7 @@
     "key": "2B2B",
     "mappings": {
       "default": {
-        "default": "wit klein lozenge"
+        "default": "witte kleine lozenge"
       }
     }
   },
@@ -2262,7 +2262,7 @@
     "key": "2B2C",
     "mappings": {
       "default": {
-        "default": "zwart horizontale ellips"
+        "default": "zwarte horizontale ellips"
       }
     }
   },
@@ -2270,7 +2270,7 @@
     "key": "2B2D",
     "mappings": {
       "default": {
-        "default": "wit horizontale ellips"
+        "default": "witte horizontale ellips"
       }
     }
   },
@@ -2278,7 +2278,7 @@
     "key": "2B2E",
     "mappings": {
       "default": {
-        "default": "zwart verticale ellips"
+        "default": "zwarte verticale ellips"
       }
     }
   },
@@ -2286,7 +2286,7 @@
     "key": "2B2F",
     "mappings": {
       "default": {
-        "default": "wit verticale ellips"
+        "default": "witte verticale ellips"
       }
     }
   },
@@ -2294,7 +2294,7 @@
     "key": "2B50",
     "mappings": {
       "default": {
-        "default": "wit medium ster"
+        "default": "witte medium ster"
       }
     }
   },
@@ -2302,7 +2302,7 @@
     "key": "2B51",
     "mappings": {
       "default": {
-        "default": "zwart klein ster"
+        "default": "zwarte kleine ster"
       }
     }
   },
@@ -2310,7 +2310,7 @@
     "key": "2B52",
     "mappings": {
       "default": {
-        "default": "wit klein ster"
+        "default": "witte kleine ster"
       }
     }
   },
@@ -2318,7 +2318,7 @@
     "key": "2B53",
     "mappings": {
       "default": {
-        "default": "zwart pentagon na rechts"
+        "default": "zwart pentagon naar rechts"
       }
     }
   },
@@ -2326,7 +2326,7 @@
     "key": "2B54",
     "mappings": {
       "default": {
-        "default": "wit pentagon na rechts"
+        "default": "wit pentagon naar rechts"
       }
     }
   },
@@ -2334,7 +2334,7 @@
     "key": "2B55",
     "mappings": {
       "default": {
-        "default": "zware groot cirkel"
+        "default": "zware grote cirkel"
       }
     }
   },

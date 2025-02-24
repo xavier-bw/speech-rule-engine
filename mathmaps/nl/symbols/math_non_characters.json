@@ -6,7 +6,7 @@
     "key": "210F",
     "mappings": {
       "default": {
-        "default": "kursief h oor twee pi",
+        "default": "cursief h over twee pi",
         "physics": "planck constant over two pi"
       }
     }
@@ -31,7 +31,7 @@
     "key": "2117",
     "mappings": {
       "default": {
-        "default": "klankopname kopiereg"
+        "default": "klankopname copyright"
       }
     }
   },
@@ -39,7 +39,7 @@
     "key": "211E",
     "mappings": {
       "default": {
-        "default": "voorskrif neem"
+        "default": "voorschrift neem"
       }
     }
   },
@@ -47,7 +47,7 @@
     "key": "211F",
     "mappings": {
       "default": {
-        "default": "terugvoer"
+        "default": "antwoord"
       }
     }
   },
@@ -55,7 +55,7 @@
     "key": "2120",
     "mappings": {
       "default": {
-        "default": "diensmerk"
+        "default": "dienstmerk"
       }
     }
   },
@@ -80,7 +80,7 @@
     "key": "2123",
     "mappings": {
       "default": {
-        "default": "versie"
+        "default": "versicle"
       }
     }
   },
@@ -128,7 +128,7 @@
     "key": "212E",
     "mappings": {
       "default": {
-        "default": "geskatte"
+        "default": "geschatte"
       }
     }
   },
@@ -136,7 +136,7 @@
     "key": "2132",
     "mappings": {
       "default": {
-        "default": "dwars hoofletter f"
+        "default": "dwarse hoofletter f"
       }
     }
   },
@@ -144,7 +144,7 @@
     "key": "2139",
     "mappings": {
       "default": {
-        "default": "inligtingsbron"
+        "default": "inlichtingsbron"
       }
     }
   },
@@ -152,7 +152,7 @@
     "key": "213A",
     "mappings": {
       "default": {
-        "default": "roeteerde hoofletter q"
+        "default": "geroteerde hoofletter q"
       }
     }
   },
@@ -160,7 +160,7 @@
     "key": "213B",
     "mappings": {
       "default": {
-        "default": "faksimilieteken"
+        "default": "facsimile teken"
       }
     }
   },
@@ -168,7 +168,7 @@
     "key": "2141",
     "mappings": {
       "default": {
-        "default": "dwars sansskrif hoofletter g"
+        "default": "dwarse sans serif hoofletter g"
       }
     }
   },
@@ -176,7 +176,7 @@
     "key": "2142",
     "mappings": {
       "default": {
-        "default": "dwars sansskrif hoofletter l"
+        "default": "dwarse sans serif hoofletter l"
       }
     }
   },
@@ -184,7 +184,7 @@
     "key": "2143",
     "mappings": {
       "default": {
-        "default": "agterstevoor sanskrif hoofletter l"
+        "default": "archterstevoren sans serif hoofletter l"
       }
     }
   },
@@ -192,7 +192,7 @@
     "key": "2144",
     "mappings": {
       "default": {
-        "default": "dwars sansskrif hoofletter y"
+        "default": "dwarse sans serif hoofletter y"
       }
     }
   }

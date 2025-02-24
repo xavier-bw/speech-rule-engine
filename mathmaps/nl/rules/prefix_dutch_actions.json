@@ -4,106 +4,42 @@
   "domain": "default",
   "kind": "actions",
   "rules": [
-    [
-      "Action",
-      "numerator",
-      "[t] \"teller\" (pause:200)"
-    ],
-    [
-      "Action",
-      "denominator",
-      "[t] \"noemer\" (pause:200)"
-    ],
-    [
-      "Action",
-      "base",
-      "[t] \"Basis\" (pause:200)"
-    ],
-    [
-      "Action",
-      "exponent",
-      "[t] \"Eksponent\" (pause:200)"
-    ],
-    [
-      "Action",
-      "subscript",
-      "[t] \"indeks\" (pause:200)"
-    ],
-    [
-      "Action",
-      "overscript",
-      "[t] \"boskrif\" (pause:200)"
-    ],
-    [
-      "Action",
-      "underscript",
-      "[t] \"Onderskrif\" (pause:200)"
-    ],
-    [
-      "Action",
-      "radicand",
-      "[t] \"Radikant\" (pause:200)"
-    ],
-    [
-      "Action",
-      "index",
-      "[t] \"Indeks\" (pause:200)"
-    ],
-    [
-      "Action",
-      "leftsub",
-      "[t] \"Linker Onderskrif\" (pause:200)"
-    ],
+    ["Action", "numerator", "[t] \"teller\" (pause:200)"],
+    ["Action", "denominator", "[t] \"noemer\" (pause:200)"],
+    ["Action", "base", "[t] \"Basis\" (pause:200)"],
+    ["Action", "exponent", "[t] \"Eksponent\" (pause:200)"],
+    ["Action", "subscript", "[t] \"index\" (pause:200)"],
+    ["Action", "overscript", "[t] \"bovenschrift\" (pause:200)"],
+    ["Action", "underscript", "[t] \"Subscript\" (pause:200)"],
+    ["Action", "radicand", "[t] \"Radikant\" (pause:200)"],
+    ["Action", "index", "[t] \"index\" (pause:200)"],
+    ["Action", "leftsub", "[t] \"Linker Subscript\" (pause:200)"],
     [
       "Action",
       "leftsub-counted",
-      "[t] CSFordinalPosition; [t] \"Linker Onderskrif\" (pause:200)"
+      "[t] CSFordinalPosition; [t] \"Linker Subscript\" (pause:200)"
     ],
-    [
-      "Action",
-      "leftsuper",
-      "[t] \"Linker Boskrif\" (pause:200)"
-    ],
+    ["Action", "leftsuper", "[t] \"Linker bovenschrift\" (pause:200)"],
     [
       "Action",
       "leftsuper-counted",
-      "[t] CSFordinalPosition; [t] \"Linker Boskrif\" (pause:200)"
+      "[t] CSFordinalPosition; [t] \"Linker bovenschrift\" (pause:200)"
     ],
-    [
-      "Action",
-      "rightsub",
-      "[t] \"Regter Onderskrif\" (pause:200)"
-    ],
+    ["Action", "rightsub", "[t] \"Rechter Subscript\" (pause:200)"],
     [
       "Action",
       "rightsub-counted",
-      "[t] CSFordinalPosition; [t] \"Regter Onderskrif\" (pause:200)"
+      "[t] CSFordinalPosition; [t] \"Rechter Subscript\" (pause:200)"
     ],
-    [
-      "Action",
-      "rightsuper",
-      "[t] \"Regter Boskrif\" (pause:200)"
-    ],
+    ["Action", "rightsuper", "[t] \"Rechter bovenschrift\" (pause:200)"],
     [
       "Action",
       "rightsuper-counted",
-      "[t] CSFordinalPosition; [t] \"Regter Boskrif\" (pause:200)"
+      "[t] CSFordinalPosition; [t] \"Rechter bovenschrift\" (pause:200)"
     ],
-    [
-      "Action",
-      "choice",
-      "[t] \"Beskikbare Hoeveelheid\" (pause:200)"
-    ],
-    [
-      "Action",
-      "select",
-      "[t] \"Gekose Hoeveelheid\" (pause:200)"
-    ],
-    [
-      "Action",
-      "row",
-      "[t] CSFordinalPosition; [t] \"Ry\" (pause:200)"
-    ],
+    ["Action", "choice", "[t] \"Beschikbare Hoeveelheid\" (pause:200)"],
+    ["Action", "select", "[t] \"Gekozen Hoeveelheid\" (pause:200)"],
+    ["Action", "row", "[t] CSFordinalPosition; [t] \"Ry\" (pause:200)"],
     [
       "Action",
       "cell",

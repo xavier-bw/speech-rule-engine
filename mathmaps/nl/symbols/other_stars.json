@@ -6,7 +6,7 @@
     "key": "23E8",
     "mappings": {
       "default": {
-        "default": "desimale eksponent"
+        "default": "decimaal exponent symbool"
       }
     }
   },
@@ -14,7 +14,7 @@
     "key": "2605",
     "mappings": {
       "default": {
-        "default": "zwart ster"
+        "default": "zwarte ster"
       }
     }
   },
@@ -22,7 +22,7 @@
     "key": "2606",
     "mappings": {
       "default": {
-        "default": "wit ster"
+        "default": "witte ster"
       }
     }
   },
@@ -30,7 +30,7 @@
     "key": "26AA",
     "mappings": {
       "default": {
-        "default": "wit cirkel"
+        "default": "witte cirkel"
       }
     }
   },
@@ -38,7 +38,7 @@
     "key": "26AB",
     "mappings": {
       "default": {
-        "default": "zwart cirkel"
+        "default": "zwarte cirkel"
       }
     }
   },
@@ -46,7 +46,7 @@
     "key": "2705",
     "mappings": {
       "default": {
-        "default": "wit reg merk"
+        "default": "wit zwaar vinkje"
       }
     }
   },
@@ -54,7 +54,7 @@
     "key": "2713",
     "mappings": {
       "default": {
-        "default": "reg merk"
+        "default": "vinkje"
       }
     }
   },
@@ -62,7 +62,7 @@
     "key": "2714",
     "mappings": {
       "default": {
-        "default": "zware reg merk"
+        "default": "zwaar vinkje"
       }
     }
   },
@@ -86,7 +86,7 @@
     "key": "2717",
     "mappings": {
       "default": {
-        "default": "ballot x"
+        "default": "stemming x"
       }
     }
   },
@@ -94,7 +94,7 @@
     "key": "2718",
     "mappings": {
       "default": {
-        "default": "heavy ballot x"
+        "default": "zware stemming x"
       }
     }
   },
@@ -102,7 +102,7 @@
     "key": "271B",
     "mappings": {
       "default": {
-        "default": "open middelkruis"
+        "default": "open midden kruis"
       }
     }
   },
@@ -110,7 +110,7 @@
     "key": "271C",
     "mappings": {
       "default": {
-        "default": "zware open middelkruis"
+        "default": "zware open midden kruis"
       }
     }
   },
@@ -118,7 +118,7 @@
     "key": "2720",
     "mappings": {
       "default": {
-        "default": "maltese kruis"
+        "default": "maltees kruis"
       }
     }
   },
@@ -134,7 +134,7 @@
     "key": "2722",
     "mappings": {
       "default": {
-        "default": "vier traandruppel gespeekte asterisk"
+        "default": "vier traandruppel gespaakte asterisk"
       }
     }
   },
@@ -142,7 +142,7 @@
     "key": "2723",
     "mappings": {
       "default": {
-        "default": "vier ballon gespeekte asterisk"
+        "default": "vier ballon gespaakte asterisk"
       }
     }
   },
@@ -150,7 +150,7 @@
     "key": "2724",
     "mappings": {
       "default": {
-        "default": "zware vier ballon gespeekte asterisk"
+        "default": "zware vier ballon gespaakte asterisk"
       }
     }
   },
@@ -158,7 +158,7 @@
     "key": "2725",
     "mappings": {
       "default": {
-        "default": "vier klawer gespeekte asterisk"
+        "default": "vier klawer gespaakte asterisk"
       }
     }
   },
@@ -166,7 +166,7 @@
     "key": "2726",
     "mappings": {
       "default": {
-        "default": "zwart vierpuntige ster"
+        "default": "zwarte vierpuntige ster"
       }
     }
   },
@@ -174,7 +174,7 @@
     "key": "2727",
     "mappings": {
       "default": {
-        "default": "wit vierpuntige ster"
+        "default": "witte vierpuntige ster"
       }
     }
   },
@@ -182,7 +182,7 @@
     "key": "2728",
     "mappings": {
       "default": {
-        "default": "vonkels"
+        "default": "fonkels"
       }
     }
   },
@@ -190,7 +190,7 @@
     "key": "2729",
     "mappings": {
       "default": {
-        "default": "stres buitenlijn wit ster"
+        "default": "zware buitenlijn witte ster"
       }
     }
   },
@@ -198,7 +198,7 @@
     "key": "272A",
     "mappings": {
       "default": {
-        "default": "omkringde wit ster"
+        "default": "omkringde witte ster"
       }
     }
   },
@@ -206,7 +206,7 @@
     "key": "272B",
     "mappings": {
       "default": {
-        "default": "open middel zwart ster"
+        "default": "open midden zwarte ster"
       }
     }
   },
@@ -214,7 +214,7 @@
     "key": "272C",
     "mappings": {
       "default": {
-        "default": "zwart middel, wit ster"
+        "default": "zwart midden, witte ster"
       }
     }
   },
@@ -222,7 +222,7 @@
     "key": "272D",
     "mappings": {
       "default": {
-        "default": "buitenlijn zwart ster"
+        "default": "buitenlijn zwarte ster"
       }
     }
   },
@@ -238,7 +238,7 @@
     "key": "272F",
     "mappings": {
       "default": {
-        "default": "bolletjie ster"
+        "default": "pinwheel ster"
       }
     }
   },
@@ -246,7 +246,7 @@
     "key": "2730",
     "mappings": {
       "default": {
-        "default": "geskakeerde wit ster"
+        "default": "witte ster met schaduw"
       }
     }
   },
@@ -262,7 +262,7 @@
     "key": "2732",
     "mappings": {
       "default": {
-        "default": "open middel asterisk"
+        "default": "open midden asterisk"
       }
     }
   },
@@ -270,7 +270,7 @@
     "key": "2733",
     "mappings": {
       "default": {
-        "default": "agtspekige asterisk"
+        "default": "achtspakige asterisk"
       }
     }
   },
@@ -278,7 +278,7 @@
     "key": "2734",
     "mappings": {
       "default": {
-        "default": "achtpuntige zwart ster"
+        "default": "achtpuntige zwarte ster"
       }
     }
   },
@@ -286,7 +286,7 @@
     "key": "2735",
     "mappings": {
       "default": {
-        "default": "achtpuntige bolletjie ster"
+        "default": "achtpuntige pinwheel ster"
       }
     }
   },
@@ -294,7 +294,7 @@
     "key": "2736",
     "mappings": {
       "default": {
-        "default": "zespuntige zwart ster"
+        "default": "zespuntige zwarte ster"
       }
     }
   },
@@ -302,7 +302,7 @@
     "key": "2739",
     "mappings": {
       "default": {
-        "default": "twaalfpuntige zwart ster"
+        "default": "twaalfpuntige zwarte ster"
       }
     }
   },
@@ -310,7 +310,7 @@
     "key": "273A",
     "mappings": {
       "default": {
-        "default": "sestienpuntige asterisk"
+        "default": "zestienpuntige asterisk"
       }
     }
   },
@@ -318,7 +318,7 @@
     "key": "273B",
     "mappings": {
       "default": {
-        "default": "traandruppel gespeekte ster"
+        "default": "traandruppel gespaakte ster"
       }
     }
   },
@@ -326,7 +326,7 @@
     "key": "273C",
     "mappings": {
       "default": {
-        "default": "open middel traandruppel gespeekte ster"
+        "default": "open midden traandruppel gespaakte ster"
       }
     }
   },
@@ -334,7 +334,7 @@
     "key": "273D",
     "mappings": {
       "default": {
-        "default": "zware traandruppel gespeekte ster"
+        "default": "zware traandruppel gespaakte ster"
       }
     }
   },
@@ -342,7 +342,7 @@
     "key": "273E",
     "mappings": {
       "default": {
-        "default": "zesbladige zwart en wit floret"
+        "default": "zesbladige zwart en witte floret"
       }
     }
   },
@@ -350,7 +350,7 @@
     "key": "273F",
     "mappings": {
       "default": {
-        "default": "zwart floret"
+        "default": "zwarte floret"
       }
     }
   },
@@ -358,7 +358,7 @@
     "key": "2740",
     "mappings": {
       "default": {
-        "default": "wit floret"
+        "default": "witte floret"
       }
     }
   },
@@ -366,7 +366,7 @@
     "key": "2741",
     "mappings": {
       "default": {
-        "default": "achtbladige buitenlijn zwart floret"
+        "default": "achtbladige buitenlijn zwarte floret"
       }
     }
   },
@@ -374,7 +374,7 @@
     "key": "2742",
     "mappings": {
       "default": {
-        "default": "omkringde achtpuntige ster met lee middel"
+        "default": "omkringde achtpuntige ster met leeg midden"
       }
     }
   },
@@ -382,7 +382,7 @@
     "key": "2743",
     "mappings": {
       "default": {
-        "default": "zware traandruppel gespeekte bolletjiester"
+        "default": "zware traandruppel gespaakte pinwheel ster"
       }
     }
   },
@@ -398,7 +398,7 @@
     "key": "2745",
     "mappings": {
       "default": {
-        "default": "kompakte drieblarige sneeuwvlokje"
+        "default": "compact driebladig sneeuwvlokje"
       }
     }
   },
@@ -414,7 +414,7 @@
     "key": "2747",
     "mappings": {
       "default": {
-        "default": "vonkel"
+        "default": "fonkel"
       }
     }
   },
@@ -422,7 +422,7 @@
     "key": "2748",
     "mappings": {
       "default": {
-        "default": "zware vonkel"
+        "default": "zware fonkel"
       }
     }
   },
@@ -430,7 +430,7 @@
     "key": "2749",
     "mappings": {
       "default": {
-        "default": "ballon gespeekte ster"
+        "default": "ballon gespaakte ster"
       }
     }
   },
@@ -438,7 +438,7 @@
     "key": "274A",
     "mappings": {
       "default": {
-        "default": "agt traandruppel gespeekte propeller ster"
+        "default": "acht traandruppel gespaakte propeller asterisk"
       }
     }
   },
@@ -446,7 +446,7 @@
     "key": "274B",
     "mappings": {
       "default": {
-        "default": "zware acht traandruppel gespeekte propeller ster"
+        "default": "zware acht traandruppel gespaakte propeller asterisk"
       }
     }
   },
@@ -454,7 +454,7 @@
     "key": "274C",
     "mappings": {
       "default": {
-        "default": "kruismerk"
+        "default": "kruis merk"
       }
     }
   },
@@ -462,7 +462,7 @@
     "key": "274D",
     "mappings": {
       "default": {
-        "default": "geskakeerde wit cirkel"
+        "default": "witte cirkel met schaduw"
       }
     }
   }
