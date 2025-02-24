@@ -6,8 +6,8 @@
     "key": "doz",
     "mappings": {
       "default": {
-        "default": "dosyn",
-        "plural": "dosyn"
+        "default": "dozijn",
+        "plural": "dozijn"
       }
     }
   }
