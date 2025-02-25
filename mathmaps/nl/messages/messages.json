@@ -3,11 +3,11 @@
   "locale": "nl",
   "messages": {
     "MS": {
-      "START": "Begin",
+      "START": "Begin ",
       "FRAC_V": "Breuk",
       "FRAC_B": "Breuk",
       "FRAC_S": "Breuk",
-      "END": "Einde",
+      "END": "Einde ",
       "FRAC_OVER": "Over",
       "TWICE": "Twee keer",
       "NEST_FRAC": "genest",

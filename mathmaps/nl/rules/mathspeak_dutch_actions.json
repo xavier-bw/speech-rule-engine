@@ -162,7 +162,7 @@
     [
       "Action",
       "overscore-brief",
-      "[t] \"pas aan boven; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
+      "[t] \"pas aan boven\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
     ],
     [
       "Action",
@@ -172,7 +172,7 @@
     [
       "Action",
       "double-overscore-brief",
-      "[t] \"Pas aan dubbel boven; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
+      "[t] \"Pas aan dubbel boven\"; [n] children/*[1]; [t] \"met\"; [n] children/*[2]"
     ],
     [
       "Action",
